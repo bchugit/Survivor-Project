@@ -3411,64 +3411,73 @@ ag129
 ag129
 ag129
 ag129
-ag319
-ag319
-ag319
 aV Joe
 p1282
-aV Joe
+aV Tasha
 p1283
 aV Joe
 p1284
 aV Joe
 p1285
-aV Abi-Maria
+aV Joe
 p1286
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Abi-Maria
+aV Joe
 p1287
-aV Abi-Maria
+aV Joe
 p1288
 aV Abi-Maria
 p1289
-aV Keith
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Abi-Maria
 p1290
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV TBA
+aV Tasha
 p1291
-aV TBA
+aV Tasha
 p1292
-aV TBA
+aV Abi-Maria
 p1293
+aV Abi-Maria
+p1294
+aV Abi-Maria
+p1295
+aV Keith
+p1296
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV TBA
+p1297
+aV TBA
+p1298
+aV TBA
+p1299
+aV TBA
+p1300
+aV TBA
+p1301
+aV TBA
+p1302
 ag129
 ag129
 ag129
@@ -3483,25 +3492,25 @@ ag129
 ag129
 ag129
 ag129
-atp1294
-ba(lp1295
+atp1303
+ba(lp1304
 g21
 (g22
-(dp1296
+(dp1305
 g24
 g25
 (g26
 (I0
-tp1297
+tp1306
 g28
-tp1298
-Rp1299
+tp1307
+Rp1308
 (I1
 (L16L
-tp1300
+tp1309
 g35
 I00
-(lp1301
+(lp1310
 g1050
 ag1051
 ag1052
@@ -3518,43 +3527,43 @@ ag1062
 ag1063
 ag1064
 ag1065
-atp1302
+atp1311
 bsg63
-Nstp1303
-Rp1304
-a(dp1305
+Nstp1312
+Rp1313
+a(dp1314
 g339
-(dp1306
+(dp1315
 g341
 g1043
 sg342
-(lp1307
-(dp1308
+(lp1316
+(dp1317
 g345
 g346
 (I0
 I16
 I1
-tp1309
-Rp1310
+tp1318
+Rp1319
 sg349
 g1104
-sasstp1311
+sasstp1320
 bsbsg351
 I31
 ssVBlood_vs._Water
-p1312
-(dp1313
+p1321
+(dp1322
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Blood_vs._Water
-p1314
+p1323
 sg5
 g6
 (g7
 g8
-Ntp1315
-Rp1316
-(dp1317
+Ntp1324
+Rp1325
+(dp1326
 g12
 g13
 sg14
@@ -3563,356 +3572,338 @@ sg16
 g6
 (g17
 g8
-Ntp1318
-Rp1319
-((lp1320
+Ntp1327
+Rp1328
+((lp1329
 g21
 (g22
-(dp1321
+(dp1330
 g24
 g25
 (g26
 (I0
-tp1322
+tp1331
 g28
-tp1323
-Rp1324
+tp1332
+Rp1333
 (I1
 (L25L
-tp1325
+tp1334
 g35
 I00
-(lp1326
+(lp1335
 VLaura B.
-p1327
-aVCandice
-p1328
-aVRupert
-p1329
-aVMarissa
-p1330
-aVRachel
-p1331
-aVColton
-p1332
-aVJohn
-p1333
-aVBrad
-p1334
-aVBrad
-p1335
-aVLaura M.
 p1336
-aVKat
+aVCandice
 p1337
-aVLaura B.
+aVRupert
 p1338
-aVAras
+aVMarissa
 p1339
-aVVytas
+aVRachel
 p1340
-aVTina
+aVColton
 p1341
-aVLaura M.
+aVJohn
 p1342
-aVCaleb
+aVBrad
 p1343
-aVKatie
+aVBrad
 p1344
-aVKatie
+aVLaura M.
 p1345
-aVHayden
+aVKat
 p1346
-aVCiera
+aVLaura B.
 p1347
-aVTina
+aVAras
 p1348
-aVGervase
+aVVytas
 p1349
-aVMonica
+aVTina
 p1350
-aVTyson
+aVLaura M.
 p1351
-atp1352
+aVCaleb
+p1352
+aVKatie
+p1353
+aVKatie
+p1354
+aVHayden
+p1355
+aVCiera
+p1356
+aVTina
+p1357
+aVGervase
+p1358
+aVMonica
+p1359
+aVTyson
+p1360
+atp1361
 bsg63
-Nstp1353
-Rp1354
+Nstp1362
+Rp1363
 ag21
 (g22
-(dp1355
+(dp1364
 g24
 g25
 (g26
 (I0
-tp1356
+tp1365
 g28
-tp1357
-Rp1358
+tp1366
+Rp1367
 (I1
 (L20L
-tp1359
+tp1368
 g35
 I00
-(lp1360
+(lp1369
 VTyson
-p1361
-aVMonica
-p1362
-aVGervase
-p1363
-aVTina
-p1364
-aVCiera
-p1365
-aVLaura M.
-p1366
-aVHayden
-p1367
-aVKatie
-p1368
-aVCaleb
-p1369
-aVVytas
 p1370
-aVAras
+aVMonica
 p1371
-aVLaura B.
+aVGervase
 p1372
-aVJohn
+aVTina
 p1373
-aVKat
+aVCiera
 p1374
-aVBrad
+aVLaura M.
 p1375
-aVCandice
+aVHayden
 p1376
-aVMarissa
+aVKatie
 p1377
-aVRachel
+aVCaleb
 p1378
-aVColton
+aVVytas
 p1379
-aVRupert
+aVAras
 p1380
-atp1381
+aVLaura B.
+p1381
+aVJohn
+p1382
+aVKat
+p1383
+aVBrad
+p1384
+aVCandice
+p1385
+aVMarissa
+p1386
+aVRachel
+p1387
+aVColton
+p1388
+aVRupert
+p1389
+atp1390
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p1382
-tp1383
-Rp1384
-stp1385
-Rp1386
-a(lp1387
+p1391
+tp1392
+Rp1393
+stp1394
+Rp1395
+a(lp1396
 g25
 (g26
 (I0
-tp1388
+tp1397
 g28
-tp1389
-Rp1390
+tp1398
+Rp1399
 (I1
 (L25L
 L20L
-tp1391
+tp1400
 g35
 I00
-(lp1392
+(lp1401
 V\u2014
-p1393
-aV\u2014
-p1394
-aV\u2014
-p1395
-aV\u2014
-p1396
-aV Laura B.
-p1397
-aV\u2014
-p1398
-aV Laura B.
-p1399
-aV Marissa
-p1400
-aV Laura B.
-p1401
-aV Laura B.
 p1402
 aV\u2014
 p1403
-aV Marissa
+aV\u2014
 p1404
-aV Laura B.
+aV\u2014
 p1405
-aV\u2014
-p1406
 aV Laura B.
+p1406
+aV\u2014
 p1407
-aV\u2014
+aV Laura B.
 p1408
-aV Brad
+aV Marissa
 p1409
-aV Katie
+aV Laura B.
 p1410
-aV\u2014
+aV Laura B.
 p1411
 aV\u2014
 p1412
-aV Laura M.
+aV Marissa
 p1413
-aV Candice
+aV Laura B.
 p1414
-aV Candice
+aV\u2014
 p1415
-aV Candice
+aV Laura B.
 p1416
 aV\u2014
 p1417
-aV Candice
+aV Brad
 p1418
-aV\u2014
+aV Katie
 p1419
 aV\u2014
 p1420
 aV\u2014
 p1421
-aV\u2014
+aV Laura M.
 p1422
-aV Gervase
+aV Candice
 p1423
-ag129
-aV\u2014
+aV Candice
 p1424
 aV Candice
 p1425
 aV\u2014
 p1426
-aV Laura M.
+aV Candice
 p1427
 aV\u2014
 p1428
 aV\u2014
 p1429
-aV Candice
-p1430
-aV Laura M.
-p1431
 aV\u2014
+p1430
+aV\u2014
+p1431
+aV Gervase
 p1432
+ag129
 aV\u2014
 p1433
-aV\u2014
+aV Candice
 p1434
 aV\u2014
 p1435
-ag1417
-aV\u2014
+aV Laura M.
 p1436
-ag1419
-ag1420
-ag1421
-ag1422
 aV\u2014
 p1437
-aV Switched
-p1438
-ag1424
 aV\u2014
+p1438
+aV Candice
 p1439
+aV Laura M.
+p1440
+aV\u2014
+p1441
+aV\u2014
+p1442
+aV\u2014
+p1443
+aV\u2014
+p1444
 ag1426
-ag129
+aV\u2014
+p1445
 ag1428
 ag1429
+ag1430
+ag1431
 aV\u2014
-p1440
-aVSwitched
-p1441
-ag1432
-ag1433
-ag1434
-ag1435
-aV Marissa
-p1442
-ag1436
-aV Marissa
-p1443
-aV Marissa
-p1444
-aV Marissa
-p1445
-aV Marissa
 p1446
-ag1437
-aV\u2014
+aV Switched
 p1447
-aV Marissa
+ag1433
+aV\u2014
 p1448
-ag1439
-aV Marissa
-p1449
+ag1435
 ag129
-aV Katie
+ag1437
+ag1438
+aV\u2014
+p1449
+aVSwitched
 p1450
+ag1441
+ag1442
+ag1443
+ag1444
 aV Marissa
 p1451
-ag1440
+ag1445
+aV Marissa
+p1452
+aV Marissa
+p1453
+aV Marissa
+p1454
+aV Marissa
+p1455
+ag1446
+aV\u2014
+p1456
+aV Marissa
+p1457
+ag1448
+aV Marissa
+p1458
+ag129
+aV Katie
+p1459
+aV Marissa
+p1460
+ag1449
 ag129
 aV\u2014
-p1452
-aV\u2014
-p1453
-aV\u2014
-p1454
-aV\u2014
-p1455
-aV John
-p1456
-aV\u2014
-p1457
-aV Rachel
-p1458
-aV John
-p1459
-aV Rachel
-p1460
-aV Rachel
 p1461
 aV\u2014
 p1462
 aV\u2014
 p1463
-aV Rachel
+aV\u2014
 p1464
-aV\u2014
+aV John
 p1465
-aV Rachel
+aV\u2014
 p1466
-ag129
-ag129
-aV Ciera
+aV Rachel
 p1467
-aV\u2014
+aV John
 p1468
-ag129
-aV\u2014
+aV Rachel
 p1469
-aV\u2014
+aV Rachel
 p1470
 aV\u2014
 p1471
 aV\u2014
 p1472
-aV\u2014
+aV Rachel
 p1473
 aV\u2014
 p1474
-aV\u2014
+aV Rachel
 p1475
-aV\u2014
+ag129
+ag129
+aV Ciera
 p1476
 aV\u2014
 p1477
+ag129
 aV\u2014
 p1478
 aV\u2014
@@ -3925,273 +3916,263 @@ aV\u2014
 p1482
 aV\u2014
 p1483
+aV\u2014
+p1484
+aV\u2014
+p1485
+aV\u2014
+p1486
+aV\u2014
+p1487
+aV\u2014
+p1488
+aV\u2014
+p1489
+aV\u2014
+p1490
+aV\u2014
+p1491
+aV\u2014
+p1492
 ag129
 ag129
 ag129
 aVQuit
-p1484
+p1493
 ag129
-ag1469
-ag1470
-ag1471
-ag1472
-aV John
-p1485
-ag1474
-aV John
-p1486
-aV John
-p1487
-aV John
-p1488
-aV John
-p1489
+ag1478
 ag1479
 ag1480
-aV Ciera
-p1490
-ag1482
+ag1481
 aV John
-p1491
-ag129
-ag129
-ag129
-ag129
-ag129
-aV\u2014
-p1492
-aV\u2014
-p1493
-aV\u2014
 p1494
-aV\u2014
+ag1483
+aV John
 p1495
-aV Brad
+aV John
 p1496
-aV\u2014
+aV John
 p1497
-aV Ciera
+aV John
 p1498
-aV Brad
-p1499
-aV Brad
-p1500
+ag1488
+ag1489
 aV Ciera
+p1499
+ag1491
+aV John
+p1500
+ag129
+ag129
+ag129
+ag129
+ag129
+aV\u2014
 p1501
 aV\u2014
 p1502
 aV\u2014
 p1503
-ag129
 aV\u2014
 p1504
-aV Ciera
+aV Brad
 p1505
-ag129
-ag129
-ag129
-ag129
-ag129
-ag1492
-ag1493
-ag1494
-ag1495
-aVNone
+aV\u2014
 p1506
-ag1497
 aV Ciera
 p1507
 aV Brad
 p1508
 aV Brad
 p1509
-aV Brad
+aV Ciera
 p1510
+aV\u2014
+p1511
+aV\u2014
+p1512
+ag129
+aV\u2014
+p1513
+aV Ciera
+p1514
+ag129
+ag129
+ag129
+ag129
+ag129
+ag1501
 ag1502
 ag1503
-ag129
 ag1504
 aVNone
-p1511
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Laura M.
-p1512
-aV Laura M.
-p1513
-aV Laura M.
-p1514
-aV Laura M.
 p1515
-aV\u2014
+ag1506
+aV Ciera
 p1516
-aV Laura B.
+aV Brad
 p1517
-aV\u2014
+aV Brad
 p1518
-aV\u2014
+aV Brad
 p1519
-aV\u2014
+ag1511
+ag1512
+ag129
+ag1513
+aVNone
 p1520
-aV\u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Laura M.
 p1521
 aV Laura M.
 p1522
 aV Laura M.
 p1523
-ag129
 aV Laura M.
 p1524
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV\u2014
 p1525
-aV Kat
+aV Laura B.
 p1526
 aV\u2014
 p1527
-aV Kat
+aV\u2014
 p1528
 aV\u2014
 p1529
-ag129
 aV\u2014
 p1530
-aV Kat
+aV Laura M.
 p1531
-aV\u2014
+aV Laura M.
 p1532
-aV Kat
+ag129
+aV Laura M.
 p1533
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV\u2014
 p1534
 aV Kat
 p1535
-ag129
-aV Vytas
-p1536
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV\u2014
+p1536
+aV Kat
 p1537
-aV Laura B.
+aV\u2014
 p1538
+ag129
 aV\u2014
 p1539
-aV Laura B.
+aV Kat
 p1540
 aV\u2014
 p1541
-ag129
-aV\u2014
+aV Kat
 p1542
-aV Laura B.
-p1543
 aV\u2014
+p1543
+aV Kat
 p1544
-aV Laura B.
+ag129
+aV Vytas
 p1545
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV\u2014
 p1546
-aV Vytas
+aV Laura B.
 p1547
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Aras
+aV\u2014
 p1548
-aV Aras
+aV Laura B.
 p1549
-aV Aras
+aV\u2014
 p1550
-aV Ciera
+ag129
+aV\u2014
 p1551
-aV Aras
+aV Laura B.
 p1552
-aV Aras
+aV\u2014
 p1553
-aV Aras
+aV Laura B.
 p1554
-aV Ciera
+aV\u2014
 p1555
-aV Aras
+aV Vytas
 p1556
-aV Laura M.
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Aras
 p1557
-aV Laura M.
+aV Aras
 p1558
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Vytas
+aV Aras
 p1559
-aV Vytas
+aV Ciera
 p1560
-aV Vytas
+aV Aras
 p1561
-aV Vytas
+aV Aras
 p1562
-aV Katie
+aV Aras
 p1563
-aV Vytas
+aV Ciera
 p1564
-aV Vytas
+aV Aras
 p1565
-aV Vytas
+aV Laura M.
 p1566
-aV Vytas
+aV Laura M.
 p1567
-aV Tyson
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Vytas
 p1568
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tina
+aV Vytas
 p1569
-aV Tina
+aV Vytas
 p1570
-aV Tina
+aV Vytas
 p1571
-aV Tyson
+aV Katie
 p1572
-aV Tina
+aV Vytas
 p1573
-aV Tina
+aV Vytas
 p1574
-aV Tina
+aV Vytas
 p1575
-aV Monica
+aV Vytas
 p1576
-aV Tina
+aV Tyson
 p1577
 ag129
 ag129
@@ -4203,170 +4184,152 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Laura M.
+aV Tina
 p1578
-aV Laura M.
+aV Tina
 p1579
-aV Laura M.
+aV Tina
 p1580
-ag129
-aV Laura M.
+aV Tyson
 p1581
-aV Katie
+aV Tina
 p1582
-aV Laura M.
+aV Tina
 p1583
-aV Laura M.
+aV Tina
 p1584
-aV Laura M.
+aV Monica
 p1585
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Caleb
+aV Tina
 p1586
-aV Caleb
-p1587
-aV Caleb
-p1588
 ag129
-aV Caleb
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Laura M.
+p1587
+aV Laura M.
+p1588
+aV Laura M.
 p1589
 ag129
-aV Ciera
+aV Laura M.
 p1590
-aV Ciera
+aV Katie
 p1591
-aV Ciera
+aV Laura M.
 p1592
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Hayden
+aV Laura M.
 p1593
-aV Hayden
+aV Laura M.
 p1594
-aV Hayden
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Caleb
 p1595
-ag129
-aV Monica
+aV Caleb
 p1596
-ag129
-aV Monica
+aV Caleb
 p1597
-aV Monica
+ag129
+aV Caleb
 p1598
 ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Hayden
+aV Ciera
 p1599
-aVNone
+aV Ciera
 p1600
-aV Hayden
+aV Ciera
 p1601
 ag129
-aV Monica
-p1602
 ag129
-aVNone
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Hayden
+p1602
+aV Hayden
 p1603
-aV Monica
+aV Hayden
 p1604
 ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Hayden
+aV Monica
 p1605
-aV Hayden
+ag129
+aV Monica
 p1606
-aV Hayden
+aV Monica
 p1607
 ag129
-aV Gervase
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Hayden
 p1608
-ag129
-aV Gervase
+aVNone
 p1609
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ciera
+aV Hayden
 p1610
-aV Ciera
+ag129
+aV Monica
 p1611
-aV Ciera
+ag129
+aVNone
 p1612
-aV Gervase
+aV Monica
 p1613
-aV Gervase
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Hayden
 p1614
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tina
+aV Hayden
 p1615
-aV Tina
+aV Hayden
 p1616
-aV Tina
+ag129
+aV Gervase
 p1617
+ag129
 aV Gervase
 p1618
 ag129
@@ -4382,6 +4345,52 @@ ag129
 ag129
 ag129
 ag129
+aV Ciera
+p1619
+aV Ciera
+p1620
+aV Ciera
+p1621
+aV Gervase
+p1622
+aV Gervase
+p1623
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tina
+p1624
+aV Tina
+p1625
+aV Tina
+p1626
+aV Gervase
+p1627
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 ag129
 ag129
@@ -4415,7 +4424,7 @@ ag129
 ag129
 ag129
 aV Monica
-p1619
+p1628
 ag129
 ag129
 ag129
@@ -4430,20 +4439,20 @@ ag319
 ag319
 ag319
 aV Tyson
-p1620
+p1629
 aV Tyson
-p1621
+p1630
 aV Tyson
-p1622
+p1631
 aV Tyson
-p1623
+p1632
 aV Tyson
-p1624
+p1633
 aV Tyson
-p1625
+p1634
 ag129
 aV Tyson
-p1626
+p1635
 ag129
 ag129
 ag129
@@ -4453,35 +4462,26 @@ ag129
 ag129
 ag129
 ag129
-atp1627
-ba(lp1628
+atp1636
+ba(lp1637
 g21
 (g22
-(dp1629
+(dp1638
 g24
 g25
 (g26
 (I0
-tp1630
+tp1639
 g28
-tp1631
-Rp1632
+tp1640
+Rp1641
 (I1
 (L25L
-tp1633
+tp1642
 g35
 I00
-(lp1634
-g1327
-ag1328
-ag1329
-ag1330
-ag1331
-ag1332
-ag1333
-ag1334
-ag1335
-ag1336
+(lp1643
+g1336
 ag1337
 ag1338
 ag1339
@@ -4497,43 +4497,52 @@ ag1348
 ag1349
 ag1350
 ag1351
-atp1635
+ag1352
+ag1353
+ag1354
+ag1355
+ag1356
+ag1357
+ag1358
+ag1359
+ag1360
+atp1644
 bsg63
-Nstp1636
-Rp1637
-a(dp1638
+Nstp1645
+Rp1646
+a(dp1647
 g339
-(dp1639
+(dp1648
 g341
-g1320
+g1329
 sg342
-(lp1640
-(dp1641
+(lp1649
+(dp1650
 g345
 g346
 (I0
 I25
 I1
-tp1642
-Rp1643
+tp1651
+Rp1652
 sg349
-g1390
-sasstp1644
+g1399
+sasstp1653
 bsbsg351
 I27
 ssVMarquesas
-p1645
-(dp1646
+p1654
+(dp1655
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Marquesas
-p1647
+p1656
 sg5
 g6
 (g7
 g8
-Ntp1648
-Rp1649
-(dp1650
+Ntp1657
+Rp1658
+(dp1659
 g12
 g13
 sg14
@@ -4542,261 +4551,240 @@ sg16
 g6
 (g17
 g8
-Ntp1651
-Rp1652
-((lp1653
+Ntp1660
+Rp1661
+((lp1662
 g21
 (g22
-(dp1654
+(dp1663
 g24
 g25
 (g26
 (I0
-tp1655
+tp1664
 g28
-tp1656
-Rp1657
+tp1665
+Rp1666
 (I1
 (L17L
-tp1658
+tp1667
 g35
 I00
-(lp1659
+(lp1668
 VPeter
-p1660
-aVPatricia
-p1661
-aVHunter
-p1662
-aVSarah
-p1663
-aVGabriel
-p1664
-aVGina
-p1665
-aVRob
-p1666
-aVJohn
-p1667
-aVZoe
-p1668
-aVTammy
 p1669
-aVRobert
+aVPatricia
 p1670
-aVSean
+aVHunter
 p1671
-aVPaschal
+aVSarah
 p1672
-aVPaschal
+aVGabriel
 p1673
-aVKathy
+aVGina
 p1674
-aVNeleh
+aVRob
 p1675
-aVVecepia
+aVJohn
 p1676
-atp1677
+aVZoe
+p1677
+aVTammy
+p1678
+aVRobert
+p1679
+aVSean
+p1680
+aVPaschal
+p1681
+aVPaschal
+p1682
+aVKathy
+p1683
+aVNeleh
+p1684
+aVVecepia
+p1685
+atp1686
 bsg63
-Nstp1678
-Rp1679
+Nstp1687
+Rp1688
 ag21
 (g22
-(dp1680
+(dp1689
 g24
 g25
 (g26
 (I0
-tp1681
+tp1690
 g28
-tp1682
-Rp1683
+tp1691
+Rp1692
 (I1
 (L16L
-tp1684
+tp1693
 g35
 I00
-(lp1685
+(lp1694
 VVecepia
-p1686
-aVNeleh
-p1687
-aVKathy
-p1688
-aVPaschal
-p1689
-aVSean
-p1690
-aVRobert
-p1691
-aVTammy
-p1692
-aVZoe
-p1693
-aVJohn
-p1694
-aVRob
 p1695
-aVGina
+aVNeleh
 p1696
-aVGabriel
+aVKathy
 p1697
-aVSarah
+aVPaschal
 p1698
-aVHunter
+aVSean
 p1699
-aVPatricia
+aVRobert
 p1700
-aVPeter
+aVTammy
 p1701
-atp1702
+aVZoe
+p1702
+aVJohn
+p1703
+aVRob
+p1704
+aVGina
+p1705
+aVGabriel
+p1706
+aVSarah
+p1707
+aVHunter
+p1708
+aVPatricia
+p1709
+aVPeter
+p1710
+atp1711
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p1703
-tp1704
-Rp1705
-stp1706
-Rp1707
-a(lp1708
+p1712
+tp1713
+Rp1714
+stp1715
+Rp1716
+a(lp1717
 g25
 (g26
 (I0
-tp1709
+tp1718
 g28
-tp1710
-Rp1711
+tp1719
+Rp1720
 (I1
 (L17L
 L16L
-tp1712
+tp1721
 g35
 I00
-(lp1713
+(lp1722
 V Sarah
-p1714
-aV \u2014
-p1715
-aV \u2014
-p1716
-aV \u2014
-p1717
-aV Sarah
-p1718
-aV \u2014
-p1719
-aV \u2014
-p1720
-aV \u2014
-p1721
-aV \u2014
-p1722
-aV Peter
 p1723
-aV Peter
+aV \u2014
 p1724
 aV \u2014
 p1725
-aV Peter
+aV \u2014
 p1726
-aV Peter
+aV Sarah
 p1727
-aV Peter
+aV \u2014
 p1728
-aV Patricia
+aV \u2014
 p1729
-aV Patricia
+aV \u2014
 p1730
 aV \u2014
 p1731
-aV \u2014
+aV Peter
 p1732
-aV \u2014
+aV Peter
 p1733
-aV Patricia
+aV \u2014
 p1734
-aV \u2014
+aV Peter
 p1735
-aV \u2014
+aV Peter
 p1736
-aV \u2014
+aV Peter
 p1737
-aV \u2014
+aV Patricia
 p1738
 aV Patricia
 p1739
-aV Sarah
+aV \u2014
 p1740
 aV \u2014
 p1741
-aV Patricia
+aV \u2014
 p1742
-aV Sarah
+aV Patricia
 p1743
-aV Sarah
+aV \u2014
 p1744
-ag129
-aV Hunter
+aV \u2014
 p1745
 aV \u2014
 p1746
 aV \u2014
 p1747
-aV \u2014
+aV Patricia
 p1748
-aV Hunter
+aV Sarah
 p1749
 aV \u2014
 p1750
-aV \u2014
+aV Patricia
 p1751
-aV \u2014
+aV Sarah
 p1752
-aV \u2014
+aV Sarah
 p1753
+ag129
 aV Hunter
 p1754
-aV Sarah
+aV \u2014
 p1755
 aV \u2014
 p1756
-aV Hunter
+aV \u2014
 p1757
-aV Sarah
+aV Hunter
 p1758
-ag129
-ag129
 aV \u2014
 p1759
-aV Sarah
+aV \u2014
 p1760
-aV Sarah
+aV \u2014
 p1761
-aV Sarah
+aV \u2014
 p1762
-aV \u2014
+aV Hunter
 p1763
-aV \u2014
+aV Sarah
 p1764
 aV \u2014
 p1765
-aV \u2014
+aV Hunter
 p1766
-aV \u2014
+aV Sarah
 p1767
+ag129
+ag129
 aV \u2014
 p1768
 aV Sarah
 p1769
-aV \u2014
+aV Sarah
 p1770
-aV Kathy
+aV Sarah
 p1771
-ag129
-ag129
-ag129
-aV Gabriel
+aV \u2014
 p1772
 aV \u2014
 p1773
@@ -4804,96 +4792,93 @@ aV \u2014
 p1774
 aV \u2014
 p1775
-aV Gabriel
+aV \u2014
 p1776
-aV Gabriel
+aV \u2014
 p1777
-aV Gabriel
+aV Sarah
 p1778
-aV Gabriel
+aV \u2014
 p1779
-aV Gabriel
+aV Kathy
 p1780
+ag129
+ag129
+ag129
 aV Gabriel
 p1781
 aV \u2014
 p1782
-aV Rob
+aV \u2014
 p1783
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p1784
-aV Gina
+aV Gabriel
 p1785
-aV Gina
+aV Gabriel
 p1786
-aV Gina
+aV Gabriel
 p1787
-aV \u2014
+aV Gabriel
 p1788
-aV \u2014
+aV Gabriel
 p1789
-aV \u2014
+aV Gabriel
 p1790
 aV \u2014
 p1791
-aV \u2014
+aV Rob
 p1792
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p1793
-aV Kathy
+aV Gina
 p1794
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rob
+aV Gina
 p1795
-aV Rob
+aV Gina
 p1796
-aV Zoe
+aV \u2014
 p1797
-aV Rob
+aV \u2014
 p1798
-aV John
+aV \u2014
 p1799
-aV Rob
+aV \u2014
 p1800
-aV Rob
+aV \u2014
 p1801
-aV Rob
+aV \u2014
 p1802
-aV Rob
+aV Kathy
 p1803
-aV John
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Rob
 p1804
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV John
+aV Rob
 p1805
-aV John
+aV Zoe
 p1806
-aV John
+aV Rob
 p1807
 aV John
 p1808
-aV John
+aV Rob
 p1809
-aV Sean
+aV Rob
 p1810
-aV Sean
+aV Rob
 p1811
-aV John
+aV Rob
 p1812
-aV Sean
+aV John
 p1813
 ag129
 ag129
@@ -4901,104 +4886,89 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Zoe
+aV John
 p1814
-aV Zoe
+aV John
 p1815
-aV Zoe
+aV John
 p1816
-aV Zoe
+aV John
 p1817
-aV Zoe
+aV John
 p1818
-aV Zoe
+aV Sean
 p1819
-aV Zoe
+aV Sean
 p1820
-aV Robert
+aV John
 p1821
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tammy
+aV Sean
 p1822
-aV Tammy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Zoe
 p1823
-aV Tammy
+aV Zoe
 p1824
-aV Tammy
+aV Zoe
 p1825
-aV Tammy
+aV Zoe
 p1826
-aV Vecepia
+aV Zoe
 p1827
-aV Vecepia
+aV Zoe
 p1828
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Robert
+aV Zoe
 p1829
 aV Robert
 p1830
-aV Robert
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tammy
 p1831
-aV Robert
+aV Tammy
 p1832
-aV Robert
+aV Tammy
 p1833
-aV Sean
+aV Tammy
 p1834
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Neleh
+aV Tammy
 p1835
-aV Sean
+aV Vecepia
 p1836
-aV Sean
+aV Vecepia
 p1837
-aV Sean
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Robert
 p1838
-aV Neleh
+aV Robert
 p1839
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Neleh
+aV Robert
 p1840
-aV Kathy
+aV Robert
 p1841
-aV Neleh
+aV Robert
 p1842
-aV Kathy
+aV Sean
 p1843
 ag129
 ag129
@@ -5010,79 +4980,73 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Neleh
 p1844
-aV \u2014
+aV Sean
 p1845
-aV \u2014
+aV Sean
 p1846
-aVEliminated
+aV Sean
 p1847
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Neleh
 p1848
-aV Kathy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Neleh
 p1849
-aV \u2014
+aV Kathy
 p1850
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
 aV Neleh
 p1851
-aV Neleh
+aV Kathy
 p1852
 ag129
 ag129
 ag129
-aV Neleh
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p1853
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-aV Vecepia
+aV \u2014
 p1854
-aV Vecepia
+aV \u2014
 p1855
-aV Vecepia
+aVEliminated
 p1856
 ag129
-aV Vecepia
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p1857
+aV Kathy
+p1858
+aV \u2014
+p1859
 ag129
 ag129
 ag129
@@ -5090,35 +5054,71 @@ ag129
 ag129
 ag129
 ag129
-atp1858
-ba(lp1859
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Neleh
+p1860
+aV Neleh
+p1861
+ag129
+ag129
+ag129
+aV Neleh
+p1862
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+aV Vecepia
+p1863
+aV Vecepia
+p1864
+aV Vecepia
+p1865
+ag129
+aV Vecepia
+p1866
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp1867
+ba(lp1868
 g21
 (g22
-(dp1860
+(dp1869
 g24
 g25
 (g26
 (I0
-tp1861
+tp1870
 g28
-tp1862
-Rp1863
+tp1871
+Rp1872
 (I1
 (L17L
-tp1864
+tp1873
 g35
 I00
-(lp1865
-g1660
-ag1661
-ag1662
-ag1663
-ag1664
-ag1665
-ag1666
-ag1667
-ag1668
-ag1669
+(lp1874
+g1669
 ag1670
 ag1671
 ag1672
@@ -5126,43 +5126,52 @@ ag1673
 ag1674
 ag1675
 ag1676
-atp1866
+ag1677
+ag1678
+ag1679
+ag1680
+ag1681
+ag1682
+ag1683
+ag1684
+ag1685
+atp1875
 bsg63
-Nstp1867
-Rp1868
-a(dp1869
+Nstp1876
+Rp1877
+a(dp1878
 g339
-(dp1870
+(dp1879
 g341
-g1653
+g1662
 sg342
-(lp1871
-(dp1872
+(lp1880
+(dp1881
 g345
 g346
 (I0
 I17
 I1
-tp1873
-Rp1874
+tp1882
+Rp1883
 sg349
-g1711
-sasstp1875
+g1720
+sasstp1884
 bsbsg351
 I4
 ssVPearl_Islands
-p1876
-(dp1877
+p1885
+(dp1886
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Pearl_Islands
-p1878
+p1887
 sg5
 g6
 (g7
 g8
-Ntp1879
-Rp1880
-(dp1881
+Ntp1888
+Rp1889
+(dp1890
 g12
 g13
 sg14
@@ -5171,358 +5180,334 @@ sg16
 g6
 (g17
 g8
-Ntp1882
-Rp1883
-((lp1884
+Ntp1891
+Rp1892
+((lp1893
 g21
 (g22
-(dp1885
+(dp1894
 g24
 g25
 (g26
 (I0
-tp1886
+tp1895
 g28
-tp1887
-Rp1888
+tp1896
+Rp1897
 (I1
 (L20L
-tp1889
+tp1898
 g35
 I00
-(lp1890
+(lp1899
 VNicole
-p1891
-aVRyan S.
-p1892
-aVLillian
-p1893
-aVBurton
-p1894
-aVMichelle
-p1895
-aVTrish
-p1896
-aVShawn
-p1897
-aVOsten
-p1898
-aVBurton
-p1899
-aVLillian
 p1900
-aVAndrew
+aVRyan S.
 p1901
-aVRyan O.
+aVLillian
 p1902
-aVRupert
-p1903
-aVTijuana
-p1904
-aVChrista
-p1905
 aVBurton
+p1903
+aVMichelle
+p1904
+aVTrish
+p1905
+aVShawn
 p1906
-aVDarrah
+aVOsten
 p1907
-aVJon
+aVBurton
 p1908
 aVLillian
 p1909
-aVSandra
+aVAndrew
 p1910
-atp1911
+aVRyan O.
+p1911
+aVRupert
+p1912
+aVTijuana
+p1913
+aVChrista
+p1914
+aVBurton
+p1915
+aVDarrah
+p1916
+aVJon
+p1917
+aVLillian
+p1918
+aVSandra
+p1919
+atp1920
 bsg63
-Nstp1912
-Rp1913
+Nstp1921
+Rp1922
 ag21
 (g22
-(dp1914
+(dp1923
 g24
 g25
 (g26
 (I0
-tp1915
+tp1924
 g28
-tp1916
-Rp1917
+tp1925
+Rp1926
 (I1
 (L16L
-tp1918
+tp1927
 g35
 I00
-(lp1919
+(lp1928
 VSandra
-p1920
-aVLillian
-p1921
-aVJon
-p1922
-aVDarrah
-p1923
-aVBurton
-p1924
-aVChrista
-p1925
-aVTijuana
-p1926
-aVRupert
-p1927
-aVRyan O.
-p1928
-aVAndrew
 p1929
-aVOsten
+aVLillian
 p1930
-aVShawn
+aVJon
 p1931
-aVTrish
+aVDarrah
 p1932
-aVMichelle
+aVBurton
 p1933
-aVRyan S.
+aVChrista
 p1934
-aVNicole
+aVTijuana
 p1935
-atp1936
+aVRupert
+p1936
+aVRyan O.
+p1937
+aVAndrew
+p1938
+aVOsten
+p1939
+aVShawn
+p1940
+aVTrish
+p1941
+aVMichelle
+p1942
+aVRyan S.
+p1943
+aVNicole
+p1944
+atp1945
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p1937
-tp1938
-Rp1939
-stp1940
-Rp1941
-a(lp1942
+p1946
+tp1947
+Rp1948
+stp1949
+Rp1950
+a(lp1951
 g25
 (g26
 (I0
-tp1943
+tp1952
 g28
-tp1944
-Rp1945
+tp1953
+Rp1954
 (I1
 (L20L
 L16L
-tp1946
+tp1955
 g35
 I00
-(lp1947
+(lp1956
 V \u2014
-p1948
-aV Nicole
-p1949
-aV \u2014
-p1950
-aV Nicole
-p1951
-aV \u2014
-p1952
-aV \u2014
-p1953
-aV Nicole
-p1954
-aV \u2014
-p1955
-aV Nicole
-p1956
-aV Nicole
 p1957
 aV Nicole
 p1958
 aV \u2014
 p1959
-aV \u2014
+aV Nicole
 p1960
 aV \u2014
 p1961
-aV Nicole
+aV \u2014
 p1962
-aV Ryan S.
+aV Nicole
 p1963
 aV \u2014
 p1964
-aV Osten
+aV Nicole
 p1965
-aV \u2014
+aV Nicole
 p1966
-aV Ryan S.
+aV Nicole
 p1967
 aV \u2014
 p1968
 aV \u2014
 p1969
-aV Ryan S.
-p1970
 aV \u2014
+p1970
+aV Nicole
 p1971
 aV Ryan S.
 p1972
-aV Ryan S.
+aV \u2014
 p1973
-aV Ryan S.
+aV Osten
 p1974
 aV \u2014
 p1975
-aV \u2014
+aV Ryan S.
 p1976
 aV \u2014
 p1977
-aV Osten
+aV \u2014
 p1978
-ag129
-aV \u2014
+aV Ryan S.
 p1979
-aV Darrah
+aV \u2014
 p1980
-aV \u2014
+aV Ryan S.
 p1981
-aV Lillian
+aV Ryan S.
 p1982
-aV \u2014
+aV Ryan S.
 p1983
 aV \u2014
 p1984
-aV Lillian
+aV \u2014
 p1985
 aV \u2014
 p1986
-aV Lillian
+aV Osten
 p1987
-aV Lillian
+ag129
+aV \u2014
 p1988
-aV Lillian
+aV Darrah
 p1989
 aV \u2014
 p1990
-aV \u2014
+aV Lillian
 p1991
 aV \u2014
 p1992
-ag129
-ag129
-aV Burton
+aV \u2014
 p1993
-ag129
-aV Burton
+aV Lillian
 p1994
 aV \u2014
 p1995
-aV Christa
+aV Lillian
 p1996
-aV Burton
+aV Lillian
 p1997
-aV \u2014
+aV Lillian
 p1998
-aVKidnapped 
+aV \u2014
 p1999
 aV \u2014
 p2000
 aV \u2014
 p2001
-aV \u2014
+ag129
+ag129
+aV Burton
 p2002
+ag129
 aV Burton
 p2003
-aV Burton
+aV \u2014
 p2004
 aV Christa
 p2005
-ag129
-ag129
-aV Michelle
+aV Burton
 p2006
-ag129
-aV Michelle
-p2007
 aV \u2014
+p2007
+aVKidnapped 
 p2008
-ag129
-aV Michelle
+aV \u2014
 p2009
 aV \u2014
 p2010
-aV Michelle
+aV \u2014
 p2011
-aV \u2014
+aV Burton
 p2012
-aV \u2014
+aV Burton
 p2013
-aV \u2014
+aV Christa
 p2014
+ag129
+ag129
 aV Michelle
 p2015
+ag129
 aV Michelle
 p2016
-aV Shawn
+aV \u2014
 p2017
 ag129
-ag129
-aV Trish
+aV Michelle
 p2018
-ag129
-aV Rupert
-p2019
 aV \u2014
+p2019
+aV Michelle
 p2020
-ag129
-aV Trish
+aV \u2014
 p2021
 aV \u2014
 p2022
-aV Trish
+aV \u2014
 p2023
-aV \u2014
+aV Michelle
 p2024
-aV \u2014
+aV Michelle
 p2025
-aV \u2014
+aV Shawn
 p2026
+ag129
+ag129
 aV Trish
 p2027
+ag129
 aV Rupert
 p2028
-ag129
-ag129
-ag129
-aV Shawn
+aV \u2014
 p2029
 ag129
-aV Shawn
+aV Trish
 p2030
 aV \u2014
 p2031
-ag129
-aV Shawn
+aV Trish
 p2032
 aV \u2014
 p2033
-aV Shawn
+aV \u2014
 p2034
 aV \u2014
 p2035
-aV \u2014
+aV Trish
 p2036
-aV \u2014
+aV Rupert
 p2037
-aV Jon
+ag129
+ag129
+ag129
+aV Shawn
 p2038
 ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Shawn
 p2039
-ag129
 aV \u2014
 p2040
-aV \u2014
-p2041
 ag129
+aV Shawn
+p2041
 aV \u2014
 p2042
-aV \u2014
+aV Shawn
 p2043
 aV \u2014
 p2044
@@ -5530,22 +5515,23 @@ aV \u2014
 p2045
 aV \u2014
 p2046
-aVQuit
+aV Jon
 p2047
-ag129
 ag129
 ag129
 ag129
 ag129
 aV \u2014
 p2048
-aV Ryan S.
+ag129
+aV \u2014
 p2049
 aV \u2014
 p2050
+ag129
 aV \u2014
 p2051
-aV Michelle
+aV \u2014
 p2052
 aV \u2014
 p2053
@@ -5553,85 +5539,84 @@ aV \u2014
 p2054
 aV \u2014
 p2055
-aV \u2014
+aVQuit
 p2056
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p2057
-ag129
-ag129
-aV Burton
-p2058
-aV Burton
-p2059
-aV Burton
-p2060
-aV Lillian
-p2061
-ag2048
-aV Trish
-p2062
-ag2050
-ag2051
-aV Nicole
-p2063
-ag2053
-ag2054
-ag2055
-ag2056
-ag2057
-ag129
-ag129
-aV Lillian
-p2064
-aV Nicole
-p2065
-aV Lillian
-p2066
 aV Ryan S.
+p2058
+aV \u2014
+p2059
+aV \u2014
+p2060
+aV Michelle
+p2061
+aV \u2014
+p2062
+aV \u2014
+p2063
+aV \u2014
+p2064
+aV \u2014
+p2065
+aV \u2014
+p2066
+ag129
+ag129
+aV Burton
 p2067
-aV Andrew
+aV Burton
 p2068
-aV Andrew
+aV Burton
 p2069
-aV Andrew
+aV Lillian
 p2070
-aV Jon
+ag2057
+aV Trish
 p2071
-aV Andrew
+ag2059
+ag2060
+aV Nicole
 p2072
-aV Andrew
+ag2062
+ag2063
+ag2064
+ag2065
+ag2066
+ag129
+ag129
+aV Lillian
 p2073
-aV Jon
+aV Nicole
 p2074
-aV Andrew
+aV Lillian
 p2075
-aV Jon
+aV Ryan S.
 p2076
-aV Jon
+aV Andrew
 p2077
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ryan O.
+aV Andrew
 p2078
-aV Ryan O.
+aV Andrew
 p2079
-aV Ryan O.
+aV Jon
 p2080
-aV Ryan O.
+aV Andrew
 p2081
-aV Ryan O.
+aV Andrew
 p2082
-aV Ryan O.
+aV Jon
 p2083
-aV Ryan O.
+aV Andrew
 p2084
-aV Ryan O.
+aV Jon
 p2085
-aV Christa
+aV Jon
 p2086
 ag129
 ag129
@@ -5639,102 +5624,87 @@ ag129
 ag129
 ag129
 ag129
+aV Ryan O.
+p2087
+aV Ryan O.
+p2088
+aV Ryan O.
+p2089
+aV Ryan O.
+p2090
+aV Ryan O.
+p2091
+aV Ryan O.
+p2092
+aV Ryan O.
+p2093
+aV Ryan O.
+p2094
+aV Christa
+p2095
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 aV Jon
-p2087
-aV Rupert
-p2088
-aV Rupert
-p2089
-aV Rupert
-p2090
-aV Rupert
-p2091
-aV Darrah
-p2092
-aV Rupert
-p2093
-aV Darrah
-p2094
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tijuana
-p2095
-aV Tijuana
 p2096
-aV Tijuana
+aV Rupert
 p2097
-aV Burton
+aV Rupert
 p2098
-aV Tijuana
+aV Rupert
 p2099
-aV Tijuana
+aV Rupert
 p2100
-aV Burton
+aV Darrah
 p2101
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Lillian
+aV Rupert
 p2102
-aV Christa
+aV Darrah
 p2103
-aV Christa
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tijuana
 p2104
-aV Christa
+aV Tijuana
 p2105
-aV Christa
+aV Tijuana
 p2106
-aV Lillian
+aV Burton
 p2107
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Burton
+aV Tijuana
 p2108
-aV Burton
+aV Tijuana
 p2109
-aV Lillian
-p2110
 aV Burton
-p2111
+p2110
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Lillian
+p2111
+aV Christa
 p2112
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Darrah
+aV Christa
 p2113
-aV Darrah
+aV Christa
 p2114
-aV Darrah
+aV Christa
 p2115
 aV Lillian
 p2116
@@ -5748,14 +5718,53 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Burton
 p2117
-aV Jon
+aV Burton
 p2118
-aV \u2014
+aV Lillian
 p2119
+aV Burton
+p2120
+aV Lillian
+p2121
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Darrah
+p2122
+aV Darrah
+p2123
+aV Darrah
+p2124
+aV Lillian
+p2125
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p2126
+aV Jon
+p2127
+aV \u2014
+p2128
 ag129
 ag129
 ag129
@@ -5776,7 +5785,7 @@ ag129
 ag129
 ag129
 aV Lillian
-p2120
+p2129
 ag129
 ag129
 ag129
@@ -5789,18 +5798,18 @@ ag129
 ag319
 ag319
 aV Sandra
-p2121
+p2130
 aV Sandra
-p2122
+p2131
 aV Sandra
-p2123
+p2132
 aV Sandra
-p2124
+p2133
 ag129
 aV Sandra
-p2125
+p2134
 aV Sandra
-p2126
+p2135
 ag129
 ag129
 ag129
@@ -5808,35 +5817,26 @@ ag129
 ag129
 ag129
 ag129
-atp2127
-ba(lp2128
+atp2136
+ba(lp2137
 g21
 (g22
-(dp2129
+(dp2138
 g24
 g25
 (g26
 (I0
-tp2130
+tp2139
 g28
-tp2131
-Rp2132
+tp2140
+Rp2141
 (I1
 (L20L
-tp2133
+tp2142
 g35
 I00
-(lp2134
-g1891
-ag1892
-ag1893
-ag1894
-ag1895
-ag1896
-ag1897
-ag1898
-ag1899
-ag1900
+(lp2143
+g1900
 ag1901
 ag1902
 ag1903
@@ -5847,43 +5847,52 @@ ag1907
 ag1908
 ag1909
 ag1910
-atp2135
+ag1911
+ag1912
+ag1913
+ag1914
+ag1915
+ag1916
+ag1917
+ag1918
+ag1919
+atp2144
 bsg63
-Nstp2136
-Rp2137
-a(dp2138
+Nstp2145
+Rp2146
+a(dp2147
 g339
-(dp2139
+(dp2148
 g341
-g1884
+g1893
 sg342
-(lp2140
-(dp2141
+(lp2149
+(dp2150
 g345
 g346
 (I0
 I20
 I1
-tp2142
-Rp2143
+tp2151
+Rp2152
 sg349
-g1945
-sasstp2144
+g1954
+sasstp2153
 bsbsg351
 I7
 ssVVanuatu
-p2145
-(dp2146
+p2154
+(dp2155
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Vanuatu
-p2147
+p2156
 sg5
 g6
 (g7
 g8
-Ntp2148
-Rp2149
-(dp2150
+Ntp2157
+Rp2158
+(dp2159
 g12
 g13
 sg14
@@ -5892,283 +5901,262 @@ sg16
 g6
 (g17
 g8
-Ntp2151
-Rp2152
-((lp2153
+Ntp2160
+Rp2161
+((lp2162
 g21
 (g22
-(dp2154
+(dp2163
 g24
 g25
 (g26
 (I0
-tp2155
+tp2164
 g28
-tp2156
-Rp2157
+tp2165
+Rp2166
 (I1
 (L18L
-tp2158
+tp2167
 g35
 I00
-(lp2159
+(lp2168
 VBrook
-p2160
-aVDolly
-p2161
-aVJohn P.
-p2162
-aVMia
-p2163
-aVBrady
-p2164
-aVTravis
-p2165
-aVLisa
-p2166
-aVJohn K.
-p2167
-aVRory
-p2168
-aVLea
 p2169
-aVChad
+aVDolly
 p2170
-aVLeann
+aVJohn P.
 p2171
-aVAmi
+aVMia
 p2172
-aVJulie
+aVBrady
 p2173
-aVEliza
+aVTravis
 p2174
-aVScout
+aVLisa
 p2175
-aVTwila
+aVJohn K.
 p2176
-aVChris
+aVRory
 p2177
-atp2178
+aVLea
+p2178
+aVChad
+p2179
+aVLeann
+p2180
+aVAmi
+p2181
+aVJulie
+p2182
+aVEliza
+p2183
+aVScout
+p2184
+aVTwila
+p2185
+aVChris
+p2186
+atp2187
 bsg63
-Nstp2179
-Rp2180
+Nstp2188
+Rp2189
 ag21
 (g22
-(dp2181
+(dp2190
 g24
 g25
 (g26
 (I0
-tp2182
+tp2191
 g28
-tp2183
-Rp2184
+tp2192
+Rp2193
 (I1
 (L18L
-tp2185
+tp2194
 g35
 I00
-(lp2186
+(lp2195
 VChris
-p2187
-aVTwila
-p2188
-aVScout
-p2189
-aVEliza
-p2190
-aVJulie
-p2191
-aVAmi
-p2192
-aVLeann
-p2193
-aVChad
-p2194
-aVLea
-p2195
-aVRory
 p2196
-aVJohn K.
+aVTwila
 p2197
-aVLisa
+aVScout
 p2198
-aVTravis
+aVEliza
 p2199
-aVBrady
+aVJulie
 p2200
-aVMia
+aVAmi
 p2201
-aVJohn P.
+aVLeann
 p2202
-aVDolly
+aVChad
 p2203
-aVBrook
+aVLea
 p2204
-atp2205
+aVRory
+p2205
+aVJohn K.
+p2206
+aVLisa
+p2207
+aVTravis
+p2208
+aVBrady
+p2209
+aVMia
+p2210
+aVJohn P.
+p2211
+aVDolly
+p2212
+aVBrook
+p2213
+atp2214
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p2206
-tp2207
-Rp2208
-stp2209
-Rp2210
-a(lp2211
+p2215
+tp2216
+Rp2217
+stp2218
+Rp2219
+a(lp2220
 g25
 (g26
 (I0
-tp2212
+tp2221
 g28
-tp2213
-Rp2214
+tp2222
+Rp2223
 (I1
 (L18L
 L18L
-tp2215
+tp2224
 g35
 I00
-(lp2216
+(lp2225
 V Brook
-p2217
-aV \u2014
-p2218
-aV \u2014
-p2219
-aV \u2014
-p2220
-aV \u2014
-p2221
-aV \u2014
-p2222
-aV \u2014
-p2223
-aV Brook
-p2224
-aV Brook
-p2225
-aV Brook
 p2226
-aV Chris
+aV \u2014
 p2227
 aV \u2014
 p2228
-aV Brook
+aV \u2014
 p2229
-aV Rory
+aV \u2014
 p2230
 aV \u2014
 p2231
-aV Chris
+aV \u2014
 p2232
-aV \u2014
+aV Brook
 p2233
-aV Chris
+aV Brook
 p2234
-aV \u2014
+aV Brook
 p2235
-aV Dolly
+aV Chris
 p2236
-aV Dolly
+aV \u2014
 p2237
-aV Dolly
+aV Brook
 p2238
-aV Leann
+aV Rory
 p2239
-aV Dolly
+aV \u2014
 p2240
-aV Dolly
+aV Chris
 p2241
 aV \u2014
 p2242
-aV \u2014
+aV Chris
 p2243
 aV \u2014
 p2244
-aV \u2014
+aV Dolly
 p2245
-aV Leann
+aV Dolly
 p2246
-aV \u2014
+aV Dolly
 p2247
-aV \u2014
+aV Leann
 p2248
-aV Leann
+aV Dolly
 p2249
-aV \u2014
+aV Dolly
 p2250
-aV Leann
+aV \u2014
 p2251
-ag129
-aV John P.
+aV \u2014
 p2252
 aV \u2014
 p2253
 aV \u2014
 p2254
-aV \u2014
+aV Leann
 p2255
 aV \u2014
 p2256
 aV \u2014
 p2257
-aV \u2014
+aV Leann
 p2258
-aV John P.
+aV \u2014
 p2259
-aV John P.
+aV Leann
 p2260
+ag129
 aV John P.
 p2261
-aV Rory
+aV \u2014
 p2262
 aV \u2014
 p2263
-aV John P.
+aV \u2014
 p2264
-aV Rory
+aV \u2014
 p2265
 aV \u2014
 p2266
-aV Rory
-p2267
-ag129
-ag129
 aV \u2014
+p2267
+aV John P.
 p2268
-aV Mia
+aV John P.
 p2269
-aV Mia
+aV John P.
 p2270
-aV Twila
+aV Rory
 p2271
-aV Twila
+aV \u2014
 p2272
-aV Mia
+aV John P.
 p2273
-aV Mia
+aV Rory
 p2274
 aV \u2014
 p2275
-aV \u2014
+aV Rory
 p2276
+ag129
+ag129
 aV \u2014
 p2277
-aV \u2014
+aV Mia
 p2278
 aV Mia
 p2279
-aV \u2014
-p2280
-aV \u2014
-p2281
 aV Twila
+p2280
+aV Twila
+p2281
+aV Mia
 p2282
-ag129
-ag129
-ag129
-aV Brady
+aV Mia
 p2283
 aV \u2014
 p2284
@@ -6178,163 +6166,158 @@ aV \u2014
 p2286
 aV \u2014
 p2287
-aV \u2014
+aV Mia
 p2288
 aV \u2014
 p2289
-aV Brady
+aV \u2014
 p2290
-aV Brady
+aV Twila
 p2291
+ag129
+ag129
+ag129
 aV Brady
 p2292
-aV Brady
+aV \u2014
 p2293
 aV \u2014
 p2294
-aV Brady
+aV \u2014
 p2295
-aV Rory
+aV \u2014
 p2296
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p2297
 aV \u2014
 p2298
-aV Travis
+aV Brady
 p2299
-aV Travis
+aV Brady
 p2300
-aV \u2014
+aV Brady
 p2301
-aV Travis
+aV Brady
 p2302
-aV Travis
+aV \u2014
 p2303
-aV \u2014
+aV Brady
 p2304
-aV \u2014
+aV Rory
 p2305
-aV Travis
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p2306
 aV \u2014
 p2307
 aV Travis
 p2308
-aV Rory
+aV Travis
 p2309
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p2310
-aV \u2014
+aV Travis
 p2311
-aV Rory
+aV Travis
 p2312
-aV Lisa
+aV \u2014
 p2313
 aV \u2014
 p2314
-aV Lisa
+aV Travis
 p2315
-aV Lisa
+aV \u2014
 p2316
-aV \u2014
+aV Travis
 p2317
-aV \u2014
+aV Rory
 p2318
-aV Lisa
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p2319
 aV \u2014
 p2320
 aV Rory
 p2321
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV John K.
+aV Lisa
 p2322
-aV John K.
+aV \u2014
 p2323
-aV \u2014
+aV Lisa
 p2324
-aV \u2014
+aV Lisa
 p2325
-aV John K.
+aV \u2014
 p2326
 aV \u2014
 p2327
-aV \u2014
+aV Lisa
 p2328
-aV John K.
-p2329
-aV John K.
-p2330
 aV \u2014
+p2329
+aV Rory
+p2330
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV John K.
 p2331
-aV Chad
+aV John K.
 p2332
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ami
+aV \u2014
 p2333
-aV Rory
+aV \u2014
 p2334
-aV Rory
+aV John K.
 p2335
-aV Rory
+aV \u2014
 p2336
-aV Rory
+aV \u2014
 p2337
-aV Rory
+aV John K.
 p2338
-aV Rory
+aV John K.
 p2339
-aV Ami
+aV \u2014
 p2340
-aV Ami
+aV Chad
 p2341
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Ami
 p2342
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Lea
+aV Rory
 p2343
-aV Lea
+aV Rory
 p2344
-aV Lea
+aV Rory
 p2345
-aV Lea
+aV Rory
 p2346
-aV Lea
+aV Rory
 p2347
-aV Lea
+aV Rory
 p2348
-aV Lea
+aV Ami
 p2349
-aV Julie
+aV Ami
 p2350
-aV Eliza
+aV Ami
 p2351
 ag129
 ag129
@@ -6344,112 +6327,95 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Eliza
+aV Lea
 p2352
-aV Chad
+aV Lea
 p2353
-aV Chad
+aV Lea
 p2354
-aV Chad
+aV Lea
 p2355
-aV Chad
+aV Lea
 p2356
-aV Chad
+aV Lea
 p2357
-aV Chad
+aV Lea
 p2358
-aV Eliza
+aV Julie
 p2359
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Leann
+aV Eliza
 p2360
-aV Leann
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Eliza
 p2361
-aV Leann
+aV Chad
 p2362
-aV Leann
+aV Chad
 p2363
-aV Eliza
+aV Chad
 p2364
-aV Eliza
+aV Chad
 p2365
-aV Eliza
+aV Chad
 p2366
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ami
+aV Chad
 p2367
-aV Ami
+aV Eliza
 p2368
-aV Ami
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Leann
 p2369
-aV Ami
+aV Leann
 p2370
-aV Scout
+aV Leann
 p2371
-aV Scout
+aV Leann
 p2372
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Julie
+aV Eliza
 p2373
-aV Julie
+aV Eliza
 p2374
-aV Julie
+aV Eliza
 p2375
-aV Twila
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Ami
 p2376
-aV Twila
+aV Ami
 p2377
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Eliza
+aV Ami
 p2378
-aV Eliza
+aV Ami
 p2379
-aV Eliza
+aV Scout
 p2380
-aV Twila
+aV Scout
 p2381
 ag129
 ag129
@@ -6463,35 +6429,14 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV Scout
+aV Julie
 p2382
-aV \u2014
+aV Julie
 p2383
-aV \u2014
+aV Julie
 p2384
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
 aV Twila
 p2385
-ag129
-ag129
 aV Twila
 p2386
 ag129
@@ -6506,20 +6451,35 @@ ag129
 ag129
 ag129
 ag129
-ag319
-ag319
 ag129
-aV Chris
+aV Eliza
 p2387
-aV Chris
+aV Eliza
 p2388
-ag129
-aV Chris
+aV Eliza
 p2389
-aV Chris
+aV Twila
 p2390
-aV Chris
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Scout
 p2391
+aV \u2014
+p2392
+aV \u2014
+p2393
 ag129
 ag129
 ag129
@@ -6529,35 +6489,75 @@ ag129
 ag129
 ag129
 ag129
-atp2392
-ba(lp2393
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Twila
+p2394
+ag129
+ag129
+aV Twila
+p2395
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+aV Chris
+p2396
+aV Chris
+p2397
+ag129
+aV Chris
+p2398
+aV Chris
+p2399
+aV Chris
+p2400
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp2401
+ba(lp2402
 g21
 (g22
-(dp2394
+(dp2403
 g24
 g25
 (g26
 (I0
-tp2395
+tp2404
 g28
-tp2396
-Rp2397
+tp2405
+Rp2406
 (I1
 (L18L
-tp2398
+tp2407
 g35
 I00
-(lp2399
-g2160
-ag2161
-ag2162
-ag2163
-ag2164
-ag2165
-ag2166
-ag2167
-ag2168
-ag2169
+(lp2408
+g2169
 ag2170
 ag2171
 ag2172
@@ -6566,43 +6566,52 @@ ag2174
 ag2175
 ag2176
 ag2177
-atp2400
+ag2178
+ag2179
+ag2180
+ag2181
+ag2182
+ag2183
+ag2184
+ag2185
+ag2186
+atp2409
 bsg63
-Nstp2401
-Rp2402
-a(dp2403
+Nstp2410
+Rp2411
+a(dp2412
 g339
-(dp2404
+(dp2413
 g341
-g2153
+g2162
 sg342
-(lp2405
-(dp2406
+(lp2414
+(dp2415
 g345
 g346
 (I0
 I18
 I1
-tp2407
-Rp2408
+tp2416
+Rp2417
 sg349
-g2214
-sasstp2409
+g2223
+sasstp2418
 bsbsg351
 I9
 ssVThe_Australian_Outback
-p2410
-(dp2411
+p2419
+(dp2420
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_The_Australian_Outback
-p2412
+p2421
 sg5
 g6
 (g7
 g8
-Ntp2413
-Rp2414
-(dp2415
+Ntp2422
+Rp2423
+(dp2424
 g12
 g13
 sg14
@@ -6611,408 +6620,384 @@ sg16
 g6
 (g17
 g8
-Ntp2416
-Rp2417
-((lp2418
+Ntp2425
+Rp2426
+((lp2427
 g21
 (g22
-(dp2419
+(dp2428
 g24
 g25
 (g26
 (I0
-tp2420
+tp2429
 g28
-tp2421
-Rp2422
+tp2430
+Rp2431
 (I1
 (L18L
-tp2423
+tp2432
 g35
 I00
-(lp2424
+(lp2433
 VDebb
-p2425
-aVKel
-p2426
-aVMaralyn
-p2427
-aVMitchell
-p2428
-aVMitchell
-p2429
-aVKimmi
-p2430
-aVMichael
-p2431
-aVJeff
-p2432
-aVJeff
-p2433
-aVAlicia
 p2434
-aVJerri
+aVKel
 p2435
-aVNick
+aVMaralyn
 p2436
-aVAmber
+aVMitchell
 p2437
-aVRodger
+aVMitchell
 p2438
-aVElisabeth
+aVKimmi
 p2439
-aVKeith
+aVMichael
 p2440
-aVColby
+aVJeff
 p2441
-aVTina
+aVJeff
 p2442
-atp2443
+aVAlicia
+p2443
+aVJerri
+p2444
+aVNick
+p2445
+aVAmber
+p2446
+aVRodger
+p2447
+aVElisabeth
+p2448
+aVKeith
+p2449
+aVColby
+p2450
+aVTina
+p2451
+atp2452
 bsg63
-Nstp2444
-Rp2445
+Nstp2453
+Rp2454
 ag21
 (g22
-(dp2446
+(dp2455
 g24
 g25
 (g26
 (I0
-tp2447
+tp2456
 g28
-tp2448
-Rp2449
+tp2457
+Rp2458
 (I1
 (L16L
-tp2450
+tp2459
 g35
 I00
-(lp2451
+(lp2460
 VTina
-p2452
-aVColby
-p2453
-aVKeith
-p2454
-aVElisabeth
-p2455
-aVRodger
-p2456
-aVAmber
-p2457
-aVNick
-p2458
-aVJerri
-p2459
-aVAlicia
-p2460
-aVJeff
 p2461
-aVMichael
+aVColby
 p2462
-aVKimmi
+aVKeith
 p2463
-aVMitchell
+aVElisabeth
 p2464
-aVMaralyn
+aVRodger
 p2465
-aVKel
+aVAmber
 p2466
-aVDebb
+aVNick
 p2467
-atp2468
+aVJerri
+p2468
+aVAlicia
+p2469
+aVJeff
+p2470
+aVMichael
+p2471
+aVKimmi
+p2472
+aVMitchell
+p2473
+aVMaralyn
+p2474
+aVKel
+p2475
+aVDebb
+p2476
+atp2477
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p2469
-tp2470
-Rp2471
-stp2472
-Rp2473
-a(lp2474
+p2478
+tp2479
+Rp2480
+stp2481
+Rp2482
+a(lp2483
 g25
 (g26
 (I0
-tp2475
+tp2484
 g28
-tp2476
-Rp2477
+tp2485
+Rp2486
 (I1
 (L18L
 L16L
-tp2478
+tp2487
 g35
 I00
-(lp2479
+(lp2488
 V \u2014
-p2480
-aV \u2014
-p2481
-aV \u2014
-p2482
-aV Debb
-p2483
-aV Debb
-p2484
-aV \u2014
-p2485
-aV Debb
-p2486
-aV \u2014
-p2487
-aV Debb
-p2488
-aV Debb
 p2489
-aV Debb
+aV \u2014
 p2490
-aV Debb
+aV \u2014
 p2491
-aV \u2014
+aV Debb
 p2492
-aV \u2014
+aV Debb
 p2493
 aV \u2014
 p2494
-aV Jeff
+aV Debb
 p2495
-aV Kel
+aV \u2014
 p2496
-aV Kel
+aV Debb
 p2497
-aV Kel
+aV Debb
 p2498
-aV \u2014
+aV Debb
 p2499
-aV \u2014
+aV Debb
 p2500
-aV Kel
+aV \u2014
 p2501
 aV \u2014
 p2502
-aV Kel
+aV \u2014
 p2503
-aV \u2014
+aV Jeff
 p2504
-aV \u2014
+aV Kel
 p2505
-aV \u2014
+aV Kel
 p2506
-aV \u2014
+aV Kel
 p2507
-aV Kel
+aV \u2014
 p2508
-aV Kel
+aV \u2014
 p2509
-aV Jerri
+aV Kel
 p2510
-ag129
-aV Maralyn
+aV \u2014
 p2511
-aV Maralyn
+aV Kel
 p2512
-aV Mitchell
+aV \u2014
 p2513
 aV \u2014
 p2514
 aV \u2014
 p2515
-aV Maralyn
+aV \u2014
 p2516
-aV \u2014
+aV Kel
 p2517
-aV Maralyn
+aV Kel
 p2518
-aV \u2014
-p2519
-aV \u2014
-p2520
-aV \u2014
-p2521
-aV \u2014
-p2522
-aV Maralyn
-p2523
 aV Jerri
+p2519
+ag129
+aV Maralyn
+p2520
+aV Maralyn
+p2521
+aV Mitchell
+p2522
+aV \u2014
+p2523
+aV \u2014
 p2524
-ag129
-ag129
-aV Mitchell
+aV Maralyn
 p2525
-aV Mitchell
+aV \u2014
 p2526
-aV Mitchell
+aV Maralyn
 p2527
 aV \u2014
 p2528
 aV \u2014
 p2529
-aV Keith
+aV \u2014
 p2530
 aV \u2014
 p2531
-aV Keith
+aV Maralyn
 p2532
-aV \u2014
+aV Jerri
 p2533
-aV \u2014
+ag129
+ag129
+aV Mitchell
 p2534
-aV \u2014
+aV Mitchell
 p2535
-aV \u2014
+aV Mitchell
 p2536
-aV Keith
+aV \u2014
 p2537
-ag129
-ag129
-ag129
-aV Mitchell
+aV \u2014
 p2538
-aV Mitchell
+aV Keith
 p2539
-aVNone
+aV \u2014
 p2540
-ag2528
-ag2529
 aV Keith
 p2541
-ag2531
-aV Keith
+aV \u2014
 p2542
-ag2533
-ag2534
-ag2535
-ag2536
-aVNone
+aV \u2014
 p2543
-ag129
-ag129
-ag129
 aV \u2014
 p2544
 aV \u2014
 p2545
-aV \u2014
+aV Keith
 p2546
-aV Kimmi
+ag129
+ag129
+ag129
+aV Mitchell
 p2547
-aV Kimmi
+aV Mitchell
 p2548
-aV \u2014
+aVNone
 p2549
-aV Kimmi
+ag2537
+ag2538
+aV Keith
 p2550
-aV \u2014
+ag2540
+aV Keith
 p2551
-aV Kimmi
+ag2542
+ag2543
+ag2544
+ag2545
+aVNone
 p2552
-aV Kimmi
+ag129
+ag129
+ag129
+aV \u2014
 p2553
-aV Kimmi
+aV \u2014
 p2554
-aV Jeff
+aV \u2014
 p2555
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Kimmi
 p2556
-aV \u2014
+aV Kimmi
 p2557
 aV \u2014
 p2558
-aV \u2014
+aV Kimmi
 p2559
 aV \u2014
 p2560
-aV \u2014
+aV Kimmi
 p2561
-aV \u2014
+aV Kimmi
 p2562
-aV \u2014
+aV Kimmi
 p2563
-aV \u2014
+aV Jeff
 p2564
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p2565
-aVEvacuated
+aV \u2014
 p2566
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jeff
+aV \u2014
 p2567
-aV Jeff
+aV \u2014
 p2568
-aV Jeff
+aV \u2014
 p2569
-aV Colby
+aV \u2014
 p2570
-aV Colby
+aV \u2014
 p2571
-aV Jeff
+aV \u2014
 p2572
-aV Colby
+aV \u2014
 p2573
-aV Jeff
+aV \u2014
 p2574
-aV Colby
+aVEvacuated
 p2575
-aV Colby
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jeff
 p2576
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Jeff
 p2577
-aVNone
-p2578
 aV Jeff
+p2578
+aV Colby
 p2579
 aV Colby
 p2580
-aV Colby
+aV Jeff
 p2581
-aV Jeff
-p2582
 aV Colby
-p2583
+p2582
 aV Jeff
+p2583
+aV Colby
 p2584
 aV Colby
 p2585
-aVNone
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jeff
 p2586
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alicia
+aVNone
 p2587
-aV Alicia
+aV Jeff
 p2588
-aV Alicia
+aV Colby
 p2589
-aV Jerri
+aV Colby
 p2590
-aV Jerri
+aV Jeff
 p2591
-aV Alicia
+aV Colby
 p2592
-aV Jerri
+aV Jeff
 p2593
-aV Alicia
+aV Colby
 p2594
-aV Jerri
+aVNone
 p2595
 ag129
 ag129
@@ -7020,104 +7005,89 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Jerri
+aV Alicia
 p2596
-aV Jerri
+aV Alicia
 p2597
-aV Jerri
+aV Alicia
 p2598
 aV Jerri
 p2599
 aV Jerri
 p2600
-aV Elisabeth
+aV Alicia
 p2601
 aV Jerri
 p2602
-aV Elisabeth
+aV Alicia
 p2603
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Nick
+aV Jerri
 p2604
-aV Nick
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jerri
 p2605
-aV Nick
+aV Jerri
 p2606
-aV Amber
+aV Jerri
 p2607
-aV Amber
+aV Jerri
 p2608
-aV Nick
+aV Jerri
 p2609
-aV Keith
+aV Elisabeth
 p2610
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Amber
+aV Jerri
 p2611
-aV Rodger
+aV Elisabeth
 p2612
-aV Amber
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Nick
 p2613
-aV Amber
+aV Nick
 p2614
-aV Amber
+aV Nick
 p2615
-aV Rodger
+aV Amber
 p2616
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rodger
+aV Amber
 p2617
-aV Rodger
+aV Nick
 p2618
-aV Rodger
+aV Keith
 p2619
-aV Keith
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Amber
 p2620
-aV Keith
+aV Rodger
 p2621
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Elisabeth
+aV Amber
 p2622
-aV Elisabeth
+aV Amber
 p2623
-aV Elisabeth
+aV Amber
 p2624
-aV Keith
+aV Rodger
 p2625
 ag129
 ag129
@@ -7129,59 +7099,53 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Rodger
 p2626
-aV Keith
+aV Rodger
 p2627
-aV \u2014
+aV Rodger
 p2628
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-aV Colby
+aV Keith
 p2629
-aV Colby
+aV Keith
 p2630
-aV Colby
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Elisabeth
 p2631
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-aV Tina
+aV Elisabeth
 p2632
-aV Tina
+aV Elisabeth
 p2633
-ag129
-ag129
-ag129
-aV Tina
+aV Keith
 p2634
-aV Tina
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p2635
+aV Keith
+p2636
+aV \u2014
+p2637
 ag129
 ag129
 ag129
@@ -7189,35 +7153,71 @@ ag129
 ag129
 ag129
 ag129
-atp2636
-ba(lp2637
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+aV Colby
+p2638
+aV Colby
+p2639
+aV Colby
+p2640
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Tina
+p2641
+aV Tina
+p2642
+ag129
+ag129
+ag129
+aV Tina
+p2643
+aV Tina
+p2644
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp2645
+ba(lp2646
 g21
 (g22
-(dp2638
+(dp2647
 g24
 g25
 (g26
 (I0
-tp2639
+tp2648
 g28
-tp2640
-Rp2641
+tp2649
+Rp2650
 (I1
 (L18L
-tp2642
+tp2651
 g35
 I00
-(lp2643
-g2425
-ag2426
-ag2427
-ag2428
-ag2429
-ag2430
-ag2431
-ag2432
-ag2433
-ag2434
+(lp2652
+g2434
 ag2435
 ag2436
 ag2437
@@ -7226,43 +7226,52 @@ ag2439
 ag2440
 ag2441
 ag2442
-atp2644
+ag2443
+ag2444
+ag2445
+ag2446
+ag2447
+ag2448
+ag2449
+ag2450
+ag2451
+atp2653
 bsg63
-Nstp2645
-Rp2646
-a(dp2647
+Nstp2654
+Rp2655
+a(dp2656
 g339
-(dp2648
+(dp2657
 g341
-g2418
+g2427
 sg342
-(lp2649
-(dp2650
+(lp2658
+(dp2659
 g345
 g346
 (I0
 I18
 I1
-tp2651
-Rp2652
+tp2660
+Rp2661
 sg349
-g2477
-sasstp2653
+g2486
+sasstp2662
 bsbsg351
 I2
 ssVHeroes_vs_Villains
-p2654
-(dp2655
+p2663
+(dp2664
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Heroes_vs_Villains
-p2656
+p2665
 sg5
 g6
 (g7
 g8
-Ntp2657
-Rp2658
-(dp2659
+Ntp2666
+Rp2667
+(dp2668
 g12
 g13
 sg14
@@ -7271,171 +7280,153 @@ sg16
 g6
 (g17
 g8
-Ntp2660
-Rp2661
-((lp2662
+Ntp2669
+Rp2670
+((lp2671
 g21
 (g22
-(dp2663
+(dp2672
 g24
 g25
 (g26
 (I0
-tp2664
+tp2673
 g28
-tp2665
-Rp2666
+tp2674
+Rp2675
 (I1
 (L20L
-tp2667
+tp2676
 g35
 I00
-(lp2668
+(lp2677
 VSugar
-p2669
-aVStephenie
-p2670
-aVRandy
-p2671
-aVCirie
-p2672
-aVTom
-p2673
-aVTyson
-p2674
-aVJames
-p2675
-aVRob
-p2676
-aVCoach
-p2677
-aVCourtney
 p2678
-aVJ.T.
+aVStephenie
 p2679
-aVAmanda
+aVRandy
 p2680
-aVCandice
+aVCirie
 p2681
-aVDanielle
+aVTom
 p2682
-aVRupert
+aVTyson
 p2683
-aVColby
+aVJames
 p2684
-aVJerri
+aVRob
 p2685
-aVRussell
+aVCoach
 p2686
-aVParvati
+aVCourtney
 p2687
-aVSandra
+aVJ.T.
 p2688
-atp2689
+aVAmanda
+p2689
+aVCandice
+p2690
+aVDanielle
+p2691
+aVRupert
+p2692
+aVColby
+p2693
+aVJerri
+p2694
+aVRussell
+p2695
+aVParvati
+p2696
+aVSandra
+p2697
+atp2698
 bsg63
-Nstp2690
-Rp2691
+Nstp2699
+Rp2700
 ag21
 (g22
-(dp2692
+(dp2701
 g24
 g25
 (g26
 (I0
-tp2693
+tp2702
 g28
-tp2694
-Rp2695
+tp2703
+Rp2704
 (I1
 (L20L
-tp2696
+tp2705
 g35
 I00
-(lp2697
+(lp2706
 VSandra
-p2698
-aVParvati
-p2699
-aVRussell
-p2700
-aVJerri
-p2701
-aVColby
-p2702
-aVRupert
-p2703
-aVDanielle
-p2704
-aVCandice
-p2705
-aVAmanda
-p2706
-aVJ.T.
 p2707
-aVCourtney
+aVParvati
 p2708
-aVCoach
+aVRussell
 p2709
-aVRob
+aVJerri
 p2710
-aVJames
+aVColby
 p2711
-aVTyson
+aVRupert
 p2712
-aVTom
+aVDanielle
 p2713
-aVCirie
+aVCandice
 p2714
-aVRandy
+aVAmanda
 p2715
-aVStephenie
+aVJ.T.
 p2716
-aVSugar
+aVCourtney
 p2717
-atp2718
+aVCoach
+p2718
+aVRob
+p2719
+aVJames
+p2720
+aVTyson
+p2721
+aVTom
+p2722
+aVCirie
+p2723
+aVRandy
+p2724
+aVStephenie
+p2725
+aVSugar
+p2726
+atp2727
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p2719
-tp2720
-Rp2721
-stp2722
-Rp2723
-a(lp2724
+p2728
+tp2729
+Rp2730
+stp2731
+Rp2732
+a(lp2733
 g25
 (g26
 (I0
-tp2725
+tp2734
 g28
-tp2726
-Rp2727
+tp2735
+Rp2736
 (I1
 (L20L
 L20L
-tp2728
+tp2737
 g35
 I00
-(lp2729
+(lp2738
 V \u2014
-p2730
-aV \u2014
-p2731
-aV \u2014
-p2732
-aV \u2014
-p2733
-aV Sugar
-p2734
-aV Sugar
-p2735
-aV \u2014
-p2736
-aV Sugar
-p2737
-aV Sugar
-p2738
-aV Sugar
 p2739
 aV \u2014
 p2740
@@ -7445,37 +7436,37 @@ aV \u2014
 p2742
 aV Sugar
 p2743
-aV \u2014
-p2744
 aV Sugar
+p2744
+aV \u2014
 p2745
 aV Sugar
 p2746
-aV \u2014
+aV Sugar
 p2747
 aV Sugar
 p2748
-aV Amanda
+aV \u2014
 p2749
 aV \u2014
 p2750
 aV \u2014
 p2751
-aV \u2014
+aV Sugar
 p2752
 aV \u2014
 p2753
-aV Amanda
+aV Sugar
 p2754
-aV Stephenie
+aV Sugar
 p2755
 aV \u2014
 p2756
-aV Stephenie
+aV Sugar
 p2757
-aV Stephenie
+aV Amanda
 p2758
-aV Stephenie
+aV \u2014
 p2759
 aV \u2014
 p2760
@@ -7483,38 +7474,38 @@ aV \u2014
 p2761
 aV \u2014
 p2762
-aV Stephenie
-p2763
-aV \u2014
-p2764
 aV Amanda
+p2763
+aV Stephenie
+p2764
+aV \u2014
 p2765
 aV Stephenie
 p2766
-aV \u2014
+aV Stephenie
 p2767
-aV Amanda
+aV Stephenie
 p2768
-ag129
-aV Randy
+aV \u2014
 p2769
-aV Randy
+aV \u2014
 p2770
-aV Randy
+aV \u2014
 p2771
-aV Randy
+aV Stephenie
 p2772
 aV \u2014
 p2773
-aV \u2014
+aV Amanda
 p2774
-aV Randy
+aV Stephenie
 p2775
 aV \u2014
 p2776
-aV \u2014
+aV Amanda
 p2777
-aV \u2014
+ag129
+aV Randy
 p2778
 aV Randy
 p2779
@@ -7524,35 +7515,35 @@ aV Randy
 p2781
 aV \u2014
 p2782
-aV Randy
-p2783
 aV \u2014
+p2783
+aV Randy
 p2784
 aV \u2014
 p2785
-aV Rob
+aV \u2014
 p2786
-ag129
-ag129
 aV \u2014
 p2787
-aV \u2014
+aV Randy
 p2788
-aV \u2014
+aV Randy
 p2789
-aV \u2014
+aV Randy
 p2790
-aV Cirie
+aV \u2014
 p2791
-aV Colby
+aV Randy
 p2792
 aV \u2014
 p2793
-aV Tom
+aV \u2014
 p2794
-aV Tom
+aV Rob
 p2795
-aV Cirie
+ag129
+ag129
+aV \u2014
 p2796
 aV \u2014
 p2797
@@ -7560,36 +7551,36 @@ aV \u2014
 p2798
 aV \u2014
 p2799
-aV Colby
-p2800
-aV \u2014
-p2801
 aV Cirie
+p2800
+aV Colby
+p2801
+aV \u2014
 p2802
 aV Tom
 p2803
-ag129
-ag129
-ag129
-aV \u2014
+aV Tom
 p2804
-aV \u2014
+aV Cirie
 p2805
 aV \u2014
 p2806
 aV \u2014
 p2807
-aV James
+aV \u2014
 p2808
-aV Tom
+aV Colby
 p2809
 aV \u2014
 p2810
-aV Tom
+aV Cirie
 p2811
 aV Tom
 p2812
-aV Tom
+ag129
+ag129
+ag129
+aV \u2014
 p2813
 aV \u2014
 p2814
@@ -7597,52 +7588,47 @@ aV \u2014
 p2815
 aV \u2014
 p2816
-aV Tom
-p2817
-aV \u2014
-p2818
 aV James
+p2817
+aV Tom
+p2818
+aV \u2014
 p2819
-ag129
-ag129
-ag129
-ag129
-aV Russell
+aV Tom
 p2820
-aV Tyson
+aV Tom
 p2821
-aV Tyson
+aV Tom
 p2822
-aV Parvati
+aV \u2014
 p2823
 aV \u2014
 p2824
 aV \u2014
 p2825
-aV Tyson
+aV Tom
 p2826
 aV \u2014
 p2827
-aV \u2014
+aV James
 p2828
-aV \u2014
-p2829
-aV Parvati
-p2830
-aV Parvati
-p2831
+ag129
+ag129
+ag129
+ag129
 aV Russell
+p2829
+aV Tyson
+p2830
+aV Tyson
+p2831
+aV Parvati
 p2832
 aV \u2014
 p2833
-aV Parvati
-p2834
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
+p2834
+aV Tyson
 p2835
 aV \u2014
 p2836
@@ -7650,17 +7636,22 @@ aV \u2014
 p2837
 aV \u2014
 p2838
-aV James
+aV Parvati
 p2839
-aV James
+aV Parvati
 p2840
-aV \u2014
+aV Russell
 p2841
-aV James
+aV \u2014
 p2842
-aV James
+aV Parvati
 p2843
-aV James
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p2844
 aV \u2014
 p2845
@@ -7668,157 +7659,147 @@ aV \u2014
 p2846
 aV \u2014
 p2847
-aV Colby
+aV James
 p2848
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Russell
+aV James
 p2849
-aV Rob
-p2850
-aV Rob
-p2851
-aV Rob
-p2852
 aV \u2014
+p2850
+aV James
+p2851
+aV James
+p2852
+aV James
 p2853
 aV \u2014
 p2854
-aV Rob
+aV \u2014
 p2855
 aV \u2014
 p2856
-aV \u2014
+aV Colby
 p2857
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Russell
 p2858
-aV Russell
+aV Rob
 p2859
-aV Courtney
+aV Rob
 p2860
-aV Russell
+aV Rob
 p2861
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Coach
+aV \u2014
 p2862
-aV Coach
+aV \u2014
 p2863
-aV Courtney
+aV Rob
 p2864
-aV Courtney
+aV \u2014
 p2865
 aV \u2014
 p2866
 aV \u2014
 p2867
-aV Coach
+aV Russell
 p2868
-aV \u2014
+aV Courtney
 p2869
-aV \u2014
+aV Russell
 p2870
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Coach
 p2871
 aV Coach
 p2872
 aV Courtney
 p2873
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Courtney
 p2874
-aV Courtney
+aV \u2014
 p2875
-aV Courtney
+aV \u2014
 p2876
-aV Courtney
+aV Coach
 p2877
 aV \u2014
 p2878
 aV \u2014
 p2879
-aV Courtney
+aV \u2014
 p2880
-aV \u2014
+aV Coach
 p2881
-aV \u2014
+aV Courtney
 p2882
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Courtney
 p2883
-aV Jerri
+aV Courtney
 p2884
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV J.T.
+aV Courtney
 p2885
-aV J.T.
+aV Courtney
 p2886
-aV J.T.
+aV \u2014
 p2887
-aV J.T.
+aV \u2014
 p2888
-aV Jerri
+aV Courtney
 p2889
-aV Jerri
+aV \u2014
 p2890
-aV J.T.
+aV \u2014
 p2891
-aV Jerri
+aV \u2014
 p2892
 aV Jerri
 p2893
-aV Jerri
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV J.T.
 p2894
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Amanda
+aV J.T.
 p2895
-aV Amanda
+aV J.T.
 p2896
-aV Amanda
+aV J.T.
 p2897
-aV Amanda
+aV Jerri
 p2898
-aV Parvati
+aV Jerri
 p2899
-aV Parvati
+aV J.T.
 p2900
-aV Amanda
+aV Jerri
 p2901
-aV Amanda
+aV Jerri
 p2902
-aV Parvati
+aV Jerri
 p2903
 ag129
 ag129
@@ -7830,120 +7811,101 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Candice
+aV Amanda
 p2904
-aV Rupert
+aV Amanda
 p2905
-aV Candice
+aV Amanda
 p2906
-aV Candice
+aV Amanda
 p2907
-aV Candice
+aV Parvati
 p2908
-aV Candice
+aV Parvati
 p2909
-aV Rupert
+aV Amanda
 p2910
-aV Rupert
+aV Amanda
 p2911
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rupert
+aV Parvati
 p2912
-aV Rupert
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Candice
 p2913
-aV Danielle
-p2914
-aV Danielle
-p2915
-aV Danielle
-p2916
-aV Danielle
-p2917
 aV Rupert
+p2914
+aV Candice
+p2915
+aV Candice
+p2916
+aV Candice
+p2917
+aV Candice
 p2918
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Rupert
 p2919
 aV Rupert
 p2920
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Rupert
 p2921
 aV Rupert
 p2922
-aV Sandra
+aV Danielle
 p2923
-aV Sandra
+aV Danielle
 p2924
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Colby
+aV Danielle
 p2925
-aV Colby
+aV Danielle
 p2926
-aV Colby
+aV Rupert
 p2927
-aV Colby
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Rupert
 p2928
-aV Sandra
+aV Rupert
 p2929
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jerri
+aV Rupert
 p2930
-aV Jerri
+aV Rupert
 p2931
-aV Jerri
+aV Sandra
 p2932
-aV Parvati
+aV Sandra
 p2933
 ag129
 ag129
@@ -7959,67 +7921,38 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Parvati
+aV Colby
 p2934
-ag129
-ag129
-aV Parvati
+aV Colby
 p2935
-ag129
-ag129
-ag129
-ag129
-aV Parvati
+aV Colby
 p2936
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-aV Sandra
+aV Colby
 p2937
 aV Sandra
 p2938
 ag129
-aV Sandra
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jerri
 p2939
-aV Sandra
+aV Jerri
 p2940
-aV Sandra
+aV Jerri
 p2941
-aV Sandra
+aV Parvati
 p2942
 ag129
 ag129
@@ -8030,35 +7963,102 @@ ag129
 ag129
 ag129
 ag129
-atp2943
-ba(lp2944
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Parvati
+p2943
+ag129
+ag129
+aV Parvati
+p2944
+ag129
+ag129
+ag129
+ag129
+aV Parvati
+p2945
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+aV Sandra
+p2946
+aV Sandra
+p2947
+ag129
+aV Sandra
+p2948
+aV Sandra
+p2949
+aV Sandra
+p2950
+aV Sandra
+p2951
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp2952
+ba(lp2953
 g21
 (g22
-(dp2945
+(dp2954
 g24
 g25
 (g26
 (I0
-tp2946
+tp2955
 g28
-tp2947
-Rp2948
+tp2956
+Rp2957
 (I1
 (L20L
-tp2949
+tp2958
 g35
 I00
-(lp2950
-g2669
-ag2670
-ag2671
-ag2672
-ag2673
-ag2674
-ag2675
-ag2676
-ag2677
-ag2678
+(lp2959
+g2678
 ag2679
 ag2680
 ag2681
@@ -8069,43 +8069,52 @@ ag2685
 ag2686
 ag2687
 ag2688
-atp2951
+ag2689
+ag2690
+ag2691
+ag2692
+ag2693
+ag2694
+ag2695
+ag2696
+ag2697
+atp2960
 bsg63
-Nstp2952
-Rp2953
-a(dp2954
+Nstp2961
+Rp2962
+a(dp2963
 g339
-(dp2955
+(dp2964
 g341
-g2662
+g2671
 sg342
-(lp2956
-(dp2957
+(lp2965
+(dp2966
 g345
 g346
 (I0
 I20
 I1
-tp2958
-Rp2959
+tp2967
+Rp2968
 sg349
-g2727
-sasstp2960
+g2736
+sasstp2969
 bsbsg351
 I20
 ssVGuatemala
-p2961
-(dp2962
+p2970
+(dp2971
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Guatemala
-p2963
+p2972
 sg5
 g6
 (g7
 g8
-Ntp2964
-Rp2965
-(dp2966
+Ntp2973
+Rp2974
+(dp2975
 g12
 g13
 sg14
@@ -8114,169 +8123,151 @@ sg16
 g6
 (g17
 g8
-Ntp2967
-Rp2968
-((lp2969
+Ntp2976
+Rp2977
+((lp2978
 g21
 (g22
-(dp2970
+(dp2979
 g24
 g25
 (g26
 (I0
-tp2971
+tp2980
 g28
-tp2972
-Rp2973
+tp2981
+Rp2982
 (I1
 (L18L
-tp2974
+tp2983
 g35
 I00
-(lp2975
+(lp2984
 VJim
-p2976
-aVMorgan
-p2977
-aVBrianna
-p2978
-aVBrooke
-p2979
-aVBlake
-p2980
-aVMargaret
-p2981
-aVBrian
-p2982
-aVAmy
-p2983
-aVBrandon
-p2984
-aVBobby Jon
 p2985
-aVJamie
+aVMorgan
 p2986
-aVGary
+aVBrianna
 p2987
-aVJudd
+aVBrooke
 p2988
-aVCindy
+aVBlake
 p2989
-aVLydia
+aVMargaret
 p2990
-aVRafe
+aVBrian
 p2991
-aVStephenie
+aVAmy
 p2992
-aVDanni
+aVBrandon
 p2993
-atp2994
+aVBobby Jon
+p2994
+aVJamie
+p2995
+aVGary
+p2996
+aVJudd
+p2997
+aVCindy
+p2998
+aVLydia
+p2999
+aVRafe
+p3000
+aVStephenie
+p3001
+aVDanni
+p3002
+atp3003
 bsg63
-Nstp2995
-Rp2996
+Nstp3004
+Rp3005
 ag21
 (g22
-(dp2997
+(dp3006
 g24
 g25
 (g26
 (I0
-tp2998
+tp3007
 g28
-tp2999
-Rp3000
+tp3008
+Rp3009
 (I1
 (L18L
-tp3001
+tp3010
 g35
 I00
-(lp3002
+(lp3011
 VDanni
-p3003
-aVStephenie
-p3004
-aVRafe
-p3005
-aVLydia
-p3006
-aVCindy
-p3007
-aVJudd
-p3008
-aVGary
-p3009
-aVJamie
-p3010
-aVBobby Jon
-p3011
-aVBrandon
 p3012
-aVAmy
+aVStephenie
 p3013
-aVBrian
+aVRafe
 p3014
-aVMargaret
+aVLydia
 p3015
-aVBlake
+aVCindy
 p3016
-aVBrooke
+aVJudd
 p3017
-aVBrianna
+aVGary
 p3018
-aVMorgan
+aVJamie
 p3019
-aVJim
+aVBobby Jon
 p3020
-atp3021
+aVBrandon
+p3021
+aVAmy
+p3022
+aVBrian
+p3023
+aVMargaret
+p3024
+aVBlake
+p3025
+aVBrooke
+p3026
+aVBrianna
+p3027
+aVMorgan
+p3028
+aVJim
+p3029
+atp3030
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p3022
-tp3023
-Rp3024
-stp3025
-Rp3026
-a(lp3027
+p3031
+tp3032
+Rp3033
+stp3034
+Rp3035
+a(lp3036
 g25
 (g26
 (I0
-tp3028
+tp3037
 g28
-tp3029
-Rp3030
+tp3038
+Rp3039
 (I1
 (L18L
 L18L
-tp3031
+tp3040
 g35
 I00
-(lp3032
+(lp3041
 V Jim
-p3033
-aV \u2014
-p3034
-aV \u2014
-p3035
-aV \u2014
-p3036
-aV Jim
-p3037
-aV Jim
-p3038
-aV \u2014
-p3039
-aV \u2014
-p3040
-aV Jim
-p3041
-aV Jim
 p3042
 aV \u2014
 p3043
 aV \u2014
 p3044
-aV Jim
+aV \u2014
 p3045
 aV Jim
 p3046
@@ -8286,25 +8277,25 @@ aV \u2014
 p3048
 aV \u2014
 p3049
-aV Margaret
+aV Jim
 p3050
-aV \u2014
+aV Jim
 p3051
-aV Morgan
+aV \u2014
 p3052
-aV Morgan
+aV \u2014
 p3053
-aV Morgan
+aV Jim
 p3054
-aV \u2014
+aV Jim
 p3055
-aV \u2014
+aV Jim
 p3056
-aV Morgan
-p3057
-aV Morgan
-p3058
 aV \u2014
+p3057
+aV \u2014
+p3058
+aV Margaret
 p3059
 aV \u2014
 p3060
@@ -8312,7 +8303,7 @@ aV Morgan
 p3061
 aV Morgan
 p3062
-aV \u2014
+aV Morgan
 p3063
 aV \u2014
 p3064
@@ -8320,79 +8311,76 @@ aV \u2014
 p3065
 aV Morgan
 p3066
-aV Lydia
+aV Morgan
 p3067
-ag129
 aV \u2014
 p3068
-aV Brianna
+aV \u2014
 p3069
-aV Brianna
+aV Morgan
 p3070
-aV Brianna
+aV Morgan
 p3071
 aV \u2014
 p3072
 aV \u2014
 p3073
-aV Brianna
-p3074
-aV Brianna
-p3075
 aV \u2014
+p3074
+aV Morgan
+p3075
+aV Lydia
 p3076
+ag129
 aV \u2014
 p3077
 aV Brianna
 p3078
 aV Brianna
 p3079
-aV \u2014
+aV Brianna
 p3080
 aV \u2014
 p3081
 aV \u2014
 p3082
-aV Lydia
+aV Brianna
 p3083
-ag129
-ag129
-aV \u2014
+aV Brianna
 p3084
-aV Brooke
+aV \u2014
 p3085
-aV Brooke
+aV \u2014
 p3086
-aV Brooke
+aV Brianna
 p3087
-aV Lydia
+aV Brianna
 p3088
-aV Brooke
+aV \u2014
 p3089
 aV \u2014
 p3090
-aV Brooke
-p3091
 aV \u2014
+p3091
+aV Lydia
 p3092
+ag129
+ag129
 aV \u2014
 p3093
-aV \u2014
+aV Brooke
 p3094
-aV \u2014
+aV Brooke
 p3095
-aV Lydia
+aV Brooke
 p3096
-aV \u2014
-p3097
 aV Lydia
+p3097
+aV Brooke
 p3098
-ag129
-ag129
-ag129
-aV Blake
-p3099
 aV \u2014
+p3099
+aV Brooke
 p3100
 aV \u2014
 p3101
@@ -8402,161 +8390,156 @@ aV \u2014
 p3103
 aV \u2014
 p3104
-aV Blake
+aV Lydia
 p3105
 aV \u2014
 p3106
-aV Blake
+aV Lydia
 p3107
-aV Brian
+ag129
+ag129
+ag129
+aV Blake
 p3108
-aV Blake
+aV \u2014
 p3109
-aV Blake
+aV \u2014
 p3110
 aV \u2014
 p3111
-aV Brian
+aV \u2014
 p3112
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p3113
-aV Margaret
+aV Blake
 p3114
-aV Margaret
+aV \u2014
 p3115
-aV Margaret
+aV Blake
 p3116
-aV Margaret
+aV Brian
 p3117
-aV Margaret
+aV Blake
 p3118
-aV \u2014
+aV Blake
 p3119
-aV Margaret
-p3120
 aV \u2014
+p3120
+aV Brian
 p3121
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p3122
-aV \u2014
+aV Margaret
 p3123
-aV \u2014
+aV Margaret
 p3124
-aV Judd
+aV Margaret
 p3125
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Brian
+aV Margaret
 p3126
-aV \u2014
+aV Margaret
 p3127
 aV \u2014
 p3128
-aV \u2014
+aV Margaret
 p3129
 aV \u2014
 p3130
 aV \u2014
 p3131
-aV Brian
+aV \u2014
 p3132
 aV \u2014
 p3133
-aV Brian
+aV Judd
 p3134
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Brian
 p3135
-aV Brian
+aV \u2014
 p3136
-aV Bobby Jon
+aV \u2014
 p3137
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Amy
+aV \u2014
 p3138
 aV \u2014
 p3139
 aV \u2014
 p3140
-aV \u2014
+aV Brian
 p3141
 aV \u2014
 p3142
-aV \u2014
+aV Brian
 p3143
-aV Amy
+aV Brian
 p3144
-aV \u2014
+aV Brian
 p3145
-aV Amy
+aV Bobby Jon
 p3146
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Amy
 p3147
-aV Bobby Jon
+aV \u2014
 p3148
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jamie
+aV \u2014
 p3149
-aV Brandon
+aV \u2014
 p3150
-aV Brandon
+aV \u2014
 p3151
-aV Brandon
+aV \u2014
 p3152
-aV Brandon
+aV Amy
 p3153
-aV Brandon
+aV \u2014
 p3154
-aV Jamie
+aV Amy
 p3155
-aV Brandon
+aV Amy
 p3156
-aV Jamie
+aV Bobby Jon
 p3157
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Jamie
 p3158
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Stephenie
+aV Brandon
 p3159
-aV Bobby Jon
+aV Brandon
 p3160
-aV Bobby Jon
+aV Brandon
 p3161
-aV Bobby Jon
+aV Brandon
 p3162
-aV Bobby Jon
+aV Brandon
 p3163
-aV Bobby Jon
+aV Jamie
 p3164
-aV Cindy
+aV Brandon
 p3165
-aV Bobby Jon
+aV Jamie
 p3166
-aV Stephenie
+aV Jamie
 p3167
 ag129
 ag129
@@ -8566,112 +8549,95 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Jamie
+aV Stephenie
 p3168
-aV Jamie
+aV Bobby Jon
 p3169
-aV Jamie
+aV Bobby Jon
 p3170
-aV Jamie
+aV Bobby Jon
 p3171
-aV Jamie
+aV Bobby Jon
 p3172
-aV Gary
+aV Bobby Jon
 p3173
-aV Jamie
+aV Cindy
 p3174
-aV Gary
+aV Bobby Jon
 p3175
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Gary
+aV Stephenie
 p3176
-aV Gary
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jamie
 p3177
-aV Gary
+aV Jamie
 p3178
-aV Gary
+aV Jamie
 p3179
-aV Gary
+aV Jamie
 p3180
-aV Gary
+aV Jamie
 p3181
-aV Cindy
+aV Gary
 p3182
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Judd
+aV Jamie
 p3183
-aV Judd
+aV Gary
 p3184
-aV Judd
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Gary
 p3185
-aV Judd
+aV Gary
 p3186
-aV Lydia
+aV Gary
 p3187
-aV Lydia
+aV Gary
 p3188
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Cindy
+aV Gary
 p3189
-aV Cindy
+aV Gary
 p3190
 aV Cindy
 p3191
-aV Cindy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Judd
 p3192
-aV Rafe
+aV Judd
 p3193
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Lydia
+aV Judd
 p3194
-aV Lydia
+aV Judd
 p3195
 aV Lydia
 p3196
-aV Danni
+aV Lydia
 p3197
 ag129
 ag129
@@ -8685,14 +8651,57 @@ ag129
 ag129
 ag129
 ag129
+aV Cindy
+p3198
+aV Cindy
+p3199
+aV Cindy
+p3200
+aV Cindy
+p3201
+aV Rafe
+p3202
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Lydia
+p3203
+aV Lydia
+p3204
+aV Lydia
+p3205
+aV Danni
+p3206
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 ag129
 aV Rafe
-p3198
+p3207
 aV \u2014
-p3199
+p3208
 aV  \u2014
-p3200
+p3209
 ag129
 ag129
 ag129
@@ -8711,7 +8720,7 @@ ag129
 ag319
 ag319
 aV Stephenie
-p3201
+p3210
 ag129
 ag129
 ag129
@@ -8731,17 +8740,17 @@ ag319
 ag319
 ag129
 aV Danni
-p3202
+p3211
 aV Danni
-p3203
+p3212
 aV Danni
-p3204
+p3213
 aV Danni
-p3205
+p3214
 aV Danni
-p3206
+p3215
 aV Danni
-p3207
+p3216
 ag129
 ag129
 ag129
@@ -8751,35 +8760,26 @@ ag129
 ag129
 ag129
 ag129
-atp3208
-ba(lp3209
+atp3217
+ba(lp3218
 g21
 (g22
-(dp3210
+(dp3219
 g24
 g25
 (g26
 (I0
-tp3211
+tp3220
 g28
-tp3212
-Rp3213
+tp3221
+Rp3222
 (I1
 (L18L
-tp3214
+tp3223
 g35
 I00
-(lp3215
-g2976
-ag2977
-ag2978
-ag2979
-ag2980
-ag2981
-ag2982
-ag2983
-ag2984
-ag2985
+(lp3224
+g2985
 ag2986
 ag2987
 ag2988
@@ -8788,43 +8788,52 @@ ag2990
 ag2991
 ag2992
 ag2993
-atp3216
+ag2994
+ag2995
+ag2996
+ag2997
+ag2998
+ag2999
+ag3000
+ag3001
+ag3002
+atp3225
 bsg63
-Nstp3217
-Rp3218
-a(dp3219
+Nstp3226
+Rp3227
+a(dp3228
 g339
-(dp3220
+(dp3229
 g341
-g2969
+g2978
 sg342
-(lp3221
-(dp3222
+(lp3230
+(dp3231
 g345
 g346
 (I0
 I18
 I1
-tp3223
-Rp3224
+tp3232
+Rp3233
 sg349
-g3030
-sasstp3225
+g3039
+sasstp3234
 bsbsg351
 I11
 ssVChina
-p3226
-(dp3227
+p3235
+(dp3236
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_China
-p3228
+p3237
 sg5
 g6
 (g7
 g8
-Ntp3229
-Rp3230
-(dp3231
+Ntp3238
+Rp3239
+(dp3240
 g12
 g13
 sg14
@@ -8833,356 +8842,332 @@ sg16
 g6
 (g17
 g8
-Ntp3232
-Rp3233
-((lp3234
+Ntp3241
+Rp3242
+((lp3243
 g21
 (g22
-(dp3235
+(dp3244
 g24
 g25
 (g26
 (I0
-tp3236
+tp3245
 g28
-tp3237
-Rp3238
+tp3246
+Rp3247
 (I1
 (L16L
-tp3239
+tp3248
 g35
 I00
-(lp3240
+(lp3249
 VChicken
-p3241
-aVAshley
-p3242
-aVLeslie
-p3243
-aVDave
-p3244
-aVAaron
-p3245
-aVSherea
-p3246
-aVJaime
-p3247
-aVJean-Robert
-p3248
-aVFrosti
-p3249
-aVJames
 p3250
-aVErik
+aVAshley
 p3251
-aVPeih-Gee
+aVLeslie
 p3252
-aVDenise
+aVDave
 p3253
-aVAmanda
+aVAaron
 p3254
-aVCourtney
+aVSherea
 p3255
-aVTodd
+aVJaime
 p3256
-atp3257
+aVJean-Robert
+p3257
+aVFrosti
+p3258
+aVJames
+p3259
+aVErik
+p3260
+aVPeih-Gee
+p3261
+aVDenise
+p3262
+aVAmanda
+p3263
+aVCourtney
+p3264
+aVTodd
+p3265
+atp3266
 bsg63
-Nstp3258
-Rp3259
+Nstp3267
+Rp3268
 ag21
 (g22
-(dp3260
+(dp3269
 g24
 g25
 (g26
 (I0
-tp3261
+tp3270
 g28
-tp3262
-Rp3263
+tp3271
+Rp3272
 (I1
 (L16L
-tp3264
+tp3273
 g35
 I00
-(lp3265
+(lp3274
 VTodd
-p3266
-aVCourtney
-p3267
-aVAmanda
-p3268
-aVDenise
-p3269
-aVPeih-Gee
-p3270
-aVErik
-p3271
-aVJames
-p3272
-aVFrosti
-p3273
-aVJean-Robert
-p3274
-aVJaime
 p3275
-aVSherea
+aVCourtney
 p3276
-aVAaron
+aVAmanda
 p3277
-aVDave
+aVDenise
 p3278
-aVLeslie
+aVPeih-Gee
 p3279
-aVAshley
+aVErik
 p3280
-aVChicken
+aVJames
 p3281
-atp3282
+aVFrosti
+p3282
+aVJean-Robert
+p3283
+aVJaime
+p3284
+aVSherea
+p3285
+aVAaron
+p3286
+aVDave
+p3287
+aVLeslie
+p3288
+aVAshley
+p3289
+aVChicken
+p3290
+atp3291
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p3283
-tp3284
-Rp3285
-stp3286
-Rp3287
-a(lp3288
+p3292
+tp3293
+Rp3294
+stp3295
+Rp3296
+a(lp3297
 g25
 (g26
 (I0
-tp3289
+tp3298
 g28
-tp3290
-Rp3291
+tp3299
+Rp3300
 (I1
 (L16L
 L16L
-tp3292
+tp3301
 g35
 I00
-(lp3293
+(lp3302
 V \u2014
-p3294
-aV \u2014
-p3295
-aV \u2014
-p3296
-aV \u2014
-p3297
-aV Chicken
-p3298
-aV Chicken
-p3299
-aV \u2014
-p3300
-aV Chicken
-p3301
-aV \u2014
-p3302
-aV Chicken
 p3303
-aV Chicken
+aV \u2014
 p3304
 aV \u2014
 p3305
-aV Ashley
+aV \u2014
 p3306
-aV \u2014
+aV Chicken
 p3307
-aV Peih-Gee
+aV Chicken
 p3308
-aV Ashley
-p3309
 aV \u2014
+p3309
+aV Chicken
 p3310
 aV \u2014
 p3311
-aV \u2014
+aV Chicken
 p3312
-aV \u2014
+aV Chicken
 p3313
-aV Ashley
+aV \u2014
 p3314
 aV Ashley
 p3315
 aV \u2014
 p3316
-aV Ashley
+aV Peih-Gee
 p3317
-aV \u2014
+aV Ashley
 p3318
-aV Ashley
+aV \u2014
 p3319
-aV Ashley
+aV \u2014
 p3320
 aV \u2014
 p3321
-aV Ashley
+aV \u2014
 p3322
-aV \u2014
+aV Ashley
 p3323
-aV Dave
+aV Ashley
 p3324
-ag129
-aV Leslie
-p3325
-aV Jean-Robert
-p3326
-aV Leslie
-p3327
-aV Leslie
-p3328
 aV \u2014
+p3325
+aV Ashley
+p3326
+aV \u2014
+p3327
+aV Ashley
+p3328
+aV Ashley
 p3329
 aV \u2014
 p3330
-aV Leslie
+aV Ashley
 p3331
 aV \u2014
 p3332
-aV Leslie
+aV Dave
 p3333
-aV \u2014
+ag129
+aV Leslie
 p3334
-aV \u2014
+aV Jean-Robert
 p3335
 aV Leslie
 p3336
-aV \u2014
+aV Leslie
 p3337
-aV Jean-Robert
+aV \u2014
 p3338
-ag129
-ag129
 aV \u2014
 p3339
-aV \u2014
+aV Leslie
 p3340
 aV \u2014
 p3341
-aV \u2014
+aV Leslie
 p3342
-aV Dave
+aV \u2014
 p3343
-aV Dave
+aV \u2014
 p3344
-aV \u2014
+aV Leslie
 p3345
-aV Dave
-p3346
 aV \u2014
+p3346
+aV Jean-Robert
 p3347
-aV Dave
+ag129
+ag129
+aV \u2014
 p3348
-aV Dave
+aV \u2014
 p3349
 aV \u2014
 p3350
-aV Sherea
+aV \u2014
 p3351
-ag129
-ag129
-ag129
-aV \u2014
+aV Dave
 p3352
-aV \u2014
+aV Dave
 p3353
 aV \u2014
 p3354
-aV \u2014
+aV Dave
 p3355
-aV Aaron
+aV \u2014
 p3356
-aV Aaron
+aV Dave
 p3357
-aV Peih-Gee
+aV Dave
 p3358
 aV \u2014
 p3359
-aV \u2014
+aV Sherea
 p3360
-aV Aaron
+ag129
+ag129
+ag129
+aV \u2014
 p3361
 aV \u2014
 p3362
-aV James
+aV \u2014
 p3363
-ag129
-ag129
-ag129
-ag129
-aV Sherea
+aV \u2014
 p3364
-aV Jean-Robert
+aV Aaron
 p3365
-aV Sherea
+aV Aaron
 p3366
-aV Sherea
+aV Peih-Gee
 p3367
 aV \u2014
 p3368
 aV \u2014
 p3369
-aV \u2014
+aV Aaron
 p3370
-aV Sherea
-p3371
-aV Sherea
-p3372
 aV \u2014
+p3371
+aV James
+p3372
+ag129
+ag129
+ag129
+ag129
+aV Sherea
 p3373
 aV Jean-Robert
 p3374
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jaime
+aV Sherea
 p3375
-aV Jaime
+aV Sherea
 p3376
-aV Jaime
+aV \u2014
 p3377
-aV Jaime
+aV \u2014
 p3378
-aV Jean-Robert
+aV \u2014
 p3379
-aV Jean-Robert
+aV Sherea
 p3380
-aV Jaime
+aV Sherea
 p3381
-aV Jaime
+aV \u2014
 p3382
-aV Jaime
+aV Jean-Robert
 p3383
-aV Jean-Robert
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jaime
 p3384
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jean-Robert
+aV Jaime
 p3385
-aV Jean-Robert
+aV Jaime
 p3386
-aV Jean-Robert
+aV Jaime
 p3387
-aV Peih-Gee
+aV Jean-Robert
 p3388
-aV James
+aV Jean-Robert
 p3389
-aV James
+aV Jaime
 p3390
-aV Jean-Robert
+aV Jaime
 p3391
-aV Jean-Robert
+aV Jaime
 p3392
-aV James
+aV Jean-Robert
 p3393
 ag129
 ag129
@@ -9190,105 +9175,129 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Frosti
+aV Jean-Robert
 p3394
-aV Frosti
+aV Jean-Robert
 p3395
-aV Frosti
+aV Jean-Robert
 p3396
-aV Frosti
+aV Peih-Gee
 p3397
-aV Frosti
+aV James
 p3398
-aV Frosti
+aV James
 p3399
-aV Frosti
+aV Jean-Robert
 p3400
-aV Erik
+aV Jean-Robert
 p3401
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV James
 p3402
-aV James
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Frosti
 p3403
-aV James
+aV Frosti
 p3404
-aV James
+aV Frosti
 p3405
-aV Todd
+aV Frosti
 p3406
-aV James
+aV Frosti
 p3407
-aV Peih-Gee
+aV Frosti
 p3408
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Erik
+aV Frosti
 p3409
 aV Erik
 p3410
-aV Erik
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV James
 p3411
-aV Erik
+aV James
 p3412
-aV Todd
+aV James
 p3413
-aV Todd
+aV James
 p3414
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Peih-Gee
+aV Todd
 p3415
-aV Peih-Gee
+aV James
 p3416
 aV Peih-Gee
 p3417
-aV Peih-Gee
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Erik
 p3418
-aV Todd
+aV Erik
 p3419
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Denise
+aV Erik
 p3420
-aV Denise
+aV Erik
 p3421
-aV Denise
+aV Todd
 p3422
 aV Todd
 p3423
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Peih-Gee
+p3424
+aV Peih-Gee
+p3425
+aV Peih-Gee
+p3426
+aV Peih-Gee
+p3427
+aV Todd
+p3428
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Denise
+p3429
+aV Denise
+p3430
+aV Denise
+p3431
+aV Todd
+p3432
 ag129
 ag129
 ag129
@@ -9307,7 +9316,7 @@ ag319
 ag129
 ag129
 aV Amanda
-p3424
+p3433
 ag129
 ag129
 ag129
@@ -9322,11 +9331,11 @@ ag319
 ag319
 ag319
 aV Courtney
-p3425
+p3434
 ag129
 ag129
 aV Courtney
-p3426
+p3435
 ag129
 ag129
 ag129
@@ -9341,93 +9350,93 @@ ag319
 ag319
 ag129
 aV Todd
-p3427
+p3436
 ag129
 ag129
 aV Todd
-p3428
+p3437
 aV Todd
-p3429
+p3438
 aV Todd
-p3430
+p3439
 ag129
 ag129
 ag129
 ag129
 ag129
 ag129
-atp3431
-ba(lp3432
+atp3440
+ba(lp3441
 g21
 (g22
-(dp3433
+(dp3442
 g24
 g25
 (g26
 (I0
-tp3434
+tp3443
 g28
-tp3435
-Rp3436
+tp3444
+Rp3445
 (I1
 (L16L
-tp3437
+tp3446
 g35
 I00
-(lp3438
-g3241
-ag3242
-ag3243
-ag3244
-ag3245
-ag3246
-ag3247
-ag3248
-ag3249
-ag3250
+(lp3447
+g3250
 ag3251
 ag3252
 ag3253
 ag3254
 ag3255
 ag3256
-atp3439
+ag3257
+ag3258
+ag3259
+ag3260
+ag3261
+ag3262
+ag3263
+ag3264
+ag3265
+atp3448
 bsg63
-Nstp3440
-Rp3441
-a(dp3442
+Nstp3449
+Rp3450
+a(dp3451
 g339
-(dp3443
+(dp3452
 g341
-g3234
+g3243
 sg342
-(lp3444
-(dp3445
+(lp3453
+(dp3454
 g345
 g346
 (I0
 I16
 I1
-tp3446
-Rp3447
+tp3455
+Rp3456
 sg349
-g3291
-sasstp3448
+g3300
+sasstp3457
 bsbsg351
 I15
 ssVWorlds_Apart
-p3449
-(dp3450
+p3458
+(dp3459
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Worlds_Apart
-p3451
+p3460
 sg5
 g6
 (g7
 g8
-Ntp3452
-Rp3453
-(dp3454
+Ntp3461
+Rp3462
+(dp3463
 g12
 g13
 sg14
@@ -9436,193 +9445,175 @@ sg16
 g6
 (g17
 g8
-Ntp3455
-Rp3456
-((lp3457
+Ntp3464
+Rp3465
+((lp3466
 g21
 (g22
-(dp3458
+(dp3467
 g24
 g25
 (g26
 (I0
-tp3459
+tp3468
 g28
-tp3460
-Rp3461
+tp3469
+Rp3470
 (I1
 (L20L
-tp3462
+tp3471
 g35
 I00
-(lp3463
+(lp3472
 VSo
-p3464
-aVVince
-p3465
-aVNina
-p3466
-aVLindsey
-p3467
-aVLindsey
-p3468
-aVMax
-p3469
-aVJoaquin
-p3470
-aVKelly
-p3471
-aVHali
-p3472
-aVJoe
 p3473
-aVJenn
+aVVince
 p3474
-aVShirin
+aVNina
 p3475
-aVTyler
+aVLindsey
 p3476
-aVDan
+aVLindsey
 p3477
-aVDan
+aVMax
 p3478
-aVSierra
+aVJoaquin
 p3479
-aVRodney
+aVKelly
 p3480
-aVWill
+aVHali
 p3481
-aVCarolyn
+aVJoe
 p3482
-aVMike
+aVJenn
 p3483
-atp3484
+aVShirin
+p3484
+aVTyler
+p3485
+aVDan
+p3486
+aVDan
+p3487
+aVSierra
+p3488
+aVRodney
+p3489
+aVWill
+p3490
+aVCarolyn
+p3491
+aVMike
+p3492
+atp3493
 bsg63
-Nstp3485
-Rp3486
+Nstp3494
+Rp3495
 ag21
 (g22
-(dp3487
+(dp3496
 g24
 g25
 (g26
 (I0
-tp3488
+tp3497
 g28
-tp3489
-Rp3490
+tp3498
+Rp3499
 (I1
 (L18L
-tp3491
+tp3500
 g35
 I00
-(lp3492
+(lp3501
 VMike
-p3493
-aVCarolyn
-p3494
-aVWill
-p3495
-aVRodney
-p3496
-aVSierra
-p3497
-aVDan
-p3498
-aVTyler
-p3499
-aVShirin
-p3500
-aVJenn
-p3501
-aVJoe
 p3502
-aVHali
+aVCarolyn
 p3503
-aVKelly
+aVWill
 p3504
-aVJoaquin
+aVRodney
 p3505
-aVMax
+aVSierra
 p3506
-aVLindsey
+aVDan
 p3507
-aVNina
+aVTyler
 p3508
-aVVince
+aVShirin
 p3509
-aVSo
+aVJenn
 p3510
-atp3511
+aVJoe
+p3511
+aVHali
+p3512
+aVKelly
+p3513
+aVJoaquin
+p3514
+aVMax
+p3515
+aVLindsey
+p3516
+aVNina
+p3517
+aVVince
+p3518
+aVSo
+p3519
+atp3520
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p3512
-tp3513
-Rp3514
-stp3515
-Rp3516
-a(lp3517
+p3521
+tp3522
+Rp3523
+stp3524
+Rp3525
+a(lp3526
 g25
 (g26
 (I0
-tp3518
+tp3527
 g28
-tp3519
-Rp3520
+tp3528
+Rp3529
 (I1
 (L20L
 L18L
-tp3521
+tp3530
 g35
 I00
-(lp3522
+(lp3531
 V \u2014
-p3523
-aV So
-p3524
-aV \u2014
-p3525
-aV \u2014
-p3526
-aV \u2014
-p3527
-aV \u2014
-p3528
-aV So
-p3529
-aV So
-p3530
-aV \u2014
-p3531
-aV \u2014
 p3532
-aV \u2014
+aV So
 p3533
 aV \u2014
 p3534
-aV Carolyn
+aV \u2014
 p3535
-aV So
+aV \u2014
 p3536
 aV \u2014
 p3537
-aV \u2014
+aV So
 p3538
-aV \u2014
+aV So
 p3539
-aV Carolyn
+aV \u2014
 p3540
 aV \u2014
 p3541
 aV \u2014
 p3542
-aV Vince
+aV \u2014
 p3543
-aV \u2014
+aV Carolyn
 p3544
-aV \u2014
+aV So
 p3545
 aV \u2014
 p3546
@@ -9630,13 +9621,13 @@ aV \u2014
 p3547
 aV \u2014
 p3548
-aV Vince
+aV Carolyn
 p3549
-aV Nina
-p3550
-aV Vince
-p3551
 aV \u2014
+p3550
+aV \u2014
+p3551
+aV Vince
 p3552
 aV \u2014
 p3553
@@ -9644,16 +9635,15 @@ aV \u2014
 p3554
 aV \u2014
 p3555
-aV Jenn
+aV \u2014
 p3556
-aV Jenn
+aV \u2014
 p3557
-ag129
-aV \u2014
+aV Vince
 p3558
-aV \u2014
-p3559
 aV Nina
+p3559
+aV Vince
 p3560
 aV \u2014
 p3561
@@ -9663,15 +9653,16 @@ aV \u2014
 p3563
 aV \u2014
 p3564
-aV \u2014
+aV Jenn
 p3565
-aV Nina
+aV Jenn
 p3566
-aV Nina
-p3567
-aV Will
-p3568
+ag129
 aV \u2014
+p3567
+aV \u2014
+p3568
+aV Nina
 p3569
 aV \u2014
 p3570
@@ -9679,85 +9670,85 @@ aV \u2014
 p3571
 aV \u2014
 p3572
-aV Will
+aV \u2014
 p3573
-ag129
-ag129
-aV Lindsey
+aV \u2014
 p3574
-aV\u2014
+aV Nina
 p3575
-aV\u2014
+aV Nina
 p3576
-aV Sierra
+aV Will
 p3577
-aV Rodney
+aV \u2014
 p3578
-aV Lindsey
+aV \u2014
 p3579
-aV\u2014
+aV \u2014
 p3580
-aV\u2014
+aV \u2014
 p3581
-aV\u2014
+aV Will
 p3582
-aV\u2014
+ag129
+ag129
+aV Lindsey
 p3583
 aV\u2014
 p3584
-aV Sierra
+aV\u2014
 p3585
-aV\u2014
+aV Sierra
 p3586
-aV\u2014
-p3587
 aV Rodney
+p3587
+aV Lindsey
 p3588
-ag129
-ag129
-ag129
-aV Lindsey
+aV\u2014
 p3589
-ag3575
-ag3576
-aV None
+aV\u2014
 p3590
-aV None
+aV\u2014
 p3591
-aV Lindsey
+aV\u2014
 p3592
-ag3580
-ag3581
-ag3582
-ag3583
-ag3584
-aV Lindsey
+aV\u2014
 p3593
-ag3586
-ag3587
-aV None
+aV Sierra
 p3594
-ag129
-ag129
-ag129
-aV \u2014
+aV\u2014
 p3595
-aV Max
+aV\u2014
 p3596
-aV Max
+aV Rodney
 p3597
-aV \u2014
+ag129
+ag129
+ag129
+aV Lindsey
 p3598
-aV \u2014
+ag3584
+ag3585
+aV None
 p3599
-aV \u2014
+aV None
 p3600
-aV \u2014
+aV Lindsey
 p3601
-aV Will
+ag3589
+ag3590
+ag3591
+ag3592
+ag3593
+aV Lindsey
 p3602
-aV Max
+ag3595
+ag3596
+aV None
 p3603
+ag129
+ag129
+ag129
 aV \u2014
 p3604
 aV Max
@@ -9766,30 +9757,30 @@ aV Max
 p3606
 aV \u2014
 p3607
-aV Will
+aV \u2014
 p3608
-ag129
-ag129
-ag129
-ag129
-aV Joaquin
+aV \u2014
 p3609
 aV \u2014
 p3610
-aV \u2014
+aV Will
 p3611
-aV Joe
+aV Max
 p3612
-aV Joaquin
+aV \u2014
 p3613
-aV Joaquin
+aV Max
 p3614
-aV Joe
+aV Max
 p3615
 aV \u2014
 p3616
-aV \u2014
+aV Will
 p3617
+ag129
+ag129
+ag129
+ag129
 aV Joaquin
 p3618
 aV \u2014
@@ -9798,115 +9789,107 @@ aV \u2014
 p3620
 aV Joe
 p3621
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jenn
+aV Joaquin
 p3622
-aV Jenn
+aV Joaquin
 p3623
-aV Hali
+aV Joe
 p3624
-aV Jenn
+aV \u2014
 p3625
-aV Jenn
+aV \u2014
 p3626
-aV Jenn
+aV Joaquin
 p3627
-aV Jenn
+aV \u2014
 p3628
-aV Kelly
+aV \u2014
 p3629
-aV Kelly
+aV Joe
 p3630
-aV Kelly
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jenn
 p3631
-aV Kelly
+aV Jenn
 p3632
-aV Jenn
+aV Hali
 p3633
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Hali
+aV Jenn
 p3634
-aV Hali
+aV Jenn
 p3635
-aV Hali
+aV Jenn
 p3636
-aV Hali
+aV Jenn
 p3637
-aV Hali
+aV Kelly
 p3638
-aV Hali
+aV Kelly
 p3639
-aV Hali
+aV Kelly
 p3640
-aV Dan
+aV Kelly
 p3641
-aV Dan
+aV Jenn
 p3642
-aV Dan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Hali
 p3643
-aV Dan
+aV Hali
 p3644
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Joe
+aV Hali
 p3645
-aV Jenn
+aV Hali
 p3646
-aV Jenn
+aV Hali
 p3647
-aV Joe
+aV Hali
 p3648
-aV Joe
+aV Hali
 p3649
-aV Joe
+aV Dan
 p3650
-aV Jenn
+aV Dan
 p3651
-aV Joe
+aV Dan
 p3652
 aV Dan
 p3653
-aV Jenn
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Joe
 p3654
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Jenn
 p3655
 aV Jenn
 p3656
-aV Jenn
+aV Joe
 p3657
-aV Shirin
+aV Joe
 p3658
-aV Shirin
+aV Joe
 p3659
-aV Shirin
+aV Jenn
 p3660
-aV Jenn
+aV Joe
 p3661
-aV Jenn
+aV Dan
 p3662
-aV Carolyn
+aV Jenn
 p3663
 ag129
 ag129
@@ -9916,12 +9899,11 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Tyler
+aV Jenn
 p3664
-aV Shirin
+aV Jenn
 p3665
-aV Dan
+aV Jenn
 p3666
 aV Shirin
 p3667
@@ -9929,117 +9911,101 @@ aV Shirin
 p3668
 aV Shirin
 p3669
-aV Dan
+aV Jenn
 p3670
-aV Tyler
+aV Jenn
 p3671
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tyler
+aV Carolyn
 p3672
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Tyler
 p3673
-aV Mike
+aV Shirin
 p3674
-aV Mike
+aV Dan
 p3675
-aV Tyler
+aV Shirin
 p3676
-aV Mike
+aV Shirin
 p3677
-aV Mike
+aV Shirin
 p3678
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Dan
 p3679
-aV Dan
+aV Tyler
 p3680
-aV Carolyn
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tyler
 p3681
-aV Carolyn
+aV Tyler
 p3682
-aV Carolyn
+aV Mike
 p3683
-aV Carolyn
+aV Mike
 p3684
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag3679
-ag3680
-ag3681
-ag3682
-ag3683
-aV Carolyn
+aV Tyler
 p3685
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Sierra
+aV Mike
 p3686
-aV Sierra
+aV Mike
 p3687
-aV Sierra
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Dan
 p3688
-aV Sierra
+aV Dan
 p3689
-aV Rodney
+aV Carolyn
 p3690
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rodney
+aV Carolyn
 p3691
-aV Rodney
+aV Carolyn
 p3692
 aV Carolyn
 p3693
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag3688
+ag3689
+ag3690
+ag3691
+ag3692
 aV Carolyn
 p3694
 ag129
@@ -10054,13 +10020,56 @@ ag129
 ag129
 ag129
 ag129
+aV Sierra
+p3695
+aV Sierra
+p3696
+aV Sierra
+p3697
+aV Sierra
+p3698
+aV Rodney
+p3699
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Rodney
+p3700
+aV Rodney
+p3701
+aV Carolyn
+p3702
+aV Carolyn
+p3703
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 ag129
 ag319
 ag319
 ag319
 aV Will
-p3695
+p3704
 ag129
 ag129
 ag129
@@ -10080,7 +10089,7 @@ ag319
 ag319
 ag129
 aV Carolyn
-p3696
+p3705
 ag129
 ag129
 ag129
@@ -10100,17 +10109,17 @@ ag319
 ag129
 ag129
 aV Mike
-p3697
+p3706
 aV Mike
-p3698
+p3707
 aV Mike
-p3699
+p3708
 aV Mike
-p3700
+p3709
 aV Mike
-p3701
+p3710
 aV Mike
-p3702
+p3711
 ag129
 ag129
 ag129
@@ -10118,35 +10127,26 @@ ag129
 ag129
 ag129
 ag129
-atp3703
-ba(lp3704
+atp3712
+ba(lp3713
 g21
 (g22
-(dp3705
+(dp3714
 g24
 g25
 (g26
 (I0
-tp3706
+tp3715
 g28
-tp3707
-Rp3708
+tp3716
+Rp3717
 (I1
 (L20L
-tp3709
+tp3718
 g35
 I00
-(lp3710
-g3464
-ag3465
-ag3466
-ag3467
-ag3468
-ag3469
-ag3470
-ag3471
-ag3472
-ag3473
+(lp3719
+g3473
 ag3474
 ag3475
 ag3476
@@ -10157,43 +10157,52 @@ ag3480
 ag3481
 ag3482
 ag3483
-atp3711
+ag3484
+ag3485
+ag3486
+ag3487
+ag3488
+ag3489
+ag3490
+ag3491
+ag3492
+atp3720
 bsg63
-Nstp3712
-Rp3713
-a(dp3714
+Nstp3721
+Rp3722
+a(dp3723
 g339
-(dp3715
+(dp3724
 g341
-g3457
+g3466
 sg342
-(lp3716
-(dp3717
+(lp3725
+(dp3726
 g345
 g346
 (I0
 I20
 I1
-tp3718
-Rp3719
+tp3727
+Rp3728
 sg349
-g3520
-sasstp3720
+g3529
+sasstp3729
 bsbsg351
 I30
 ssVThailand
-p3721
-(dp3722
+p3730
+(dp3731
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Thailand
-p3723
+p3732
 sg5
 g6
 (g7
 g8
-Ntp3724
-Rp3725
-(dp3726
+Ntp3733
+Rp3734
+(dp3735
 g12
 g13
 sg14
@@ -10202,199 +10211,180 @@ sg16
 g6
 (g17
 g8
-Ntp3727
-Rp3728
-((lp3729
+Ntp3736
+Rp3737
+((lp3738
 g21
 (g22
-(dp3730
+(dp3739
 g24
 g25
 (g26
 (I0
-tp3731
+tp3740
 g28
-tp3732
-Rp3733
+tp3741
+Rp3742
 (I1
 (L16L
-tp3734
+tp3743
 g35
 I00
-(lp3735
+(lp3744
 VJohn
-p3736
-aVTanya
-p3737
-aVJed
-p3738
-aVGhandia
-p3739
-aVStephanie
-p3740
-aVRobb
-p3741
-aVShii Ann
-p3742
-aVErin
-p3743
-aVKen
-p3744
-aVPenny
 p3745
-aVJake
+aVTanya
 p3746
-aVTed
+aVJed
 p3747
-aVHelen
+aVGhandia
 p3748
-aVJan
+aVStephanie
 p3749
-aVClay
+aVRobb
 p3750
-aVBrian
+aVShii Ann
 p3751
-atp3752
+aVErin
+p3752
+aVKen
+p3753
+aVPenny
+p3754
+aVJake
+p3755
+aVTed
+p3756
+aVHelen
+p3757
+aVJan
+p3758
+aVClay
+p3759
+aVBrian
+p3760
+atp3761
 bsg63
-Nstp3753
-Rp3754
+Nstp3762
+Rp3763
 ag21
 (g22
-(dp3755
+(dp3764
 g24
 g25
 (g26
 (I0
-tp3756
+tp3765
 g28
-tp3757
-Rp3758
+tp3766
+Rp3767
 (I1
 (L16L
-tp3759
+tp3768
 g35
 I00
-(lp3760
+(lp3769
 VBrian
-p3761
-aVClay
-p3762
-aVJan
-p3763
-aVHelen
-p3764
-aVTed
-p3765
-aVJake
-p3766
-aVPenny
-p3767
-aVKen
-p3768
-aVErin
-p3769
-aVShii Ann
 p3770
-aVRobb
+aVClay
 p3771
-aVStephanie
+aVJan
 p3772
-aVGhandia
+aVHelen
 p3773
-aVJed
+aVTed
 p3774
-aVTanya
+aVJake
 p3775
-aVJohn
+aVPenny
 p3776
-atp3777
+aVKen
+p3777
+aVErin
+p3778
+aVShii Ann
+p3779
+aVRobb
+p3780
+aVStephanie
+p3781
+aVGhandia
+p3782
+aVJed
+p3783
+aVTanya
+p3784
+aVJohn
+p3785
+atp3786
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p3778
-tp3779
-Rp3780
-stp3781
-Rp3782
-a(lp3783
+p3787
+tp3788
+Rp3789
+stp3790
+Rp3791
+a(lp3792
 g25
 (g26
 (I0
-tp3784
+tp3793
 g28
-tp3785
-Rp3786
+tp3794
+Rp3795
 (I1
 (L16L
 L16L
-tp3787
+tp3796
 g35
 I00
-(lp3788
+(lp3797
 V John
-p3789
-aV John
-p3790
-aV John
-p3791
-aV Clay
-p3792
-aV John
-p3793
-aV \u2014
-p3794
-aV \u2014
-p3795
-aV \u2014
-p3796
-aV \u2014
-p3797
-aV \u2014
 p3798
-aV \u2014
+aV John
 p3799
-aV \u2014
+aV John
 p3800
-aV John
+aV Clay
 p3801
-aV \u2014
-p3802
 aV John
-p3803
-aV Ghandia
-p3804
-aV Tanya
-p3805
-aV Tanya
-p3806
-aV Tanya
-p3807
-aV Tanya
-p3808
-aV Tanya
-p3809
+p3802
 aV \u2014
+p3803
+aV \u2014
+p3804
+aV \u2014
+p3805
+aV \u2014
+p3806
+aV \u2014
+p3807
+aV \u2014
+p3808
+aV \u2014
+p3809
+aV John
 p3810
 aV \u2014
 p3811
-aV \u2014
+aV John
 p3812
-aV \u2014
+aV Ghandia
 p3813
-aV \u2014
+aV Tanya
 p3814
-aV \u2014
+aV Tanya
 p3815
-aV \u2014
+aV Tanya
 p3816
-aV Helen
+aV Tanya
 p3817
-aV \u2014
+aV Tanya
 p3818
-aV Helen
+aV \u2014
 p3819
-ag129
 aV \u2014
 p3820
 aV \u2014
@@ -10405,56 +10395,54 @@ aV \u2014
 p3823
 aV \u2014
 p3824
-aV Jed
+aV \u2014
 p3825
-aV Jed
+aV Helen
 p3826
-aV Jed
+aV \u2014
 p3827
-aV Jed
+aV Helen
 p3828
-aV Jed
+ag129
+aV \u2014
 p3829
-aV Shii Ann
+aV \u2014
 p3830
-aV Shii Ann
+aV \u2014
 p3831
 aV \u2014
 p3832
-aV Shii Ann
+aV \u2014
 p3833
-ag129
-ag129
-aV Ghandia
+aV Jed
 p3834
-aV Ghandia
+aV Jed
 p3835
-aV Clay
+aV Jed
 p3836
-aV Ghandia
+aV Jed
 p3837
-aV Ghandia
+aV Jed
 p3838
-aV \u2014
+aV Shii Ann
 p3839
-aV \u2014
+aV Shii Ann
 p3840
 aV \u2014
 p3841
-aV \u2014
+aV Shii Ann
 p3842
-aV \u2014
+ag129
+ag129
+aV Ghandia
 p3843
-aV \u2014
+aV Ghandia
 p3844
-aV \u2014
-p3845
 aV Clay
+p3845
+aV Ghandia
 p3846
-ag129
-ag129
-ag129
-aV \u2014
+aV Ghandia
 p3847
 aV \u2014
 p3848
@@ -10464,77 +10452,74 @@ aV \u2014
 p3850
 aV \u2014
 p3851
-aV Stephanie
+aV \u2014
 p3852
-aV Stephanie
+aV \u2014
 p3853
-aV Stephanie
+aV \u2014
 p3854
-aV Stephanie
+aV Clay
 p3855
-aV Stephanie
+ag129
+ag129
+ag129
+aV \u2014
 p3856
-aV Shii Ann
+aV \u2014
 p3857
-aV Shii Ann
+aV \u2014
 p3858
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p3859
 aV \u2014
 p3860
-aV \u2014
+aV Stephanie
 p3861
-aV \u2014
+aV Stephanie
 p3862
-aV \u2014
+aV Stephanie
 p3863
-aV Robb
+aV Stephanie
 p3864
-aV Robb
+aV Stephanie
 p3865
-aV Robb
-p3866
-aV Robb
-p3867
-aV Robb
-p3868
 aV Shii Ann
+p3866
+aV Shii Ann
+p3867
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p3868
+aV \u2014
 p3869
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p3870
 aV \u2014
 p3871
 aV \u2014
 p3872
-aV \u2014
+aV Robb
 p3873
-aV \u2014
+aV Robb
 p3874
-aV Shii Ann
+aV Robb
 p3875
-aV Shii Ann
+aV Robb
 p3876
-aV Shii Ann
+aV Robb
 p3877
 aV Shii Ann
 p3878
-aV Penny
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p3879
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p3880
 aV \u2014
@@ -10543,15 +10528,15 @@ aV \u2014
 p3882
 aV \u2014
 p3883
-aV \u2014
+aV Shii Ann
 p3884
-aV Erin
+aV Shii Ann
 p3885
-aV Erin
+aV Shii Ann
 p3886
-aV Erin
+aV Shii Ann
 p3887
-aV Ken
+aV Penny
 p3888
 ag129
 ag129
@@ -10559,102 +10544,87 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Ken
+aV \u2014
 p3889
-aV Ken
+aV \u2014
 p3890
-aV Ken
+aV \u2014
 p3891
-aV Ken
+aV \u2014
 p3892
-aV Ken
+aV \u2014
 p3893
-aV Ted
+aV Erin
 p3894
-aV Ted
+aV Erin
 p3895
-aV Ted
+aV Erin
 p3896
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Penny
+aV Ken
 p3897
-aV Jake
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Ken
 p3898
-aV Penny
+aV Ken
 p3899
-aV Penny
+aV Ken
 p3900
-aV Penny
+aV Ken
 p3901
-aV Jan
+aV Ken
 p3902
-aV Jake
+aV Ted
 p3903
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jake
+aV Ted
 p3904
-aV Jake
+aV Ted
 p3905
-aV Jake
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Penny
 p3906
 aV Jake
 p3907
-aV Jake
+aV Penny
 p3908
-aV Jan
+aV Penny
 p3909
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ted
+aV Penny
 p3910
-aV Ted
-p3911
-aV Ted
-p3912
-aV Ted
-p3913
 aV Jan
+p3911
+aV Jake
+p3912
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jake
+p3913
+aV Jake
 p3914
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Helen
+aV Jake
 p3915
-aV Helen
+aV Jake
 p3916
-aV Helen
+aV Jake
 p3917
 aV Jan
 p3918
@@ -10668,56 +10638,53 @@ ag129
 ag129
 ag129
 ag129
+aV Ted
+p3919
+aV Ted
+p3920
+aV Ted
+p3921
+aV Ted
+p3922
+aV Jan
+p3923
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Helen
+p3924
+aV Helen
+p3925
+aV Helen
+p3926
+aV Jan
+p3927
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 ag129
 aV Jan
-p3919
-aV \u2014
-p3920
-aV \u2014
-p3921
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-aV Clay
-p3922
-aV Clay
-p3923
-aV Clay
-p3924
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-aV Brian
-p3925
-aV Brian
-p3926
-aV Brian
-p3927
-aV Brian
 p3928
+aV \u2014
+p3929
+aV \u2014
+p3930
 ag129
 ag129
 ag129
@@ -10728,78 +10695,120 @@ ag129
 ag129
 ag129
 ag129
-atp3929
-ba(lp3930
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+aV Clay
+p3931
+aV Clay
+p3932
+aV Clay
+p3933
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Brian
+p3934
+aV Brian
+p3935
+aV Brian
+p3936
+aV Brian
+p3937
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp3938
+ba(lp3939
 g21
 (g22
-(dp3931
+(dp3940
 g24
 g25
 (g26
 (I0
-tp3932
+tp3941
 g28
-tp3933
-Rp3934
+tp3942
+Rp3943
 (I1
 (L16L
-tp3935
+tp3944
 g35
 I00
-(lp3936
-g3736
-ag3737
-ag3738
-ag3739
-ag3740
-ag3741
-ag3742
-ag3743
-ag3744
-ag3745
+(lp3945
+g3745
 ag3746
 ag3747
 ag3748
 ag3749
 ag3750
 ag3751
-atp3937
+ag3752
+ag3753
+ag3754
+ag3755
+ag3756
+ag3757
+ag3758
+ag3759
+ag3760
+atp3946
 bsg63
-Nstp3938
-Rp3939
-a(dp3940
+Nstp3947
+Rp3948
+a(dp3949
 g339
-(dp3941
+(dp3950
 g341
-g3729
+g3738
 sg342
-(lp3942
-(dp3943
+(lp3951
+(dp3952
 g345
 g346
 (I0
 I16
 I1
-tp3944
-Rp3945
+tp3953
+Rp3954
 sg349
-g3786
-sasstp3946
+g3795
+sasstp3955
 bsbsg351
 I5
 ssVThe_Amazon
-p3947
-(dp3948
+p3956
+(dp3957
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_The_Amazon
-p3949
+p3958
 sg5
 g6
 (g7
 g8
-Ntp3950
-Rp3951
-(dp3952
+Ntp3959
+Rp3960
+(dp3961
 g12
 g13
 sg14
@@ -10808,356 +10817,332 @@ sg16
 g6
 (g17
 g8
-Ntp3953
-Rp3954
-((lp3955
+Ntp3962
+Rp3963
+((lp3964
 g21
 (g22
-(dp3956
+(dp3965
 g24
 g25
 (g26
 (I0
-tp3957
+tp3966
 g28
-tp3958
-Rp3959
+tp3967
+Rp3968
 (I1
 (L16L
-tp3960
+tp3969
 g35
 I00
-(lp3961
+(lp3970
 VRyan
-p3962
-aVJanet
-p3963
-aVDaniel
-p3964
-aVJoanna
-p3965
-aVJeanne
-p3966
-aVShawna
-p3967
-aVRoger
-p3968
-aVDave
-p3969
-aVDeena
-p3970
-aVAlex
 p3971
-aVChristy
+aVJanet
 p3972
-aVHeidi
+aVDaniel
 p3973
-aVButch
+aVJoanna
 p3974
-aVRob
+aVJeanne
 p3975
-aVMatthew
+aVShawna
 p3976
-aVJenna
+aVRoger
 p3977
-atp3978
+aVDave
+p3978
+aVDeena
+p3979
+aVAlex
+p3980
+aVChristy
+p3981
+aVHeidi
+p3982
+aVButch
+p3983
+aVRob
+p3984
+aVMatthew
+p3985
+aVJenna
+p3986
+atp3987
 bsg63
-Nstp3979
-Rp3980
+Nstp3988
+Rp3989
 ag21
 (g22
-(dp3981
+(dp3990
 g24
 g25
 (g26
 (I0
-tp3982
+tp3991
 g28
-tp3983
-Rp3984
+tp3992
+Rp3993
 (I1
 (L16L
-tp3985
+tp3994
 g35
 I00
-(lp3986
+(lp3995
 VJenna
-p3987
-aVMatthew
-p3988
-aVRob
-p3989
-aVButch
-p3990
-aVHeidi
-p3991
-aVChristy
-p3992
-aVAlex
-p3993
-aVDeena
-p3994
-aVDave
-p3995
-aVRoger
 p3996
-aVShawna
+aVMatthew
 p3997
-aVJeanne
+aVRob
 p3998
-aVJoanna
+aVButch
 p3999
-aVDaniel
+aVHeidi
 p4000
-aVJanet
+aVChristy
 p4001
-aVRyan
+aVAlex
 p4002
-atp4003
+aVDeena
+p4003
+aVDave
+p4004
+aVRoger
+p4005
+aVShawna
+p4006
+aVJeanne
+p4007
+aVJoanna
+p4008
+aVDaniel
+p4009
+aVJanet
+p4010
+aVRyan
+p4011
+atp4012
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p4004
-tp4005
-Rp4006
-stp4007
-Rp4008
-a(lp4009
+p4013
+tp4014
+Rp4015
+stp4016
+Rp4017
+a(lp4018
 g25
 (g26
 (I0
-tp4010
+tp4019
 g28
-tp4011
-Rp4012
+tp4020
+Rp4021
 (I1
 (L16L
 L16L
-tp4013
+tp4022
 g35
 I00
-(lp4014
+(lp4023
 V \u2014
-p4015
-aV Roger
-p4016
-aV Ryan
-p4017
-aV Ryan
-p4018
-aV \u2014
-p4019
-aV \u2014
-p4020
-aV Ryan
-p4021
-aV \u2014
-p4022
-aV Daniel
-p4023
-aV Ryan
 p4024
-aV \u2014
-p4025
-aV \u2014
-p4026
-aV \u2014
-p4027
 aV Roger
+p4025
+aV Ryan
+p4026
+aV Ryan
+p4027
+aV \u2014
 p4028
 aV \u2014
 p4029
-aV Roger
+aV Ryan
 p4030
-aV Janet
+aV \u2014
 p4031
-aV \u2014
+aV Daniel
 p4032
-aV \u2014
+aV Ryan
 p4033
 aV \u2014
 p4034
-aV Janet
+aV \u2014
 p4035
-aV Jenna
+aV \u2014
 p4036
-aV \u2014
+aV Roger
 p4037
-aV Janet
+aV \u2014
 p4038
-aV \u2014
+aV Roger
 p4039
-aV \u2014
+aV Janet
 p4040
-aV Janet
-p4041
-aV Janet
-p4042
-aV Christy
-p4043
 aV \u2014
+p4041
+aV \u2014
+p4042
+aV \u2014
+p4043
+aV Janet
 p4044
-aV Jeanne
+aV Jenna
 p4045
-ag129
 aV \u2014
 p4046
-aV Daniel
+aV Janet
 p4047
-aV Daniel
+aV \u2014
 p4048
-aV Daniel
+aV \u2014
 p4049
-aV \u2014
+aV Janet
 p4050
-aV \u2014
+aV Janet
 p4051
-aV Daniel
+aV Christy
 p4052
 aV \u2014
 p4053
-aV Daniel
+aV Jeanne
 p4054
-aV Daniel
+ag129
+aV \u2014
 p4055
-aV \u2014
+aV Daniel
 p4056
-aV \u2014
+aV Daniel
 p4057
-aV \u2014
+aV Daniel
 p4058
-aV Roger
-p4059
-ag129
-ag129
-aV Joanna
-p4060
 aV \u2014
+p4059
+aV \u2014
+p4060
+aV Daniel
 p4061
 aV \u2014
 p4062
-aV \u2014
+aV Daniel
 p4063
-aV Joanna
+aV Daniel
 p4064
-aV Joanna
+aV \u2014
 p4065
 aV \u2014
 p4066
-aV Joanna
+aV \u2014
 p4067
-aV \u2014
+aV Roger
 p4068
-aV \u2014
+ag129
+ag129
+aV Joanna
 p4069
-aV Christy
+aV \u2014
 p4070
-aV Shawna
+aV \u2014
 p4071
-aV Shawna
+aV \u2014
 p4072
-ag129
-ag129
-ag129
-aV \u2014
+aV Joanna
 p4073
-aV \u2014
+aV Joanna
 p4074
 aV \u2014
 p4075
-aV Jeanne
+aV Joanna
 p4076
-aV Jeanne
+aV \u2014
 p4077
-aV Butch
+aV \u2014
 p4078
-aV \u2014
+aV Christy
 p4079
-aV \u2014
+aV Shawna
 p4080
-aV Jeanne
+aV Shawna
 p4081
-aV Jeanne
+ag129
+ag129
+ag129
+aV \u2014
 p4082
 aV \u2014
 p4083
-aV Butch
+aV \u2014
 p4084
-ag129
-ag129
-ag129
-ag129
-aV Shawna
+aV Jeanne
 p4085
-aV Shawna
+aV Jeanne
 p4086
-aV Shawna
+aV Butch
 p4087
 aV \u2014
 p4088
 aV \u2014
 p4089
-aV \u2014
+aV Jeanne
 p4090
-aV Matthew
+aV Jeanne
 p4091
-aV Shawna
+aV \u2014
 p4092
-aV \u2014
+aV Butch
 p4093
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+aV Shawna
 p4094
-aV Matthew
+aV Shawna
 p4095
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Roger
+aV Shawna
 p4096
-aV Roger
+aV \u2014
 p4097
-aV Roger
+aV \u2014
 p4098
-aV Christy
+aV \u2014
 p4099
-aV Roger
-p4100
-aV Roger
-p4101
-aV Roger
-p4102
-aV Roger
-p4103
-aV Christy
-p4104
-aV Christy
-p4105
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Dave
-p4106
-aV Dave
-p4107
-aV Dave
-p4108
-aV Dave
-p4109
-aV Dave
-p4110
-aV Dave
-p4111
-aV Dave
-p4112
-aV Dave
-p4113
 aV Matthew
+p4100
+aV Shawna
+p4101
+aV \u2014
+p4102
+aV \u2014
+p4103
+aV Matthew
+p4104
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Roger
+p4105
+aV Roger
+p4106
+aV Roger
+p4107
+aV Christy
+p4108
+aV Roger
+p4109
+aV Roger
+p4110
+aV Roger
+p4111
+aV Roger
+p4112
+aV Christy
+p4113
+aV Christy
 p4114
 ag129
 ag129
@@ -11165,107 +11150,90 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Deena
+aV Dave
 p4115
-aV Deena
+aV Dave
 p4116
-aV Deena
+aV Dave
 p4117
-aV Deena
+aV Dave
 p4118
-aV Deena
+aV Dave
 p4119
-aV Alex
+aV Dave
 p4120
-aV Deena
+aV Dave
 p4121
-aV Alex
+aV Dave
 p4122
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Matthew
 p4123
-aV Alex
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Deena
 p4124
-aV Alex
+aV Deena
 p4125
-aV Alex
+aV Deena
 p4126
-aV Matthew
+aV Deena
 p4127
-aV Alex
+aV Deena
 p4128
-aV Matthew
+aV Alex
 p4129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Christy
+aV Deena
 p4130
-aV Christy
+aV Alex
 p4131
-aV Christy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Matthew
 p4132
-aV Jenna
+aV Alex
 p4133
-aV Christy
+aV Alex
 p4134
-aV Jenna
+aV Alex
 p4135
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rob
+aV Matthew
 p4136
-aV Heidi
+aV Alex
 p4137
-aV Heidi
+aV Matthew
 p4138
-aV Heidi
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Christy
 p4139
-aV Rob
+aV Christy
 p4140
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Butch
+aV Christy
 p4141
-aV Butch
+aV Jenna
 p4142
-aV Butch
+aV Christy
 p4143
-aV Rob
+aV Jenna
 p4144
-ag129
-ag129
 ag129
 ag129
 ag129
@@ -11278,10 +11246,51 @@ ag129
 ag129
 aV Rob
 p4145
-aV \u2014
+aV Heidi
 p4146
-aV \u2014
+aV Heidi
 p4147
+aV Heidi
+p4148
+aV Rob
+p4149
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Butch
+p4150
+aV Butch
+p4151
+aV Butch
+p4152
+aV Rob
+p4153
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Rob
+p4154
+aV \u2014
+p4155
+aV \u2014
+p4156
 ag129
 ag129
 ag129
@@ -11299,7 +11308,7 @@ ag319
 ag319
 ag129
 aV Matthew
-p4148
+p4157
 ag129
 ag129
 ag129
@@ -11315,18 +11324,18 @@ ag129
 ag319
 ag319
 aV Jenna
-p4149
+p4158
 ag129
 aV Jenna
-p4150
+p4159
 aV Jenna
-p4151
+p4160
 aV Jenna
-p4152
+p4161
 aV Jenna
-p4153
+p4162
 aV Jenna
-p4154
+p4163
 ag129
 ag129
 ag129
@@ -11334,78 +11343,78 @@ ag129
 ag129
 ag129
 ag129
-atp4155
-ba(lp4156
+atp4164
+ba(lp4165
 g21
 (g22
-(dp4157
+(dp4166
 g24
 g25
 (g26
 (I0
-tp4158
+tp4167
 g28
-tp4159
-Rp4160
+tp4168
+Rp4169
 (I1
 (L16L
-tp4161
+tp4170
 g35
 I00
-(lp4162
-g3962
-ag3963
-ag3964
-ag3965
-ag3966
-ag3967
-ag3968
-ag3969
-ag3970
-ag3971
+(lp4171
+g3971
 ag3972
 ag3973
 ag3974
 ag3975
 ag3976
 ag3977
-atp4163
+ag3978
+ag3979
+ag3980
+ag3981
+ag3982
+ag3983
+ag3984
+ag3985
+ag3986
+atp4172
 bsg63
-Nstp4164
-Rp4165
-a(dp4166
+Nstp4173
+Rp4174
+a(dp4175
 g339
-(dp4167
+(dp4176
 g341
-g3955
+g3964
 sg342
-(lp4168
-(dp4169
+(lp4177
+(dp4178
 g345
 g346
 (I0
 I16
 I1
-tp4170
-Rp4171
+tp4179
+Rp4180
 sg349
-g4012
-sasstp4172
+g4021
+sasstp4181
 bsbsg351
 I6
 ssVCagayan
-p4173
-(dp4174
+p4182
+(dp4183
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Cagayan
-p4175
+p4184
 sg5
 g6
 (g7
 g8
-Ntp4176
-Rp4177
-(dp4178
+Ntp4185
+Rp4186
+(dp4187
 g12
 g13
 sg14
@@ -11414,171 +11423,153 @@ sg16
 g6
 (g17
 g8
-Ntp4179
-Rp4180
-((lp4181
+Ntp4188
+Rp4189
+((lp4190
 g21
 (g22
-(dp4182
+(dp4191
 g24
 g25
 (g26
 (I0
-tp4183
+tp4192
 g28
-tp4184
-Rp4185
+tp4193
+Rp4194
 (I1
 (L19L
-tp4186
+tp4195
 g35
 I00
-(lp4187
+(lp4196
 VDavid
-p4188
-aVGarrett
-p4189
-aVBrice
-p4190
-aVBrice
-p4191
-aVJ'Tia
-p4192
-aVCliff
-p4193
-aVLindsey
-p4194
-aVAlexis
-p4195
-aVSarah
-p4196
-aVMorgan
 p4197
-aVLJ
+aVGarrett
 p4198
-aVJeremiah
+aVBrice
 p4199
-aVJefra
+aVBrice
 p4200
-aVTasha
+aVJ'Tia
 p4201
-aVTrish
+aVCliff
 p4202
-aVSpencer
+aVLindsey
 p4203
-aVKass
+aVAlexis
 p4204
-aVWoo
+aVSarah
 p4205
-aVTony
+aVMorgan
 p4206
-atp4207
+aVLJ
+p4207
+aVJeremiah
+p4208
+aVJefra
+p4209
+aVTasha
+p4210
+aVTrish
+p4211
+aVSpencer
+p4212
+aVKass
+p4213
+aVWoo
+p4214
+aVTony
+p4215
+atp4216
 bsg63
-Nstp4208
-Rp4209
+Nstp4217
+Rp4218
 ag21
 (g22
-(dp4210
+(dp4219
 g24
 g25
 (g26
 (I0
-tp4211
+tp4220
 g28
-tp4212
-Rp4213
+tp4221
+Rp4222
 (I1
 (L18L
-tp4214
+tp4223
 g35
 I00
-(lp4215
+(lp4224
 VTony
-p4216
-aVWoo
-p4217
-aVKass
-p4218
-aVSpencer
-p4219
-aVTrish
-p4220
-aVTasha
-p4221
-aVJefra
-p4222
-aVJeremiah
-p4223
-aVLJ
-p4224
-aVMorgan
 p4225
-aVSarah
+aVWoo
 p4226
-aVAlexis
+aVKass
 p4227
-aVLindsey
+aVSpencer
 p4228
-aVCliff
+aVTrish
 p4229
-aVJ'Tia
+aVTasha
 p4230
-aVBrice
+aVJefra
 p4231
-aVGarrett
+aVJeremiah
 p4232
-aVDavid
+aVLJ
 p4233
-atp4234
+aVMorgan
+p4234
+aVSarah
+p4235
+aVAlexis
+p4236
+aVLindsey
+p4237
+aVCliff
+p4238
+aVJ'Tia
+p4239
+aVBrice
+p4240
+aVGarrett
+p4241
+aVDavid
+p4242
+atp4243
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p4235
-tp4236
-Rp4237
-stp4238
-Rp4239
-a(lp4240
+p4244
+tp4245
+Rp4246
+stp4247
+Rp4248
+a(lp4249
 g25
 (g26
 (I0
-tp4241
+tp4250
 g28
-tp4242
-Rp4243
+tp4251
+Rp4252
 (I1
 (L19L
 L18L
-tp4244
+tp4253
 g35
 I00
-(lp4245
+(lp4254
 V \u2014
-p4246
-aV \u2014
-p4247
-aV J'Tia
-p4248
-aV David
-p4249
-aV \u2014
-p4250
-aV David
-p4251
-aV \u2014
-p4252
-aV \u2014
-p4253
-aV \u2014
-p4254
-aV \u2014
 p4255
 aV \u2014
 p4256
-aV \u2014
+aV J'Tia
 p4257
-aV \u2014
+aV David
 p4258
 aV \u2014
 p4259
@@ -11586,35 +11577,35 @@ aV David
 p4260
 aV \u2014
 p4261
-aV David
+aV \u2014
 p4262
-aV J'Tia
+aV \u2014
 p4263
 aV \u2014
 p4264
 aV \u2014
 p4265
-aV Garrett
+aV \u2014
 p4266
-aV J'Tia
+aV \u2014
 p4267
 aV \u2014
 p4268
-aV Garrett
+aV David
 p4269
 aV \u2014
 p4270
-aV \u2014
+aV David
 p4271
-aV \u2014
+aV J'Tia
 p4272
 aV \u2014
 p4273
 aV \u2014
 p4274
-aV \u2014
+aV Garrett
 p4275
-aV \u2014
+aV J'Tia
 p4276
 aV \u2014
 p4277
@@ -11622,9 +11613,8 @@ aV Garrett
 p4278
 aV \u2014
 p4279
-aV J'Tia
+aV \u2014
 p4280
-ag129
 aV \u2014
 p4281
 aV \u2014
@@ -11637,17 +11627,18 @@ aV \u2014
 p4285
 aV \u2014
 p4286
-aV Brice
+aV Garrett
 p4287
-aV Morgan
+aV \u2014
 p4288
-aV Morgan
+aV J'Tia
 p4289
-aV Alexis
+ag129
+aV \u2014
 p4290
 aV \u2014
 p4291
-aV Brice
+aV \u2014
 p4292
 aV \u2014
 p4293
@@ -11655,229 +11646,221 @@ aV \u2014
 p4294
 aV \u2014
 p4295
-aV Alexis
+aV Brice
 p4296
-ag129
-ag129
-ag4281
-ag4282
-ag4283
-ag4284
-ag4285
-ag4286
-aV Brice
+aV Morgan
 p4297
-aV Brice
+aV Morgan
 p4298
-aV Brice
+aV Alexis
 p4299
-aV None
+aV \u2014
 p4300
-ag4291
-aV None
+aV Brice
 p4301
-ag4293
-ag4294
-ag4295
-aV None
+aV \u2014
 p4302
-ag129
-ag129
 aV \u2014
 p4303
 aV \u2014
 p4304
-aV J'Tia
+aV Alexis
 p4305
-aV J'Tia
+ag129
+ag129
+ag4290
+ag4291
+ag4292
+ag4293
+ag4294
+ag4295
+aV Brice
 p4306
-aV \u2014
+aV Brice
 p4307
-aV J'Tia
+aV Brice
 p4308
-aV \u2014
+aV None
 p4309
-aV \u2014
+ag4300
+aV None
 p4310
-aV \u2014
+ag4302
+ag4303
+ag4304
+aV None
 p4311
+ag129
+ag129
 aV \u2014
 p4312
 aV \u2014
 p4313
-aV \u2014
+aV J'Tia
 p4314
-aV \u2014
+aV J'Tia
 p4315
 aV \u2014
 p4316
-aV Spencer
+aV J'Tia
 p4317
-ag129
-ag129
-ag129
-aV Cliff
+aV \u2014
 p4318
-aV LJ
+aV \u2014
 p4319
 aV \u2014
 p4320
 aV \u2014
 p4321
-aV Cliff
+aV \u2014
 p4322
 aV \u2014
 p4323
-aV Cliff
+aV \u2014
 p4324
 aV \u2014
 p4325
-aV Cliff
+aV Spencer
 p4326
-aV \u2014
+ag129
+ag129
+ag129
+aV Cliff
 p4327
-aV \u2014
+aV LJ
 p4328
 aV \u2014
 p4329
-aV LJ
+aV \u2014
 p4330
-aV LJ
+aV Cliff
 p4331
-ag129
-ag129
-ag129
-ag129
-aV\u2014
+aV \u2014
 p4332
-aV\u2014
+aV Cliff
 p4333
 aV \u2014
 p4334
-aV \u2014
+aV Cliff
 p4335
-aV\u2014
+aV \u2014
 p4336
 aV \u2014
 p4337
-aV\u2014
+aV \u2014
 p4338
-aV \u2014
+aV LJ
 p4339
-aV\u2014
+aV LJ
 p4340
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+aV\u2014
 p4341
-aV \u2014
+aV\u2014
 p4342
 aV \u2014
 p4343
-aV Quit
+aV \u2014
 p4344
-ag129
-ag129
-ag129
-ag129
-ag129
-ag4332
-ag4333
-aV Alexis
+aV\u2014
 p4345
-aV Alexis
+aV \u2014
 p4346
-ag4336
-aV Alexis
+aV\u2014
 p4347
-ag4338
-aV Alexis
+aV \u2014
 p4348
-ag4340
-aV Alexis
+aV\u2014
 p4349
-aV Alexis
+aV \u2014
 p4350
-aV Jeremiah
+aV \u2014
 p4351
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Sarah
+aV \u2014
 p4352
-aV Sarah
+aV Quit
 p4353
-aV Sarah
+ag129
+ag129
+ag129
+ag129
+ag129
+ag4341
+ag4342
+aV Alexis
 p4354
-aV Jefra
+aV Alexis
 p4355
-aV Sarah
+ag4345
+aV Alexis
 p4356
-aV Jefra
+ag4347
+aV Alexis
 p4357
-aV Sarah
+ag4349
+aV Alexis
 p4358
-aV Jefra
+aV Alexis
 p4359
-aV Sarah
+aV Jeremiah
 p4360
-aV Jefra
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Sarah
 p4361
-aV Jefra
+aV Sarah
 p4362
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Morgan
+aV Sarah
 p4363
-aV Morgan
+aV Jefra
 p4364
-aV Morgan
+aV Sarah
 p4365
-aV Tony
+aV Jefra
 p4366
-aV Morgan
+aV Sarah
 p4367
-aV Tony
+aV Jefra
 p4368
-aV Morgan
+aV Sarah
 p4369
-aV Tony
+aV Jefra
 p4370
-aV Morgan
+aV Jefra
 p4371
-aV Tony
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Morgan
 p4372
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV LJ
+aV Morgan
 p4373
-aV LJ
+aV Morgan
 p4374
-aV Jeremiah
+aV Tony
 p4375
-aV LJ
+aV Morgan
 p4376
-aV Jeremiah
+aV Tony
 p4377
-aV LJ
+aV Morgan
 p4378
-aV Jeremiah
+aV Tony
 p4379
-aV LJ
+aV Morgan
 p4380
-aV Spencer
+aV Tony
 p4381
 ag129
 ag129
@@ -11887,112 +11870,95 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Jeremiah
+aV LJ
 p4382
-aV Jeremiah
+aV LJ
 p4383
 aV Jeremiah
 p4384
-aV Woo
+aV LJ
 p4385
 aV Jeremiah
 p4386
-aV Woo
+aV LJ
 p4387
 aV Jeremiah
 p4388
-aV Woo
+aV LJ
 p4389
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jefra
+aV Spencer
 p4390
-aV Jefra
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jeremiah
 p4391
-aV Spencer
+aV Jeremiah
 p4392
-aV Jefra
+aV Jeremiah
 p4393
-aV Spencer
-p4394
-aV Jefra
-p4395
-aV Spencer
-p4396
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tasha
-p4397
-aV Tasha
-p4398
-aV Tasha
-p4399
-aV Tony
-p4400
-aV Tasha
-p4401
-aV Trish
-p4402
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Trish
-p4403
-aV Trish
-p4404
-aV Trish
-p4405
-aV Trish
-p4406
-aV Kass
-p4407
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Spencer
-p4408
-aV Spencer
-p4409
-aV Spencer
-p4410
 aV Woo
+p4394
+aV Jeremiah
+p4395
+aV Woo
+p4396
+aV Jeremiah
+p4397
+aV Woo
+p4398
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jefra
+p4399
+aV Jefra
+p4400
+aV Spencer
+p4401
+aV Jefra
+p4402
+aV Spencer
+p4403
+aV Jefra
+p4404
+aV Spencer
+p4405
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tasha
+p4406
+aV Tasha
+p4407
+aV Tasha
+p4408
+aV Tony
+p4409
+aV Tasha
+p4410
+aV Trish
 p4411
 ag129
 ag129
@@ -12006,14 +11972,57 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Trish
 p4412
-aV Kass
+aV Trish
 p4413
-aV \u2014
+aV Trish
 p4414
+aV Trish
+p4415
+aV Kass
+p4416
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Spencer
+p4417
+aV Spencer
+p4418
+aV Spencer
+p4419
+aV Woo
+p4420
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p4421
+aV Kass
+p4422
+aV \u2014
+p4423
 ag129
 ag129
 ag129
@@ -12035,7 +12044,7 @@ ag129
 ag129
 ag129
 aV Woo
-p4415
+p4424
 ag129
 ag129
 ag129
@@ -12051,22 +12060,22 @@ ag129
 ag319
 ag319
 aV Tony
-p4416
+p4425
 aV Tony
-p4417
+p4426
 aV Tony
-p4418
+p4427
 ag129
 aV Tony
-p4419
+p4428
 aV Tony
-p4420
+p4429
 aV Tony
-p4421
+p4430
 aV Tony
-p4422
+p4431
 aV Tony
-p4423
+p4432
 ag129
 ag129
 ag129
@@ -12074,35 +12083,26 @@ ag129
 ag129
 ag129
 ag129
-atp4424
-ba(lp4425
+atp4433
+ba(lp4434
 g21
 (g22
-(dp4426
+(dp4435
 g24
 g25
 (g26
 (I0
-tp4427
+tp4436
 g28
-tp4428
-Rp4429
+tp4437
+Rp4438
 (I1
 (L19L
-tp4430
+tp4439
 g35
 I00
-(lp4431
-g4188
-ag4189
-ag4190
-ag4191
-ag4192
-ag4193
-ag4194
-ag4195
-ag4196
-ag4197
+(lp4440
+g4197
 ag4198
 ag4199
 ag4200
@@ -12112,43 +12112,52 @@ ag4203
 ag4204
 ag4205
 ag4206
-atp4432
+ag4207
+ag4208
+ag4209
+ag4210
+ag4211
+ag4212
+ag4213
+ag4214
+ag4215
+atp4441
 bsg63
-Nstp4433
-Rp4434
-a(dp4435
+Nstp4442
+Rp4443
+a(dp4444
 g339
-(dp4436
+(dp4445
 g341
-g4181
+g4190
 sg342
-(lp4437
-(dp4438
+(lp4446
+(dp4447
 g345
 g346
 (I0
 I19
 I1
-tp4439
-Rp4440
+tp4448
+Rp4449
 sg349
-g4243
-sasstp4441
+g4252
+sasstp4450
 bsbsg351
 I28
 ssVSouth_Pacific
-p4442
-(dp4443
+p4451
+(dp4452
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_South_Pacific
-p4444
+p4453
 sg5
 g6
 (g7
 g8
-Ntp4445
-Rp4446
-(dp4447
+Ntp4454
+Rp4455
+(dp4456
 g12
 g13
 sg14
@@ -12157,221 +12166,203 @@ sg16
 g6
 (g17
 g8
-Ntp4448
-Rp4449
-((lp4450
+Ntp4457
+Rp4458
+((lp4459
 g21
 (g22
-(dp4451
+(dp4460
 g24
 g25
 (g26
 (I0
-tp4452
+tp4461
 g28
-tp4453
-Rp4454
+tp4462
+Rp4463
 (I1
 (L21L
-tp4455
+tp4464
 g35
 I00
-(lp4456
+(lp4465
 VSemhar
-p4457
-aVChristine
-p4458
-aVMark
-p4459
-aVStacey
-p4460
-aVElyse
-p4461
-aVMikayla
-p4462
-aVOzzy
-p4463
-aVKeith
-p4464
-aVKeith
-p4465
-aVOzzy
 p4466
-aVJim
+aVChristine
 p4467
-aVDawn
+aVMark
 p4468
-aVWhitney
+aVStacey
 p4469
-aVCochran
+aVElyse
 p4470
-aVEdna
+aVMikayla
 p4471
-aVBrandon
-p4472
-aVRick
-p4473
 aVOzzy
+p4472
+aVKeith
+p4473
+aVKeith
 p4474
-aVAlbert
+aVOzzy
 p4475
-aVCoach
+aVJim
 p4476
-aVSophie
+aVDawn
 p4477
-atp4478
+aVWhitney
+p4478
+aVCochran
+p4479
+aVEdna
+p4480
+aVBrandon
+p4481
+aVRick
+p4482
+aVOzzy
+p4483
+aVAlbert
+p4484
+aVCoach
+p4485
+aVSophie
+p4486
+atp4487
 bsg63
-Nstp4479
-Rp4480
+Nstp4488
+Rp4489
 ag21
 (g22
-(dp4481
+(dp4490
 g24
 g25
 (g26
 (I0
-tp4482
+tp4491
 g28
-tp4483
-Rp4484
+tp4492
+Rp4493
 (I1
 (L18L
-tp4485
+tp4494
 g35
 I00
-(lp4486
+(lp4495
 VSophie
-p4487
-aVCoach
-p4488
-aVAlbert
-p4489
-aVOzzy
-p4490
-aVRick
-p4491
-aVBrandon
-p4492
-aVEdna
-p4493
-aVCochran
-p4494
-aVWhitney
-p4495
-aVDawn
 p4496
-aVKeith
+aVCoach
 p4497
-aVJim
+aVAlbert
 p4498
-aVChristine
+aVOzzy
 p4499
-aVMikayla
+aVRick
 p4500
-aVElyse
+aVBrandon
 p4501
-aVStacey
+aVEdna
 p4502
-aVMark
+aVCochran
 p4503
-aVSemhar
+aVWhitney
 p4504
-atp4505
+aVDawn
+p4505
+aVKeith
+p4506
+aVJim
+p4507
+aVChristine
+p4508
+aVMikayla
+p4509
+aVElyse
+p4510
+aVStacey
+p4511
+aVMark
+p4512
+aVSemhar
+p4513
+atp4514
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p4506
-tp4507
-Rp4508
-stp4509
-Rp4510
-a(lp4511
+p4515
+tp4516
+Rp4517
+stp4518
+Rp4519
+a(lp4520
 g25
 (g26
 (I0
-tp4512
+tp4521
 g28
-tp4513
-Rp4514
+tp4522
+Rp4523
 (I1
 (L21L
 L18L
-tp4515
+tp4524
 g35
 I00
-(lp4516
+(lp4525
 V \u2014
-p4517
-aV \u2014
-p4518
-aV \u2014
-p4519
-aV Semhar
-p4520
-aV \u2014
-p4521
-aV \u2014
-p4522
-aV \u2014
-p4523
-aV Semhar
-p4524
-aV Semhar
-p4525
-aV Semhar
 p4526
-aV Semhar
-p4527
-aV Semhar
-p4528
 aV \u2014
+p4527
+aV \u2014
+p4528
+aV Semhar
 p4529
 aV \u2014
 p4530
-aV Semhar
+aV \u2014
 p4531
 aV \u2014
 p4532
 aV Semhar
 p4533
-aV Cochran
+aV Semhar
 p4534
-aV Stacey
+aV Semhar
 p4535
-aV Christine
+aV Semhar
 p4536
-aV Christine
+aV Semhar
 p4537
 aV \u2014
 p4538
-aV Stacey
+aV \u2014
 p4539
-aV Christine
+aV Semhar
 p4540
-aV Stacey
+aV \u2014
 p4541
-aV \u2014
+aV Semhar
 p4542
-aV \u2014
+aV Cochran
 p4543
-aV \u2014
+aV Stacey
 p4544
-aV \u2014
-p4545
-aV \u2014
-p4546
-aV Edna
-p4547
 aV Christine
-p4548
+p4545
+aV Christine
+p4546
 aV \u2014
+p4547
+aV Stacey
+p4548
+aV Christine
 p4549
-aV Sophie
+aV Stacey
 p4550
 aV \u2014
 p4551
-aV 
+aV \u2014
 p4552
 aV \u2014
 p4553
@@ -12379,137 +12370,132 @@ aV \u2014
 p4554
 aV \u2014
 p4555
-aV Mark
+aV Edna
 p4556
-aV \u2014
+aV Christine
 p4557
 aV \u2014
 p4558
-aV \u2014
+aV Sophie
 p4559
-aV Mark
-p4560
-aV Mark
-p4561
-aV Mark
-p4562
-aV Mark
-p4563
-aV Cochran
-p4564
-ag4552
 aV \u2014
-p4565
+p4560
+aV 
+p4561
+aV \u2014
+p4562
+aV \u2014
+p4563
+aV \u2014
+p4564
 aV Mark
+p4565
+aV \u2014
 p4566
 aV \u2014
 p4567
-aV Jim
-p4568
-ag4552
-aV Stacey
-p4569
-aV Stacey
-p4570
-aV Stacey
-p4571
 aV \u2014
+p4568
+aV Mark
+p4569
+aV Mark
+p4570
+aV Mark
+p4571
+aV Mark
 p4572
-aV Stacey
+aV Cochran
 p4573
-aV Stacey
+ag4561
+aV \u2014
 p4574
-aV Stacey
+aV Mark
 p4575
 aV \u2014
 p4576
-aV \u2014
+aV Jim
 p4577
-aV \u2014
-p4578
-aV \u2014
-p4579
-aV \u2014
-p4580
-ag4552
+ag4561
 aV Stacey
+p4578
+aV Stacey
+p4579
+aV Stacey
+p4580
+aV \u2014
 p4581
-aV \u2014
+aV Stacey
 p4582
-aV Edna
+aV Stacey
 p4583
-ag4552
-ag129
-aV \u2014
+aV Stacey
 p4584
 aV \u2014
 p4585
 aV \u2014
 p4586
-aV Cochran
+aV \u2014
 p4587
 aV \u2014
 p4588
 aV \u2014
 p4589
-aV \u2014
+ag4561
+aV Stacey
 p4590
-aV Elyse
+aV \u2014
 p4591
-aV Dawn
+aV Edna
 p4592
-aV Elyse
+ag4561
+ag129
+aV \u2014
 p4593
-aV Dawn
+aV \u2014
 p4594
-aV Elyse
+aV \u2014
 p4595
-ag4552
-aV \u2014
-p4596
 aV Cochran
-p4597
-ag4552
-ag129
-ag129
-aV Edna
-p4598
-aV Mikayla
-p4599
-aV Edna
-p4600
+p4596
 aV \u2014
+p4597
+aV \u2014
+p4598
+aV \u2014
+p4599
+aV Elyse
+p4600
+aV Dawn
 p4601
-aV Mikayla
+aV Elyse
 p4602
-aV Mikayla
+aV Dawn
 p4603
-aV Mikayla
+aV Elyse
 p4604
+ag4561
 aV \u2014
 p4605
-aV \u2014
-p4606
-aV \u2014
-p4607
-aV \u2014
-p4608
-aV \u2014
-p4609
-ag4552
-aV Edna
-p4610
-ag4552
-ag129
-ag129
-ag129
-aV \u2014
-p4611
-aV \u2014
-p4612
-aV \u2014
-p4613
 aV Cochran
+p4606
+ag4561
+ag129
+ag129
+aV Edna
+p4607
+aV Mikayla
+p4608
+aV Edna
+p4609
+aV \u2014
+p4610
+aV Mikayla
+p4611
+aV Mikayla
+p4612
+aV Mikayla
+p4613
+aV \u2014
 p4614
 aV \u2014
 p4615
@@ -12517,295 +12503,276 @@ aV \u2014
 p4616
 aV \u2014
 p4617
-aV Ozzy
+aV \u2014
 p4618
-aV Ozzy
+ag4561
+aV Edna
 p4619
-aV Ozzy
+ag4561
+ag129
+ag129
+ag129
+aV \u2014
 p4620
-aV Ozzy
+aV \u2014
 p4621
-aV Ozzy
+aV \u2014
 p4622
-ag4552
-ag4552
-ag129
-ag129
-ag129
-ag129
-aV Keith
+aV Cochran
 p4623
-aV Keith
+aV \u2014
 p4624
-aV Keith
+aV \u2014
 p4625
-aV Rick
+aV \u2014
 p4626
-aV Keith
+aV Ozzy
 p4627
-aV Keith
+aV Ozzy
 p4628
-aV Keith
+aV Ozzy
 p4629
-aV Rick
+aV Ozzy
 p4630
-aV Rick
+aV Ozzy
 p4631
-aV Rick
-p4632
-aV Rick
-p4633
-aV Rick
-p4634
-ag4552
-ag129
+ag4561
+ag4561
 ag129
 ag129
 ag129
 ag129
 aV Keith
+p4632
+aV Keith
+p4633
+aV Keith
+p4634
+aV Rick
 p4635
 aV Keith
 p4636
 aV Keith
 p4637
-aV Rick
+aV Keith
 p4638
-aVNone
+aV Rick
 p4639
-aV Keith
+aV Rick
 p4640
-aV Keith
+aV Rick
 p4641
-aV Keith
+aV Rick
 p4642
 aV Rick
 p4643
-aV Rick
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Keith
 p4644
-aVNone
+aV Keith
 p4645
-aV Rick
+aV Keith
 p4646
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ozzy
+aV Rick
 p4647
-aV Ozzy
+aVNone
 p4648
-aV Ozzy
+aV Keith
 p4649
-aV Cochran
+aV Keith
 p4650
-aV Ozzy
+aV Keith
 p4651
-aV Ozzy
+aV Rick
 p4652
-aV Ozzy
+aV Rick
 p4653
-aV Ozzy
+aVNone
 p4654
-aV Ozzy
+aV Rick
 p4655
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Ozzy
 p4656
-ag4552
-aV Cochran
+aV Ozzy
 p4657
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jim
+aV Ozzy
 p4658
-aV Jim
+aV Cochran
 p4659
-aV Jim
+aV Ozzy
 p4660
-ag4552
-aV Jim
+aV Ozzy
 p4661
-aV Jim
+aV Ozzy
 p4662
-aV Jim
+aV Ozzy
 p4663
-aV Jim
+aV Ozzy
 p4664
-aV Edna
+aV Ozzy
 p4665
-aV Edna
+ag4561
+aV Cochran
 p4666
-ag4552
-aV Edna
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jim
 p4667
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Dawn
+aV Jim
 p4668
-aV Dawn
+aV Jim
 p4669
-aV Dawn
+ag4561
+aV Jim
 p4670
-ag4552
-aV Dawn
+aV Jim
 p4671
-aV Dawn
+aV Jim
 p4672
-aV Dawn
+aV Jim
 p4673
-aV Dawn
+aV Edna
 p4674
 aV Edna
 p4675
+ag4561
 aV Edna
 p4676
-ag4552
-ag4552
 ag129
 ag129
 ag129
 ag129
 ag129
 ag129
-aV Whitney
+aV Dawn
 p4677
-aV Whitney
+aV Dawn
 p4678
-aV Whitney
+aV Dawn
 p4679
-ag4552
-aV Whitney
+ag4561
+aV Dawn
 p4680
-aV Whitney
+aV Dawn
 p4681
-aV Whitney
+aV Dawn
 p4682
-aV Whitney
+aV Dawn
 p4683
-aV Cochran
+aV Edna
 p4684
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Cochran
+aV Edna
 p4685
-aV Cochran
+ag4561
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Whitney
 p4686
-aV Cochran
+aV Whitney
 p4687
-ag4552
-aV Cochran
+aV Whitney
 p4688
-aV Cochran
+ag4561
+aV Whitney
 p4689
-aV Rick
+aV Whitney
 p4690
-aV Rick
+aV Whitney
 p4691
-ag4552
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Edna
+aV Whitney
 p4692
-aV Edna
+aV Cochran
 p4693
-aV Edna
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Cochran
 p4694
-ag4552
-aV Edna
+aV Cochran
 p4695
-aV Edna
+aV Cochran
 p4696
-aV Brandon
+ag4561
+aV Cochran
 p4697
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Brandon
+aV Cochran
 p4698
-aV Brandon
+aV Rick
 p4699
-aV Sophie
+aV Rick
 p4700
-ag4552
-aV Brandon
+ag4561
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Edna
 p4701
-aV Sophie
+aV Edna
 p4702
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rick
+aV Edna
 p4703
-aV Rick
+ag4561
+aV Edna
 p4704
-aV Rick
+aV Edna
 p4705
-aV Sophie
+aV Brandon
 p4706
-aV Sophie
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Brandon
 p4707
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ozzy
+aV Brandon
 p4708
-aV Ozzy
+aV Sophie
 p4709
-aV Ozzy
+ag4561
+aV Brandon
 p4710
-aV Albert
+aV Sophie
 p4711
+ag4561
 ag129
 ag129
 ag129
@@ -12817,65 +12784,36 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-aV Coach
+aV Rick
 p4712
-ag129
-aV Coach
+aV Rick
 p4713
-aV Coach
+aV Rick
 p4714
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
 aV Sophie
 p4715
-ag129
 aV Sophie
 p4716
+ag4561
 ag129
 ag129
-aV Sophie
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Ozzy
 p4717
-aV Sophie
+aV Ozzy
 p4718
-aV Sophie
+aV Ozzy
 p4719
-aV Sophie
+aV Albert
 p4720
 ag129
 ag129
@@ -12883,35 +12821,97 @@ ag129
 ag129
 ag129
 ag129
-atp4721
-ba(lp4722
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+aV Coach
+p4721
+ag129
+aV Coach
+p4722
+aV Coach
+p4723
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Sophie
+p4724
+ag129
+aV Sophie
+p4725
+ag129
+ag129
+aV Sophie
+p4726
+aV Sophie
+p4727
+aV Sophie
+p4728
+aV Sophie
+p4729
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp4730
+ba(lp4731
 g21
 (g22
-(dp4723
+(dp4732
 g24
 g25
 (g26
 (I0
-tp4724
+tp4733
 g28
-tp4725
-Rp4726
+tp4734
+Rp4735
 (I1
 (L21L
-tp4727
+tp4736
 g35
 I00
-(lp4728
-g4457
-ag4458
-ag4459
-ag4460
-ag4461
-ag4462
-ag4463
-ag4464
-ag4465
-ag4466
+(lp4737
+g4466
 ag4467
 ag4468
 ag4469
@@ -12923,43 +12923,52 @@ ag4474
 ag4475
 ag4476
 ag4477
-atp4729
+ag4478
+ag4479
+ag4480
+ag4481
+ag4482
+ag4483
+ag4484
+ag4485
+ag4486
+atp4738
 bsg63
-Nstp4730
-Rp4731
-a(dp4732
+Nstp4739
+Rp4740
+a(dp4741
 g339
-(dp4733
+(dp4742
 g341
-g4450
+g4459
 sg342
-(lp4734
-(dp4735
+(lp4743
+(dp4744
 g345
 g346
 (I0
 I21
 I1
-tp4736
-Rp4737
+tp4745
+Rp4746
 sg349
-g4514
-sasstp4738
+g4523
+sasstp4747
 bsbsg351
 I23
 ssVOne_World
-p4739
-(dp4740
+p4748
+(dp4749
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_One_World
-p4741
+p4750
 sg5
 g6
 (g7
 g8
-Ntp4742
-Rp4743
-(dp4744
+Ntp4751
+Rp4752
+(dp4753
 g12
 g13
 sg14
@@ -12968,163 +12977,145 @@ sg16
 g6
 (g17
 g8
-Ntp4745
-Rp4746
-((lp4747
+Ntp4754
+Rp4755
+((lp4756
 g21
 (g22
-(dp4748
+(dp4757
 g24
 g25
 (g26
 (I0
-tp4749
+tp4758
 g28
-tp4750
-Rp4751
+tp4759
+Rp4760
 (I1
 (L18L
-tp4752
+tp4761
 g35
 I00
-(lp4753
+(lp4762
 VKourtney
-p4754
-aVNina
-p4755
-aVMatt
-p4756
-aVBill
-p4757
-aVMonica
-p4758
-aVColton
-p4759
-aVJonas
-p4760
-aVMichael
-p4761
-aVJay
-p4762
-aVLeif
 p4763
-aVTroyzan
+aVNina
 p4764
-aVKat
+aVMatt
 p4765
-aVTarzan
+aVBill
 p4766
-aVAlicia
+aVMonica
 p4767
-aVChristina
+aVColton
 p4768
-aVChelsea
+aVJonas
 p4769
-aVSabrina
+aVMichael
 p4770
-aVKim
+aVJay
 p4771
-atp4772
+aVLeif
+p4772
+aVTroyzan
+p4773
+aVKat
+p4774
+aVTarzan
+p4775
+aVAlicia
+p4776
+aVChristina
+p4777
+aVChelsea
+p4778
+aVSabrina
+p4779
+aVKim
+p4780
+atp4781
 bsg63
-Nstp4773
-Rp4774
+Nstp4782
+Rp4783
 ag21
 (g22
-(dp4775
+(dp4784
 g24
 g25
 (g26
 (I0
-tp4776
+tp4785
 g28
-tp4777
-Rp4778
+tp4786
+Rp4787
 (I1
 (L18L
-tp4779
+tp4788
 g35
 I00
-(lp4780
+(lp4789
 VKim
-p4781
-aVSabrina
-p4782
-aVChelsea
-p4783
-aVChristina
-p4784
-aVAlicia
-p4785
-aVTarzan
-p4786
-aVKat
-p4787
-aVTroyzan
-p4788
-aVLeif
-p4789
-aVJay
 p4790
-aVMichael
+aVSabrina
 p4791
-aVJonas
+aVChelsea
 p4792
-aVColton
+aVChristina
 p4793
-aVMonica
+aVAlicia
 p4794
-aVBill
+aVTarzan
 p4795
-aVMatt
+aVKat
 p4796
-aVNina
+aVTroyzan
 p4797
-aVKourtney
+aVLeif
 p4798
-atp4799
+aVJay
+p4799
+aVMichael
+p4800
+aVJonas
+p4801
+aVColton
+p4802
+aVMonica
+p4803
+aVBill
+p4804
+aVMatt
+p4805
+aVNina
+p4806
+aVKourtney
+p4807
+atp4808
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p4800
-tp4801
-Rp4802
-stp4803
-Rp4804
-a(lp4805
+p4809
+tp4810
+Rp4811
+stp4812
+Rp4813
+a(lp4814
 g25
 (g26
 (I0
-tp4806
+tp4815
 g28
-tp4807
-Rp4808
+tp4816
+Rp4817
 (I1
 (L18L
 L18L
-tp4809
+tp4818
 g35
 I00
-(lp4810
+(lp4819
 V \u2014
-p4811
-aV \u2014
-p4812
-aV \u2014
-p4813
-aV \u2014
-p4814
-aV \u2014
-p4815
-aV \u2014
-p4816
-aV \u2014
-p4817
-aV \u2014
-p4818
-aV \u2014
-p4819
-aV \u2014
 p4820
 aV \u2014
 p4821
@@ -13140,43 +13131,42 @@ aV \u2014
 p4826
 aV \u2014
 p4827
-aVEvacuated
+aV \u2014
 p4828
-aV Nina
+aV \u2014
 p4829
-aV Nina
+aV \u2014
 p4830
-aV Nina
+aV \u2014
 p4831
-aV Nina
+aV \u2014
 p4832
-aV Nina
+aV \u2014
 p4833
 aV \u2014
 p4834
-aV Nina
+aV \u2014
 p4835
 aV \u2014
 p4836
-aV \u2014
+aVEvacuated
 p4837
-aV \u2014
+aV Nina
 p4838
-aV \u2014
+aV Nina
 p4839
-aV \u2014
+aV Nina
 p4840
-aV \u2014
+aV Nina
 p4841
-aV Christina
+aV Nina
 p4842
 aV \u2014
 p4843
-aV \u2014
+aV Nina
 p4844
-aV Kat
+aV \u2014
 p4845
-ag129
 aV \u2014
 p4846
 aV \u2014
@@ -13187,230 +13177,223 @@ aV \u2014
 p4849
 aV \u2014
 p4850
-aV Matt
+aV Christina
 p4851
 aV \u2014
 p4852
-aV Matt
+aV \u2014
 p4853
-aV Matt
+aV Kat
 p4854
-aV Matt
+ag129
+aV \u2014
 p4855
-aV Bill
+aV \u2014
 p4856
-aV Matt
+aV \u2014
 p4857
-aV Matt
+aV \u2014
 p4858
 aV \u2014
 p4859
 aV Matt
 p4860
-aV Colton
+aV \u2014
 p4861
-ag129
-ag129
-aV \u2014
+aV Matt
 p4862
-aV \u2014
+aV Matt
 p4863
-aV \u2014
+aV Matt
 p4864
-aV \u2014
-p4865
-aV \u2014
-p4866
 aV Bill
+p4865
+aV Matt
+p4866
+aV Matt
 p4867
 aV \u2014
 p4868
-aV Bill
+aV Matt
 p4869
-aV Bill
+aV Colton
 p4870
-aV Bill
+ag129
+ag129
+aV \u2014
 p4871
-aV Bill
+aV \u2014
 p4872
-aV Bill
+aV \u2014
 p4873
-aV Bill
+aV \u2014
 p4874
 aV \u2014
 p4875
-aV Leif
+aV Bill
 p4876
-ag129
-ag129
-ag129
 aV \u2014
 p4877
-aV \u2014
+aV Bill
 p4878
-aV \u2014
+aV Bill
 p4879
-aV Tarzan
+aV Bill
 p4880
-aV Monica
+aV Bill
 p4881
-aV Monica
+aV Bill
 p4882
-aV \u2014
+aV Bill
 p4883
 aV \u2014
 p4884
-aV Monica
+aV Leif
 p4885
+ag129
+ag129
+ag129
 aV \u2014
 p4886
 aV \u2014
 p4887
-aV Monica
-p4888
-aV Monica
-p4889
-aV Tarzan
-p4890
-ag129
-ag129
-ag129
-ag129
 aV \u2014
+p4888
+aV Tarzan
+p4889
+aV Monica
+p4890
+aV Monica
 p4891
 aV \u2014
 p4892
 aV \u2014
 p4893
-aV \u2014
+aV Monica
 p4894
-aV\u2014
+aV \u2014
 p4895
 aV \u2014
 p4896
-aV \u2014
+aV Monica
 p4897
-aV \u2014
+aV Monica
 p4898
-aV \u2014
+aV Tarzan
 p4899
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p4900
 aV \u2014
 p4901
 aV \u2014
 p4902
-aVEvacuated
+aV \u2014
 p4903
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jonas
+aV\u2014
 p4904
-aV Jonas
+aV \u2014
 p4905
-aV Jonas
+aV \u2014
 p4906
-aV Jonas
+aV \u2014
 p4907
-aV Jonas
+aV \u2014
 p4908
-aV Jonas
+aV \u2014
 p4909
-aV Jonas
+aV \u2014
 p4910
-aV Jonas
+aV \u2014
 p4911
-aV Michael
+aVEvacuated
 p4912
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Jonas
 p4913
 aV Jonas
 p4914
-aV Michael
+aV Jonas
 p4915
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Michael
+aV Jonas
 p4916
-aV Michael
+aV Jonas
 p4917
-aV Michael
+aV Jonas
 p4918
-aV Tarzan
+aV Jonas
 p4919
-aV Tarzan
+aV Jonas
 p4920
-aV Christina
+aV Michael
 p4921
-aV Michael
+aV Jonas
 p4922
-aV Michael
+aV Jonas
 p4923
 aV Michael
 p4924
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Michael
 p4925
-aV Christina
+aV Michael
 p4926
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jay
+aV Michael
 p4927
-aV Jay
+aV Tarzan
 p4928
-aV Troyzan
+aV Tarzan
 p4929
-aV Jay
+aV Christina
 p4930
-aV Jay
+aV Michael
 p4931
-aV Jay
+aV Michael
 p4932
-aV Troyzan
+aV Michael
 p4933
-aV Kim
+aV Michael
 p4934
-aV Alicia
+aV Christina
 p4935
-aV Alicia
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jay
 p4936
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tarzan
+aV Jay
 p4937
-aV Leif
+aV Troyzan
 p4938
-aV Leif
+aV Jay
 p4939
-aV Tarzan
+aV Jay
 p4940
-aV Tarzan
+aV Jay
 p4941
-aV Leif
+aV Troyzan
 p4942
-aV Leif
+aV Kim
 p4943
-aV Kim
+aV Alicia
 p4944
-aV Kim
+aV Alicia
 p4945
 ag129
 ag129
@@ -13420,112 +13403,95 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Troyzan
+aV Tarzan
 p4946
-aV Christina
+aV Leif
 p4947
-aV Troyzan
+aV Leif
 p4948
-aV Chelsea
+aV Tarzan
 p4949
-aV Troyzan
+aV Tarzan
 p4950
-aV Christina
+aV Leif
 p4951
-aV Troyzan
+aV Leif
 p4952
-aV Christina
+aV Kim
 p4953
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Kat
+aV Kim
 p4954
-aV Kat
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Troyzan
 p4955
-aV Kat
+aV Christina
 p4956
-aV Kat
+aV Troyzan
 p4957
-aV Kat
+aV Chelsea
 p4958
-aV Kat
+aV Troyzan
 p4959
-aV Sabrina
+aV Christina
 p4960
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tarzan
+aV Troyzan
 p4961
-aV Tarzan
+aV Christina
 p4962
-aV Tarzan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Kat
 p4963
-aV Tarzan
+aV Kat
 p4964
-aV Tarzan
+aV Kat
 p4965
-aV Chelsea
+aV Kat
 p4966
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alicia
+aV Kat
 p4967
-aV Alicia
+aV Kat
 p4968
-aV Alicia
-p4969
-aV Chelsea
-p4970
-aV Chelsea
-p4971
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Christina
-p4972
-aV Christina
-p4973
-aV Christina
-p4974
 aV Sabrina
+p4969
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Tarzan
+p4970
+aV Tarzan
+p4971
+aV Tarzan
+p4972
+aV Tarzan
+p4973
+aV Tarzan
+p4974
+aV Chelsea
 p4975
 ag129
 ag129
@@ -13539,64 +13505,36 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-aV Sabrina
+aV Alicia
 p4976
-aV Sabrina
+aV Alicia
 p4977
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Kim
+aV Alicia
 p4978
-aV Kim
+aV Chelsea
 p4979
-aV Kim
+aV Chelsea
 p4980
-aV Kim
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Christina
 p4981
-ag129
-ag129
-aV Kim
+aV Christina
 p4982
-aV Kim
+aV Christina
 p4983
-aV Kim
+aV Sabrina
 p4984
 ag129
 ag129
@@ -13604,35 +13542,97 @@ ag129
 ag129
 ag129
 ag129
-atp4985
-ba(lp4986
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+aV Sabrina
+p4985
+aV Sabrina
+p4986
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Kim
+p4987
+aV Kim
+p4988
+aV Kim
+p4989
+aV Kim
+p4990
+ag129
+ag129
+aV Kim
+p4991
+aV Kim
+p4992
+aV Kim
+p4993
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp4994
+ba(lp4995
 g21
 (g22
-(dp4987
+(dp4996
 g24
 g25
 (g26
 (I0
-tp4988
+tp4997
 g28
-tp4989
-Rp4990
+tp4998
+Rp4999
 (I1
 (L18L
-tp4991
+tp5000
 g35
 I00
-(lp4992
-g4754
-ag4755
-ag4756
-ag4757
-ag4758
-ag4759
-ag4760
-ag4761
-ag4762
-ag4763
+(lp5001
+g4763
 ag4764
 ag4765
 ag4766
@@ -13641,43 +13641,52 @@ ag4768
 ag4769
 ag4770
 ag4771
-atp4993
+ag4772
+ag4773
+ag4774
+ag4775
+ag4776
+ag4777
+ag4778
+ag4779
+ag4780
+atp5002
 bsg63
-Nstp4994
-Rp4995
-a(dp4996
+Nstp5003
+Rp5004
+a(dp5005
 g339
-(dp4997
+(dp5006
 g341
-g4747
+g4756
 sg342
-(lp4998
-(dp4999
+(lp5007
+(dp5008
 g345
 g346
 (I0
 I18
 I1
-tp5000
-Rp5001
+tp5009
+Rp5010
 sg349
-g4808
-sasstp5002
+g4817
+sasstp5011
 bsbsg351
 I24
 ssVPhilippines
-p5003
-(dp5004
+p5012
+(dp5013
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Philippines
-p5005
+p5014
 sg5
 g6
 (g7
 g8
-Ntp5006
-Rp5007
-(dp5008
+Ntp5015
+Rp5016
+(dp5017
 g12
 g13
 sg14
@@ -13686,256 +13695,236 @@ sg16
 g6
 (g17
 g8
-Ntp5009
-Rp5010
-((lp5011
+Ntp5018
+Rp5019
+((lp5020
 g21
 (g22
-(dp5012
+(dp5021
 g24
 g25
 (g26
 (I0
-tp5013
+tp5022
 g28
-tp5014
-Rp5015
+tp5023
+Rp5024
 (I1
 (L18L
-tp5016
+tp5025
 g35
 I00
-(lp5017
+(lp5026
 VZane
-p5018
-aVRoxanne
-p5019
-aVAngie
-p5020
-aVRussell
-p5021
-aVDana
-p5022
-aVDawson
-p5023
-aVKatie
-p5024
-aVR.C.
-p5025
-aVJeff
-p5026
-aVArtis
 p5027
-aVPete
+aVRoxanne
 p5028
-aVJonathan
+aVAngie
 p5029
-aVCarter
+aVRussell
 p5030
-aVAbi-Maria
+aVDana
 p5031
-aVMalcolm
+aVDawson
 p5032
-aVMichael
+aVKatie
 p5033
-aVLisa
+aVR.C.
 p5034
-aVDenise
+aVJeff
 p5035
-atp5036
+aVArtis
+p5036
+aVPete
+p5037
+aVJonathan
+p5038
+aVCarter
+p5039
+aVAbi-Maria
+p5040
+aVMalcolm
+p5041
+aVMichael
+p5042
+aVLisa
+p5043
+aVDenise
+p5044
+atp5045
 bsg63
-Nstp5037
-Rp5038
+Nstp5046
+Rp5047
 ag21
 (g22
-(dp5039
+(dp5048
 g24
 g25
 (g26
 (I0
-tp5040
+tp5049
 g28
-tp5041
-Rp5042
+tp5050
+Rp5051
 (I1
 (L18L
-tp5043
+tp5052
 g35
 I00
-(lp5044
+(lp5053
 VDenise
-p5045
-aVLisa
-p5046
-aVMichael
-p5047
-aVMalcolm
-p5048
-aVAbi-Maria
-p5049
-aVCarter
-p5050
-aVJonathan
-p5051
-aVPete
-p5052
-aVArtis
-p5053
-aVJeff
 p5054
-aVR.C.
+aVLisa
 p5055
-aVKatie
+aVMichael
 p5056
-aVDawson
+aVMalcolm
 p5057
-aVDana
+aVAbi-Maria
 p5058
-aVRussell
+aVCarter
 p5059
-aVAngie
+aVJonathan
 p5060
-aVRoxanne
+aVPete
 p5061
-aVZane
+aVArtis
 p5062
-atp5063
+aVJeff
+p5063
+aVR.C.
+p5064
+aVKatie
+p5065
+aVDawson
+p5066
+aVDana
+p5067
+aVRussell
+p5068
+aVAngie
+p5069
+aVRoxanne
+p5070
+aVZane
+p5071
+atp5072
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p5064
-tp5065
-Rp5066
-stp5067
-Rp5068
-a(lp5069
+p5073
+tp5074
+Rp5075
+stp5076
+Rp5077
+a(lp5078
 g25
 (g26
 (I0
-tp5070
+tp5079
 g28
-tp5071
-Rp5072
+tp5080
+Rp5081
 (I1
 (L18L
 L18L
-tp5073
+tp5082
 g35
 I00
-(lp5074
+(lp5083
 V Zane
-p5075
-aV \u2014
-p5076
-aV \u2014
-p5077
-aV Zane
-p5078
-aV \u2014
-p5079
-aV \u2014
-p5080
-aV \u2014
-p5081
-aV \u2014
-p5082
-aV \u2014
-p5083
-aV \u2014
 p5084
 aV \u2014
 p5085
 aV \u2014
 p5086
-aV \u2014
+aV Zane
 p5087
 aV \u2014
 p5088
-aV Zane
+aV \u2014
 p5089
-aV Zane
+aV \u2014
 p5090
-aV Zane
+aV \u2014
 p5091
-aV Russell
+aV \u2014
 p5092
-aV Roxanne
+aV \u2014
 p5093
 aV \u2014
 p5094
 aV \u2014
 p5095
-aV Roxanne
+aV \u2014
 p5096
 aV \u2014
 p5097
-aV \u2014
+aV Zane
 p5098
-aV \u2014
+aV Zane
 p5099
-aV \u2014
+aV Zane
 p5100
-aV \u2014
+aV Russell
 p5101
-aV \u2014
+aV Roxanne
 p5102
 aV \u2014
 p5103
 aV \u2014
 p5104
-aV \u2014
+aV Roxanne
 p5105
 aV \u2014
 p5106
-aV Roxanne
+aV \u2014
 p5107
-aV Roxanne
+aV \u2014
 p5108
-aV Angie
+aV \u2014
 p5109
-ag129
-aV Angie
+aV \u2014
 p5110
 aV \u2014
 p5111
 aV \u2014
 p5112
-aV Angie
+aV \u2014
 p5113
 aV \u2014
 p5114
 aV \u2014
 p5115
-aV \u2014
+aV Roxanne
 p5116
-aV \u2014
+aV Roxanne
 p5117
-aV \u2014
+aV Angie
 p5118
-aV \u2014
+ag129
+aV Angie
 p5119
 aV \u2014
 p5120
 aV \u2014
 p5121
-aV \u2014
+aV Angie
 p5122
 aV \u2014
 p5123
-aV Angie
+aV \u2014
 p5124
-aV Russell
+aV \u2014
 p5125
-ag129
-ag129
-aV Russell
+aV \u2014
 p5126
 aV \u2014
 p5127
 aV \u2014
 p5128
-aV Russell
+aV \u2014
 p5129
 aV \u2014
 p5130
@@ -13943,25 +13932,24 @@ aV \u2014
 p5131
 aV \u2014
 p5132
-aV \u2014
+aV Angie
 p5133
-aV \u2014
+aV Russell
 p5134
-aV \u2014
+ag129
+ag129
+aV Russell
 p5135
 aV \u2014
 p5136
 aV \u2014
 p5137
-aV \u2014
+aV Russell
 p5138
 aV \u2014
 p5139
-aV Malcolm
+aV \u2014
 p5140
-ag129
-ag129
-ag129
 aV \u2014
 p5141
 aV \u2014
@@ -13978,8 +13966,11 @@ aV \u2014
 p5147
 aV \u2014
 p5148
-aV \u2014
+aV Malcolm
 p5149
+ag129
+ag129
+ag129
 aV \u2014
 p5150
 aV \u2014
@@ -13988,13 +13979,9 @@ aV \u2014
 p5152
 aV \u2014
 p5153
-aVQuit
+aV \u2014
 p5154
-ag129
-ag129
-ag129
-ag129
-aV Dawson
+aV \u2014
 p5155
 aV \u2014
 p5156
@@ -14004,131 +13991,127 @@ aV \u2014
 p5158
 aV \u2014
 p5159
-aV Dawson
+aV \u2014
 p5160
-aV Dawson
+aV \u2014
 p5161
 aV \u2014
 p5162
-aV \u2014
+aVQuit
 p5163
+ag129
+ag129
+ag129
+ag129
 aV Dawson
 p5164
 aV \u2014
 p5165
-aV Dawson
+aV \u2014
 p5166
-aV Denise
+aV \u2014
 p5167
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Katie
+aV \u2014
 p5168
-aV \u2014
+aV Dawson
 p5169
-aV \u2014
+aV Dawson
 p5170
 aV \u2014
 p5171
 aV \u2014
 p5172
-aV Katie
+aV Dawson
 p5173
-aV Katie
+aV \u2014
 p5174
-aV \u2014
+aV Dawson
 p5175
-aV \u2014
+aV Denise
 p5176
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Katie
 p5177
 aV \u2014
 p5178
-aV Jonathan
+aV \u2014
 p5179
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jonathan
+aV \u2014
 p5180
-aV Jonathan
+aV \u2014
 p5181
-aV Jonathan
+aV Katie
 p5182
-aV Jonathan
+aV Katie
 p5183
-aV Jonathan
+aV \u2014
 p5184
-aV R.C.
+aV \u2014
 p5185
-aV Pete
+aV Katie
 p5186
-aV R.C.
+aV \u2014
 p5187
-aV R.C.
+aV Jonathan
 p5188
-aV R.C.
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jonathan
 p5189
-aV Pete
+aV Jonathan
 p5190
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Pete
+aV Jonathan
 p5191
-aV Jeff
+aV Jonathan
 p5192
-aV Jeff
+aV Jonathan
 p5193
-aV Pete
+aV R.C.
 p5194
-aV Jeff
-p5195
 aV Pete
+p5195
+aV R.C.
 p5196
-aV Abi-Maria
+aV R.C.
 p5197
-aV Jeff
+aV R.C.
 p5198
-aV Jeff
+aV Pete
 p5199
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Pete
 p5200
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Artis
+aV Jeff
 p5201
-aV Jonathan
+aV Jeff
 p5202
-aV Artis
+aV Pete
 p5203
-aV Artis
+aV Jeff
 p5204
-aV Jonathan
+aV Pete
 p5205
-aV Artis
+aV Abi-Maria
 p5206
-aV Artis
+aV Jeff
 p5207
-aV Jonathan
+aV Jeff
 p5208
-aV Jonathan
+aV Pete
 p5209
 ag129
 ag129
@@ -14138,113 +14121,139 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Abi-Maria
+aV Artis
 p5210
-aV Abi-Maria
+aV Jonathan
 p5211
-aV Abi-Maria
+aV Artis
 p5212
-aV Pete
+aV Artis
 p5213
-aV Malcolm
+aV Jonathan
 p5214
-aV Pete
+aV Artis
 p5215
-aV Pete
+aV Artis
 p5216
-aV Malcolm
+aV Jonathan
 p5217
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Jonathan
 p5218
-aV Jonathan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Abi-Maria
 p5219
-aV Jonathan
+aV Abi-Maria
 p5220
-aV Jonathan
+aV Abi-Maria
 p5221
-aV Denise
+aV Pete
 p5222
-aV Denise
+aV Malcolm
 p5223
-aV Denise
+aV Pete
 p5224
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Carter
+aV Pete
 p5225
-aV Carter
+aV Malcolm
 p5226
-aV Carter
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jonathan
 p5227
-aV Carter
+aV Jonathan
 p5228
-aV Carter
+aV Jonathan
 p5229
-aV Abi-Maria
+aV Jonathan
 p5230
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Abi-Maria
+aV Denise
 p5231
-aV Abi-Maria
+aV Denise
 p5232
-aV Abi-Maria
+aV Denise
 p5233
-aV Abi-Maria
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Carter
 p5234
-aV Denise
+aV Carter
 p5235
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Malcolm
+aV Carter
 p5236
-aV Malcolm
+aV Carter
 p5237
-aV Malcolm
+aV Carter
 p5238
-aV Denise
+aV Abi-Maria
 p5239
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Abi-Maria
+p5240
+aV Abi-Maria
+p5241
+aV Abi-Maria
+p5242
+aV Abi-Maria
+p5243
+aV Denise
+p5244
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Malcolm
+p5245
+aV Malcolm
+p5246
+aV Malcolm
+p5247
+aV Denise
+p5248
 ag129
 ag129
 ag129
@@ -14265,7 +14274,7 @@ ag319
 ag129
 ag129
 aV Michael
-p5240
+p5249
 ag129
 ag129
 ag129
@@ -14289,7 +14298,7 @@ ag129
 ag129
 ag129
 aV Lisa
-p5241
+p5250
 ag129
 ag129
 ag129
@@ -14301,18 +14310,18 @@ ag319
 ag319
 ag319
 aV Denise
-p5242
+p5251
 aV Denise
-p5243
+p5252
 ag129
 aV Denise
-p5244
+p5253
 aV Denise
-p5245
+p5254
 aV Denise
-p5246
+p5255
 aV Denise
-p5247
+p5256
 ag129
 ag129
 ag129
@@ -14321,35 +14330,26 @@ ag129
 ag129
 ag129
 ag129
-atp5248
-ba(lp5249
+atp5257
+ba(lp5258
 g21
 (g22
-(dp5250
+(dp5259
 g24
 g25
 (g26
 (I0
-tp5251
+tp5260
 g28
-tp5252
-Rp5253
+tp5261
+Rp5262
 (I1
 (L18L
-tp5254
+tp5263
 g35
 I00
-(lp5255
-g5018
-ag5019
-ag5020
-ag5021
-ag5022
-ag5023
-ag5024
-ag5025
-ag5026
-ag5027
+(lp5264
+g5027
 ag5028
 ag5029
 ag5030
@@ -14358,43 +14358,52 @@ ag5032
 ag5033
 ag5034
 ag5035
-atp5256
+ag5036
+ag5037
+ag5038
+ag5039
+ag5040
+ag5041
+ag5042
+ag5043
+ag5044
+atp5265
 bsg63
-Nstp5257
-Rp5258
-a(dp5259
+Nstp5266
+Rp5267
+a(dp5268
 g339
-(dp5260
+(dp5269
 g341
-g5011
+g5020
 sg342
-(lp5261
-(dp5262
+(lp5270
+(dp5271
 g345
 g346
 (I0
 I18
 I1
-tp5263
-Rp5264
+tp5272
+Rp5273
 sg349
-g5072
-sasstp5265
+g5081
+sasstp5274
 bsbsg351
 I25
 ssVCaramoan
-p5266
-(dp5267
+p5275
+(dp5276
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Caramoan
-p5268
+p5277
 sg5
 g6
 (g7
 g8
-Ntp5269
-Rp5270
-(dp5271
+Ntp5278
+Rp5279
+(dp5280
 g12
 g13
 sg14
@@ -14403,205 +14412,187 @@ sg16
 g6
 (g17
 g8
-Ntp5272
-Rp5273
-((lp5274
+Ntp5281
+Rp5282
+((lp5283
 g21
 (g22
-(dp5275
+(dp5284
 g24
 g25
 (g26
 (I0
-tp5276
+tp5285
 g28
-tp5277
-Rp5278
+tp5286
+Rp5287
 (I1
 (L23L
-tp5279
+tp5288
 g35
 I00
-(lp5280
+(lp5289
 VFrancesca
-p5281
-aVAllie
-p5282
-aVHope
-p5283
-aVHope
-p5284
-aVShamar
-p5285
-aVLaura
-p5286
-aVBrandon
-p5287
-aVMatt
-p5288
-aVJulia
-p5289
-aVJulia
 p5290
-aVCorinne
+aVAllie
 p5291
-aVMichael
+aVHope
 p5292
-aVPhillip
+aVHope
 p5293
-aVMalcolm
+aVShamar
 p5294
-aVMalcolm
+aVLaura
 p5295
-aVReynold
+aVBrandon
 p5296
-aVAndrea
+aVMatt
 p5297
-aVBrenda
+aVJulia
 p5298
-aVErik
+aVJulia
 p5299
-aVEddie
+aVCorinne
 p5300
-aVSherri
+aVMichael
 p5301
-aVDawn
+aVPhillip
 p5302
-aVCochran
+aVMalcolm
 p5303
-atp5304
+aVMalcolm
+p5304
+aVReynold
+p5305
+aVAndrea
+p5306
+aVBrenda
+p5307
+aVErik
+p5308
+aVEddie
+p5309
+aVSherri
+p5310
+aVDawn
+p5311
+aVCochran
+p5312
+atp5313
 bsg63
-Nstp5305
-Rp5306
+Nstp5314
+Rp5315
 ag21
 (g22
-(dp5307
+(dp5316
 g24
 g25
 (g26
 (I0
-tp5308
+tp5317
 g28
-tp5309
-Rp5310
+tp5318
+Rp5319
 (I1
 (L20L
-tp5311
+tp5320
 g35
 I00
-(lp5312
+(lp5321
 V Cochran
-p5313
-aV Dawn
-p5314
-aV Sherri
-p5315
-aV Eddie
-p5316
-aV Erik
-p5317
-aV Brenda
-p5318
-aV Andrea
-p5319
-aV Reynold
-p5320
-aV Malcolm
-p5321
-aV Phillip
 p5322
-aV Michael
+aV Dawn
 p5323
-aV Corinne
+aV Sherri
 p5324
-aV Julia
+aV Eddie
 p5325
-aV Matt
+aV Erik
 p5326
-aV Brandon
+aV Brenda
 p5327
-aV Laura
+aV Andrea
 p5328
-aV Shamar
+aV Reynold
 p5329
-aV Hope
+aV Malcolm
 p5330
-aV Allie
+aV Phillip
 p5331
-aV Francesca
+aV Michael
 p5332
-atp5333
+aV Corinne
+p5333
+aV Julia
+p5334
+aV Matt
+p5335
+aV Brandon
+p5336
+aV Laura
+p5337
+aV Shamar
+p5338
+aV Hope
+p5339
+aV Allie
+p5340
+aV Francesca
+p5341
+atp5342
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p5334
-tp5335
-Rp5336
-stp5337
-Rp5338
-a(lp5339
+p5343
+tp5344
+Rp5345
+stp5346
+Rp5347
+a(lp5348
 g25
 (g26
 (I0
-tp5340
+tp5349
 g28
-tp5341
-Rp5342
+tp5350
+Rp5351
 (I1
 (L23L
 L20L
-tp5343
+tp5352
 g35
 I00
-(lp5344
+(lp5353
 V Francesca
-p5345
-aV Francesca
-p5346
-aV \u2014
-p5347
-aV \u2014
-p5348
-aV Andrea
-p5349
-aV Andrea
-p5350
-aV Francesca
-p5351
-aV \u2014
-p5352
-aV Francesca
-p5353
-aV Francesca
 p5354
-aV \u2014
-p5355
 aV Francesca
+p5355
+aV \u2014
 p5356
 aV \u2014
 p5357
-aV \u2014
+aV Andrea
 p5358
 aV Andrea
 p5359
-aV \u2014
+aV Francesca
 p5360
 aV \u2014
 p5361
-aV \u2014
+aV Francesca
 p5362
-aV \u2014
+aV Francesca
 p5363
-aV Andrea
-p5364
 aV \u2014
+p5364
+aV Francesca
 p5365
 aV \u2014
 p5366
-aV Allie
+aV \u2014
 p5367
-aV Shamar
+aV Andrea
 p5368
 aV \u2014
 p5369
@@ -14609,116 +14600,116 @@ aV \u2014
 p5370
 aV \u2014
 p5371
-aV Shamar
-p5372
 aV \u2014
+p5372
+aV Andrea
 p5373
 aV \u2014
 p5374
-aV Allie
-p5375
 aV \u2014
+p5375
+aV Allie
 p5376
-aV Allie
+aV Shamar
 p5377
-aV Allie
+aV \u2014
 p5378
 aV \u2014
 p5379
-aV Allie
-p5380
-aV Allie
-p5381
-aV Shamar
-p5382
-aV Shamar
-p5383
-ag129
 aV \u2014
+p5380
+aV Shamar
+p5381
+aV \u2014
+p5382
+aV \u2014
+p5383
+aV Allie
 p5384
 aV \u2014
 p5385
-aV Hope
+aV Allie
 p5386
-aV Shamar
+aV Allie
 p5387
 aV \u2014
 p5388
-aV \u2014
+aV Allie
 p5389
-aV \u2014
+aV Allie
 p5390
 aV Shamar
 p5391
-aV \u2014
+aV Shamar
 p5392
+ag129
 aV \u2014
 p5393
-aV Eddie
-p5394
 aV \u2014
-p5395
+p5394
 aV Hope
+p5395
+aV Shamar
 p5396
-aV Eddie
+aV \u2014
 p5397
 aV \u2014
 p5398
-aV Hope
+aV \u2014
 p5399
-aV Eddie
+aV Shamar
 p5400
-aV Shamar
+aV \u2014
 p5401
-ag129
-ag129
-ag5384
-ag5385
-aV Hope
+aV \u2014
 p5402
-aVNone
+aV Eddie
 p5403
-ag5388
-ag5389
-ag5390
-aV Shamar
+aV \u2014
 p5404
-ag5392
-ag5393
 aV Hope
 p5405
-ag5395
-aV Hope
+aV Eddie
 p5406
-aV Hope
+aV \u2014
 p5407
-ag5398
 aV Hope
 p5408
-aVNone
+aV Eddie
 p5409
-aVNone
+aV Shamar
 p5410
 ag129
 ag129
-aV \u2014
+ag5393
+ag5394
+aV Hope
 p5411
-aV \u2014
+aVNone
 p5412
-aV \u2014
+ag5397
+ag5398
+ag5399
+aV Shamar
 p5413
-aV \u2014
+ag5401
+ag5402
+aV Hope
 p5414
-aV \u2014
+ag5404
+aV Hope
 p5415
-aV \u2014
+aV Hope
 p5416
-aV \u2014
+ag5407
+aV Hope
 p5417
-aV \u2014
+aVNone
 p5418
-aV \u2014
+aVNone
 p5419
+ag129
+ag129
 aV \u2014
 p5420
 aV \u2014
@@ -14733,18 +14724,15 @@ aV \u2014
 p5425
 aV \u2014
 p5426
-aVEvacuated
+aV \u2014
 p5427
-ag129
-ag129
-ag129
 aV \u2014
 p5428
 aV \u2014
 p5429
-aV Laura
+aV \u2014
 p5430
-aV Laura
+aV \u2014
 p5431
 aV \u2014
 p5432
@@ -14752,268 +14740,260 @@ aV \u2014
 p5433
 aV \u2014
 p5434
-aV Laura
-p5435
 aV \u2014
+p5435
+aVEvacuated
 p5436
+ag129
+ag129
+ag129
 aV \u2014
 p5437
-aV Laura
-p5438
 aV \u2014
+p5438
+aV Laura
 p5439
 aV Laura
 p5440
-aV Laura
+aV \u2014
 p5441
 aV \u2014
 p5442
-aV Reynold
+aV \u2014
 p5443
-ag129
-ag129
-ag129
-ag129
-aV Brandon
+aV Laura
 p5444
-aV Brandon
+aV \u2014
 p5445
 aV \u2014
 p5446
-aV \u2014
+aV Laura
 p5447
-aV Brandon
+aV \u2014
 p5448
-aV Brandon
+aV Laura
 p5449
-aV Brandon
+aV Laura
 p5450
 aV \u2014
 p5451
-aV Brandon
+aV Reynold
 p5452
+ag129
+ag129
+ag129
+ag129
 aV Brandon
 p5453
-aV \u2014
-p5454
 aV Brandon
+p5454
+aV \u2014
 p5455
 aV \u2014
 p5456
-aV \u2014
+aV Brandon
 p5457
-aV Phillip
+aV Brandon
 p5458
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Matt
+aV Brandon
 p5459
-aV Matt
+aV \u2014
 p5460
-aV \u2014
+aV Brandon
 p5461
-aV \u2014
+aV Brandon
 p5462
 aV \u2014
 p5463
-aV \u2014
+aV Brandon
 p5464
 aV \u2014
 p5465
 aV \u2014
 p5466
-aV \u2014
+aV Phillip
 p5467
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Matt
 p5468
-aV Julia
-p5469
 aV Matt
+p5469
+aV \u2014
 p5470
-aV Dawn
+aV \u2014
 p5471
-aV Julia
+aV \u2014
 p5472
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Michael
+aV \u2014
 p5473
-aV Julia
+aV \u2014
 p5474
 aV \u2014
 p5475
 aV \u2014
 p5476
-aV \u2014
+aV Matt
 p5477
-aV \u2014
+aV Julia
 p5478
-aV \u2014
+aV Matt
 p5479
-aV \u2014
+aV Dawn
 p5480
-aV \u2014
+aV Julia
 p5481
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Michael
 p5482
 aV Julia
 p5483
-aV Julia
+aV \u2014
 p5484
-aV Michael
+aV \u2014
 p5485
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Julia
+aV \u2014
 p5486
-aV Julia
+aV \u2014
 p5487
-ag5475
-ag5476
-ag5477
-ag5478
-ag5479
-ag5480
-ag5481
-aV Julia
+aV \u2014
 p5488
-aVNone
+aV \u2014
 p5489
-aV Julia
+aV \u2014
 p5490
-aVNone
+aV Michael
 p5491
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Corinne
+aV Julia
 p5492
-aV Corinne
+aV Julia
 p5493
-aV Corinne
+aV Michael
 p5494
-aV Sherri
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Julia
 p5495
-aV Corinne
+aV Julia
 p5496
-aV Corinne
+ag5484
+ag5485
+ag5486
+ag5487
+ag5488
+ag5489
+ag5490
+aV Julia
 p5497
-aV Corinne
+aVNone
 p5498
-aV Sherri
+aV Julia
 p5499
-aV Sherri
+aVNone
 p5500
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Corinne
 p5501
-aV Sherri
+aV Corinne
 p5502
-aV Sherri
+aV Corinne
 p5503
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Michael
+aV Sherri
 p5504
-aV Michael
+aV Corinne
 p5505
-aV Michael
+aV Corinne
 p5506
-aV Andrea
+aV Corinne
 p5507
-aV Michael
+aV Sherri
 p5508
-aV Michael
+aV Sherri
 p5509
-aV Michael
+aV Corinne
 p5510
-aV Andrea
+aV Sherri
 p5511
-aV Reynold
+aV Sherri
 p5512
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Michael
 p5513
-aV Andrea
+aV Michael
 p5514
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Malcolm
+aV Michael
 p5515
-aV Eddie
+aV Andrea
 p5516
-aV Eddie
+aV Michael
 p5517
-aV Phillip
+aV Michael
 p5518
-aV Phillip
+aV Michael
 p5519
-aV Eddie
+aV Andrea
 p5520
-aV Eddie
+aV Reynold
 p5521
-aV Phillip
+aV Michael
 p5522
-aV Phillip
+aV Andrea
 p5523
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Malcolm
 p5524
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Malcolm
+aV Eddie
 p5525
-aV Reynold
+aV Eddie
 p5526
-aV Reynold
+aV Phillip
 p5527
-aV Andrea
+aV Phillip
 p5528
-aV Malcolm
+aV Eddie
 p5529
-aV Reynold
+aV Eddie
 p5530
-aV Malcolm
+aV Phillip
 p5531
-aV Andrea
+aV Phillip
 p5532
-aV Andrea
+aV Malcolm
 p5533
-ag129
 ag129
 ag129
 ag129
@@ -15026,21 +15006,21 @@ ag129
 ag129
 aV Malcolm
 p5534
-aV Malcolm
+aV Reynold
 p5535
-aV Malcolm
+aV Reynold
 p5536
-aV Malcolm
+aV Andrea
 p5537
 aV Malcolm
 p5538
-aV Malcolm
+aV Reynold
 p5539
-aVNone
+aV Malcolm
 p5540
-aVNone
+aV Andrea
 p5541
-aVNone
+aV Andrea
 p5542
 ag129
 ag129
@@ -15053,119 +15033,101 @@ ag129
 ag129
 ag129
 ag129
-aV Eddie
+aV Malcolm
 p5543
-aV Reynold
+aV Malcolm
 p5544
-aV Reynold
+aV Malcolm
 p5545
-aV Sherri
+aV Malcolm
 p5546
-aV Eddie
+aV Malcolm
 p5547
-aV Reynold
+aV Malcolm
 p5548
-aV Reynold
+aVNone
 p5549
-aV Erik
+aVNone
 p5550
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Eddie
+aVNone
 p5551
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Eddie
 p5552
-aV Andrea
+aV Reynold
 p5553
-aV Brenda
+aV Reynold
 p5554
-aV Andrea
+aV Sherri
 p5555
-aV Andrea
+aV Eddie
 p5556
-aV Brenda
+aV Reynold
 p5557
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Brenda
+aV Reynold
 p5558
-aV Brenda
-p5559
-aV Brenda
-p5560
 aV Erik
+p5559
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Eddie
+p5560
+aV Eddie
 p5561
-aV Eddie
+aV Andrea
 p5562
-aV Eddie
+aV Brenda
 p5563
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Andrea
 p5564
-aV \u2014
+aV Andrea
 p5565
-aV \u2014
+aV Brenda
 p5566
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Brenda
 p5567
-aVEvacuated
+aV Brenda
 p5568
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Eddie
+aV Brenda
 p5569
-aV Eddie
+aV Erik
 p5570
 aV Eddie
 p5571
-aV Dawn
+aV Eddie
 p5572
 ag129
 ag129
@@ -15181,67 +15143,39 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Cochran
+aV \u2014
 p5573
-aV Cochran
+aV \u2014
 p5574
-aV Cochran
+aV \u2014
 p5575
-aV Cochran
+aV \u2014
 p5576
-aV Cochran
+aVEvacuated
 p5577
-aV Cochran
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Eddie
 p5578
-aV Cochran
+aV Eddie
 p5579
-aV Cochran
+aV Eddie
 p5580
+aV Dawn
+p5581
 ag129
 ag129
 ag129
@@ -15251,35 +15185,101 @@ ag129
 ag129
 ag129
 ag129
-atp5581
-ba(lp5582
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Cochran
+p5582
+aV Cochran
+p5583
+aV Cochran
+p5584
+aV Cochran
+p5585
+aV Cochran
+p5586
+aV Cochran
+p5587
+aV Cochran
+p5588
+aV Cochran
+p5589
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp5590
+ba(lp5591
 g21
 (g22
-(dp5583
+(dp5592
 g24
 g25
 (g26
 (I0
-tp5584
+tp5593
 g28
-tp5585
-Rp5586
+tp5594
+Rp5595
 (I1
 (L23L
-tp5587
+tp5596
 g35
 I00
-(lp5588
-g5281
-ag5282
-ag5283
-ag5284
-ag5285
-ag5286
-ag5287
-ag5288
-ag5289
-ag5290
+(lp5597
+g5290
 ag5291
 ag5292
 ag5293
@@ -15293,43 +15293,52 @@ ag5300
 ag5301
 ag5302
 ag5303
-atp5589
+ag5304
+ag5305
+ag5306
+ag5307
+ag5308
+ag5309
+ag5310
+ag5311
+ag5312
+atp5598
 bsg63
-Nstp5590
-Rp5591
-a(dp5592
+Nstp5599
+Rp5600
+a(dp5601
 g339
-(dp5593
+(dp5602
 g341
-g5274
+g5283
 sg342
-(lp5594
-(dp5595
+(lp5603
+(dp5604
 g345
 g346
 (I0
 I23
 I1
-tp5596
-Rp5597
+tp5605
+Rp5606
 sg349
-g5342
-sasstp5598
+g5351
+sasstp5607
 bsbsg351
 I26
 ssVGabon
-p5599
-(dp5600
+p5608
+(dp5609
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Gabon
-p5601
+p5610
 sg5
 g6
 (g7
 g8
-Ntp5602
-Rp5603
-(dp5604
+Ntp5611
+Rp5612
+(dp5613
 g12
 g13
 sg14
@@ -15338,197 +15347,179 @@ sg16
 g6
 (g17
 g8
-Ntp5605
-Rp5606
-((lp5607
+Ntp5614
+Rp5615
+((lp5616
 g21
 (g22
-(dp5608
+(dp5617
 g24
 g25
 (g26
 (I0
-tp5609
+tp5618
 g28
-tp5610
-Rp5611
+tp5619
+Rp5620
 (I1
 (L18L
-tp5612
+tp5621
 g35
 I00
-(lp5613
+(lp5622
 VMichelle
-p5614
-aVGillian
-p5615
-aVPaloma
-p5616
-aVJacquie
-p5617
-aVG.C.
-p5618
-aVKelly
-p5619
-aVAce
-p5620
-aVDan
-p5621
-aVMarcus
-p5622
-aVCharlie
 p5623
-aVRandy
+aVGillian
 p5624
-aVCorinne
+aVPaloma
 p5625
-aVCrystal
+aVJacquie
 p5626
-aVKen
+aVG.C.
 p5627
-aVMatty
+aVKelly
 p5628
-aVSugar
+aVAce
 p5629
-aVSusie
+aVDan
 p5630
-aVBob
+aVMarcus
 p5631
-atp5632
+aVCharlie
+p5632
+aVRandy
+p5633
+aVCorinne
+p5634
+aVCrystal
+p5635
+aVKen
+p5636
+aVMatty
+p5637
+aVSugar
+p5638
+aVSusie
+p5639
+aVBob
+p5640
+atp5641
 bsg63
-Nstp5633
-Rp5634
+Nstp5642
+Rp5643
 ag21
 (g22
-(dp5635
+(dp5644
 g24
 g25
 (g26
 (I0
-tp5636
+tp5645
 g28
-tp5637
-Rp5638
+tp5646
+Rp5647
 (I1
 (L18L
-tp5639
+tp5648
 g35
 I00
-(lp5640
+(lp5649
 VBob
-p5641
-aVSusie
-p5642
-aVSugar
-p5643
-aVMatty
-p5644
-aVKen
-p5645
-aVCrystal
-p5646
-aVCorinne
-p5647
-aVRandy
-p5648
-aVCharlie
-p5649
-aVMarcus
 p5650
-aVDan
+aVSusie
 p5651
-aVAce
+aVSugar
 p5652
-aVKelly
+aVMatty
 p5653
-aVG.C.
+aVKen
 p5654
-aVJacquie
+aVCrystal
 p5655
-aVPaloma
+aVCorinne
 p5656
-aVGillian
+aVRandy
 p5657
-aVMichelle
+aVCharlie
 p5658
-atp5659
+aVMarcus
+p5659
+aVDan
+p5660
+aVAce
+p5661
+aVKelly
+p5662
+aVG.C.
+p5663
+aVJacquie
+p5664
+aVPaloma
+p5665
+aVGillian
+p5666
+aVMichelle
+p5667
+atp5668
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p5660
-tp5661
-Rp5662
-stp5663
-Rp5664
-a(lp5665
+p5669
+tp5670
+Rp5671
+stp5672
+Rp5673
+a(lp5674
 g25
 (g26
 (I0
-tp5666
+tp5675
 g28
-tp5667
-Rp5668
+tp5676
+Rp5677
 (I1
 (L18L
 L18L
-tp5669
+tp5678
 g35
 I00
-(lp5670
+(lp5679
 V \u2014
-p5671
-aV Michelle
-p5672
-aV \u2014
-p5673
-aV Michelle
-p5674
-aV Michelle
-p5675
-aV Michelle
-p5676
-aV \u2014
-p5677
-aV Michelle
-p5678
-aV \u2014
-p5679
-aV \u2014
 p5680
 aV Michelle
 p5681
 aV \u2014
 p5682
-aV \u2014
+aV Michelle
 p5683
 aV Michelle
 p5684
-aV \u2014
+aV Michelle
 p5685
 aV \u2014
 p5686
 aV Michelle
 p5687
-aV Gillian
+aV \u2014
 p5688
 aV \u2014
 p5689
-aV Gillian
+aV Michelle
 p5690
 aV \u2014
 p5691
-aV Gillian
+aV \u2014
 p5692
-aV Gillian
+aV Michelle
 p5693
-aV Gillian
+aV \u2014
 p5694
 aV \u2014
 p5695
-aV Gillian
+aV Michelle
 p5696
-aV \u2014
+aV Gillian
 p5697
 aV \u2014
 p5698
@@ -15536,102 +15527,102 @@ aV Gillian
 p5699
 aV \u2014
 p5700
-aV \u2014
+aV Gillian
 p5701
 aV Gillian
 p5702
-aV \u2014
+aV Gillian
 p5703
 aV \u2014
 p5704
-aV Ken
+aV Gillian
 p5705
-ag129
-aV Paloma
+aV \u2014
 p5706
 aV \u2014
 p5707
-aV Paloma
+aV Gillian
 p5708
 aV \u2014
 p5709
 aV \u2014
 p5710
-aV \u2014
+aV Gillian
 p5711
-aV Paloma
+aV \u2014
 p5712
 aV \u2014
 p5713
-aV Paloma
+aV Ken
 p5714
+ag129
 aV Paloma
 p5715
 aV \u2014
 p5716
 aV Paloma
 p5717
-aV Ace
+aV \u2014
 p5718
 aV \u2014
 p5719
-aV Paloma
+aV \u2014
 p5720
-aV Ace
+aV Paloma
 p5721
-ag129
-ag129
 aV \u2014
 p5722
-aV \u2014
+aV Paloma
 p5723
-aVExiled
+aV Paloma
 p5724
-aV Jacquie
+aV \u2014
 p5725
-aV Jacquie
+aV Paloma
 p5726
-aV Jacquie
+aV Ace
 p5727
 aV \u2014
 p5728
-aV \u2014
+aV Paloma
 p5729
-aV \u2014
+aV Ace
 p5730
+ag129
+ag129
 aV \u2014
 p5731
 aV \u2014
 p5732
-aV Kelly
+aVExiled
 p5733
 aV Jacquie
 p5734
 aV Jacquie
 p5735
-aV Kelly
+aV Jacquie
 p5736
-ag129
-ag129
-ag129
 aV \u2014
 p5737
 aV \u2014
 p5738
-aV G.C.
+aV \u2014
 p5739
-aV G.C.
+aV \u2014
 p5740
-aV G.C.
+aV \u2014
 p5741
-aV G.C.
+aV Kelly
 p5742
-aV \u2014
+aV Jacquie
 p5743
-aV \u2014
+aV Jacquie
 p5744
-aV \u2014
+aV Kelly
 p5745
+ag129
+ag129
+ag129
 aV \u2014
 p5746
 aV \u2014
@@ -15640,78 +15631,72 @@ aV G.C.
 p5748
 aV G.C.
 p5749
-aV Kelly
+aV G.C.
 p5750
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV G.C.
 p5751
 aV \u2014
 p5752
-aV Kelly
+aV \u2014
 p5753
-aV Kelly
+aV \u2014
 p5754
-aV Kelly
+aV \u2014
 p5755
-aV Kelly
+aV \u2014
 p5756
-aV \u2014
+aV G.C.
 p5757
-aV \u2014
+aV G.C.
 p5758
-aV \u2014
+aV Kelly
 p5759
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p5760
 aV \u2014
 p5761
 aV Kelly
 p5762
-aV Crystal
+aV Kelly
 p5763
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Kelly
 p5764
-aV \u2014
+aV Kelly
 p5765
-aV Ace
+aV \u2014
 p5766
-aV Crystal
+aV \u2014
 p5767
-aV Ace
+aV \u2014
 p5768
-aV Ace
+aV \u2014
 p5769
 aV \u2014
 p5770
-aV \u2014
+aV Kelly
 p5771
-aV \u2014
+aV Crystal
 p5772
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p5773
 aV \u2014
 p5774
-aV Crystal
+aV Ace
 p5775
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Dan
+aV Crystal
 p5776
-aV Dan
+aV Ace
 p5777
-aV \u2014
+aV Ace
 p5778
 aV \u2014
 p5779
@@ -15719,68 +15704,66 @@ aV \u2014
 p5780
 aV \u2014
 p5781
-aV Dan
+aV \u2014
 p5782
-aV Susie
+aV \u2014
 p5783
-aV Dan
+aV Crystal
 p5784
-aV Susie
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Dan
 p5785
-aV Susie
+aV Dan
 p5786
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ken
+aV \u2014
 p5787
-aV Marcus
+aV \u2014
 p5788
 aV \u2014
 p5789
 aV \u2014
 p5790
-aV Marcus
+aV Dan
 p5791
-aV Marcus
+aV Susie
 p5792
-aV \u2014
+aV Dan
 p5793
-aV \u2014
+aV Susie
 p5794
-aV \u2014
+aV Susie
 p5795
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Ken
 p5796
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Crystal
+aV Marcus
 p5797
-aV Charlie
+aV \u2014
 p5798
-aV Charlie
+aV \u2014
 p5799
-aV Charlie
+aV Marcus
 p5800
-aV Charlie
+aV Marcus
 p5801
-aV Charlie
+aV \u2014
 p5802
-aV Crystal
+aV \u2014
 p5803
-aV Crystal
+aV \u2014
 p5804
-aV Crystal
+aV Ken
 p5805
 ag129
 ag129
@@ -15790,47 +15773,24 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Susie
+aV Crystal
 p5806
-aV Randy
+aV Charlie
 p5807
-aV Randy
+aV Charlie
 p5808
-aV Randy
+aV Charlie
 p5809
-aV Randy
+aV Charlie
 p5810
-aV Randy
+aV Charlie
 p5811
-aV Susie
+aV Crystal
 p5812
-aV Susie
+aV Crystal
 p5813
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Matty
+aV Crystal
 p5814
-aV Corinne
-p5815
-aV Corinne
-p5816
-aV Corinne
-p5817
-aV Matty
-p5818
-aV Corinne
-p5819
-aV Matty
-p5820
 ag129
 ag129
 ag129
@@ -15840,45 +15800,22 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV Crystal
-p5821
-aV Crystal
-p5822
-aV Crystal
-p5823
-aV Crystal
-p5824
-aV Matty
-p5825
-aV Matty
-p5826
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ken
-p5827
-aV Ken
-p5828
-aV Ken
-p5829
-aV Ken
-p5830
 aV Susie
-p5831
-ag129
-ag129
-ag129
+p5815
+aV Randy
+p5816
+aV Randy
+p5817
+aV Randy
+p5818
+aV Randy
+p5819
+aV Randy
+p5820
+aV Susie
+p5821
+aV Susie
+p5822
 ag129
 ag129
 ag129
@@ -15890,12 +15827,41 @@ ag129
 ag129
 ag129
 aV Matty
+p5823
+aV Corinne
+p5824
+aV Corinne
+p5825
+aV Corinne
+p5826
+aV Matty
+p5827
+aV Corinne
+p5828
+aV Matty
+p5829
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Crystal
+p5830
+aV Crystal
+p5831
+aV Crystal
 p5832
-aV Bob
+aV Crystal
 p5833
 aV Matty
 p5834
-aV Bob
+aV Matty
 p5835
 ag129
 ag129
@@ -15909,61 +15875,37 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Susie
+aV Ken
 p5836
-aV Susie
+aV Ken
 p5837
-aV Susie
+aV Ken
 p5838
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-aV Bob
+aV Ken
 p5839
-aV Bob
+aV Susie
 p5840
-aV Bob
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Matty
 p5841
 aV Bob
 p5842
+aV Matty
+p5843
+aV Bob
+p5844
 ag129
 ag129
 ag129
@@ -15972,35 +15914,93 @@ ag129
 ag129
 ag129
 ag129
-atp5843
-ba(lp5844
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Susie
+p5845
+aV Susie
+p5846
+aV Susie
+p5847
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+aV Bob
+p5848
+aV Bob
+p5849
+aV Bob
+p5850
+aV Bob
+p5851
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp5852
+ba(lp5853
 g21
 (g22
-(dp5845
+(dp5854
 g24
 g25
 (g26
 (I0
-tp5846
+tp5855
 g28
-tp5847
-Rp5848
+tp5856
+Rp5857
 (I1
 (L18L
-tp5849
+tp5858
 g35
 I00
-(lp5850
-g5614
-ag5615
-ag5616
-ag5617
-ag5618
-ag5619
-ag5620
-ag5621
-ag5622
-ag5623
+(lp5859
+g5623
 ag5624
 ag5625
 ag5626
@@ -16009,43 +16009,52 @@ ag5628
 ag5629
 ag5630
 ag5631
-atp5851
+ag5632
+ag5633
+ag5634
+ag5635
+ag5636
+ag5637
+ag5638
+ag5639
+ag5640
+atp5860
 bsg63
-Nstp5852
-Rp5853
-a(dp5854
+Nstp5861
+Rp5862
+a(dp5863
 g339
-(dp5855
+(dp5864
 g341
-g5607
+g5616
 sg342
-(lp5856
-(dp5857
+(lp5865
+(dp5866
 g345
 g346
 (I0
 I18
 I1
-tp5858
-Rp5859
+tp5867
+Rp5868
 sg349
-g5668
-sasstp5860
+g5677
+sasstp5869
 bsbsg351
 I17
 ssVMicronesia
-p5861
-(dp5862
+p5870
+(dp5871
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Micronesia
-p5863
+p5872
 sg5
 g6
 (g7
 g8
-Ntp5864
-Rp5865
-(dp5866
+Ntp5873
+Rp5874
+(dp5875
 g12
 g13
 sg14
@@ -16054,191 +16063,173 @@ sg16
 g6
 (g17
 g8
-Ntp5867
-Rp5868
-((lp5869
+Ntp5876
+Rp5877
+((lp5878
 g21
 (g22
-(dp5870
+(dp5879
 g24
 g25
 (g26
 (I0
-tp5871
+tp5880
 g28
-tp5872
-Rp5873
+tp5881
+Rp5882
 (I1
 (L20L
-tp5874
+tp5883
 g35
 I00
-(lp5875
+(lp5884
 VJon
-p5876
-aVMary
-p5877
-aVYau-Man
-p5878
-aVMikey B.
-p5879
-aVJoel
-p5880
-aVJonathan
-p5881
-aVChet
-p5882
-aVKathy
-p5883
-aVTracy
-p5884
-aVAmi
 p5885
-aVEliza
+aVMary
 p5886
-aVOzzy
+aVYau-Man
 p5887
-aVJason
+aVMikey B.
 p5888
-aVJames
+aVJoel
 p5889
-aVAlexis
+aVJonathan
 p5890
-aVErik
+aVChet
 p5891
-aVNatalie
+aVKathy
 p5892
-aVCirie
+aVTracy
 p5893
-aVAmanda
+aVAmi
 p5894
-aVParvati
+aVEliza
 p5895
-atp5896
+aVOzzy
+p5896
+aVJason
+p5897
+aVJames
+p5898
+aVAlexis
+p5899
+aVErik
+p5900
+aVNatalie
+p5901
+aVCirie
+p5902
+aVAmanda
+p5903
+aVParvati
+p5904
+atp5905
 bsg63
-Nstp5897
-Rp5898
+Nstp5906
+Rp5907
 ag21
 (g22
-(dp5899
+(dp5908
 g24
 g25
 (g26
 (I0
-tp5900
+tp5909
 g28
-tp5901
-Rp5902
+tp5910
+Rp5911
 (I1
 (L20L
-tp5903
+tp5912
 g35
 I00
-(lp5904
+(lp5913
 VParvati
-p5905
-aVAmanda
-p5906
-aVCirie
-p5907
-aVNatalie
-p5908
-aVErik
-p5909
-aVAlexis
-p5910
-aVJames
-p5911
-aVJason
-p5912
-aVOzzy
-p5913
-aVEliza
 p5914
-aVAmi
+aVAmanda
 p5915
-aVTracy
+aVCirie
 p5916
-aVKathy
+aVNatalie
 p5917
-aVChet
+aVErik
 p5918
-aVJonathan
+aVAlexis
 p5919
-aVJoel
+aVJames
 p5920
-aVMikey B.
+aVJason
 p5921
-aVYau-Man
+aVOzzy
 p5922
-aVMary
+aVEliza
 p5923
-aVJon
+aVAmi
 p5924
-atp5925
+aVTracy
+p5925
+aVKathy
+p5926
+aVChet
+p5927
+aVJonathan
+p5928
+aVJoel
+p5929
+aVMikey B.
+p5930
+aVYau-Man
+p5931
+aVMary
+p5932
+aVJon
+p5933
+atp5934
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p5926
-tp5927
-Rp5928
-stp5929
-Rp5930
-a(lp5931
+p5935
+tp5936
+Rp5937
+stp5938
+Rp5939
+a(lp5940
 g25
 (g26
 (I0
-tp5932
+tp5941
 g28
-tp5933
-Rp5934
+tp5942
+Rp5943
 (I1
 (L20L
 L20L
-tp5935
+tp5944
 g35
 I00
-(lp5936
+(lp5945
 V Jon
-p5937
-aV Jon
-p5938
-aV Jon
-p5939
-aV \u2014
-p5940
-aV \u2014
-p5941
-aV \u2014
-p5942
-aV Jon
-p5943
-aV \u2014
-p5944
-aV Jon
-p5945
-aV Jon
 p5946
 aV Jon
 p5947
-aV \u2014
+aV Jon
 p5948
 aV \u2014
 p5949
 aV \u2014
 p5950
-aV Jon
-p5951
 aV \u2014
+p5951
+aV Jon
 p5952
 aV \u2014
 p5953
 aV Jon
 p5954
-aV\u2014
+aV Jon
 p5955
-aV Ozzy
+aV Jon
 p5956
 aV \u2014
 p5957
@@ -16246,132 +16237,132 @@ aV \u2014
 p5958
 aV \u2014
 p5959
-aV Mary
+aV Jon
 p5960
-aV Mary
+aV \u2014
 p5961
-aV Mary
+aV \u2014
 p5962
-aV \u2014
+aV Jon
 p5963
-aV Chet
+aV\u2014
 p5964
-aV \u2014
+aV Ozzy
 p5965
 aV \u2014
 p5966
 aV \u2014
 p5967
-aV Mary
+aV \u2014
 p5968
 aV Mary
 p5969
 aV Mary
 p5970
-aV \u2014
+aV Mary
 p5971
-aV Tracy
+aV \u2014
 p5972
 aV Chet
 p5973
 aV \u2014
 p5974
-aV Tracy
-p5975
-ag129
-aV Yau-Man
-p5976
-aV Yau-Man
-p5977
-aV Yau-Man
-p5978
 aV \u2014
+p5975
+aV \u2014
+p5976
+aV Mary
+p5977
+aV Mary
+p5978
+aV Mary
 p5979
 aV \u2014
 p5980
-aV \u2014
+aV Tracy
 p5981
-aV Yau-Man
+aV Chet
 p5982
 aV \u2014
 p5983
-aV Yau-Man
+aV Tracy
 p5984
+ag129
 aV Yau-Man
 p5985
-aV Cirie
+aV Yau-Man
 p5986
-aV \u2014
+aV Yau-Man
 p5987
 aV \u2014
 p5988
 aV \u2014
 p5989
-aV Parvati
-p5990
 aV \u2014
+p5990
+aV Yau-Man
 p5991
 aV \u2014
 p5992
-aV Parvati
+aV Yau-Man
 p5993
-ag129
-ag129
-aV \u2014
+aV Yau-Man
 p5994
-aV \u2014
+aV Cirie
 p5995
 aV \u2014
 p5996
-aV Mikey B.
+aV \u2014
 p5997
-aV Mikey B.
+aV \u2014
 p5998
-aV Chet
+aV Parvati
 p5999
 aV \u2014
 p6000
-aV Chet
-p6001
 aV \u2014
+p6001
+aV Parvati
 p6002
+ag129
+ag129
 aV \u2014
 p6003
 aV \u2014
 p6004
-aV Mikey B.
+aV \u2014
 p6005
 aV Mikey B.
 p6006
 aV Mikey B.
 p6007
-aV \u2014
+aV Chet
 p6008
-aV Mikey B.
+aV \u2014
 p6009
 aV Chet
 p6010
-ag129
-ag129
-ag129
 aV \u2014
 p6011
-aV Joel
+aV \u2014
 p6012
-aV Joel
+aV \u2014
 p6013
-aV \u2014
+aV Mikey B.
 p6014
-aV Chet
+aV Mikey B.
 p6015
-aV \u2014
+aV Mikey B.
 p6016
 aV \u2014
 p6017
-aV \u2014
+aV Mikey B.
 p6018
-aV Joel
+aV Chet
 p6019
+ag129
+ag129
+ag129
 aV \u2014
 p6020
 aV Joel
@@ -16380,34 +16371,34 @@ aV Joel
 p6022
 aV \u2014
 p6023
-aV Joel
+aV Chet
 p6024
 aV \u2014
 p6025
-aV Chet
+aV \u2014
 p6026
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6027
-aV \u2014
+aV Joel
 p6028
 aV \u2014
 p6029
-aV \u2014
+aV Joel
 p6030
-aV \u2014
+aV Joel
 p6031
 aV \u2014
 p6032
-aV \u2014
+aV Joel
 p6033
 aV \u2014
 p6034
-aV \u2014
+aV Chet
 p6035
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6036
 aV \u2014
@@ -16418,22 +16409,17 @@ aV \u2014
 p6039
 aV \u2014
 p6040
-aVEvacuated
+aV \u2014
 p6041
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6042
-aV Chet
+aV \u2014
 p6043
-aV Chet
+aV \u2014
 p6044
 aV \u2014
 p6045
-aV Chet
+aV \u2014
 p6046
 aV \u2014
 p6047
@@ -16441,66 +16427,64 @@ aV \u2014
 p6048
 aV \u2014
 p6049
-aV Chet
+aVEvacuated
 p6050
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6051
 aV Chet
 p6052
-aV Erik
+aV Chet
 p6053
 aV \u2014
 p6054
-aV Erik
+aV Chet
 p6055
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6056
 aV \u2014
 p6057
 aV \u2014
 p6058
-aV \u2014
+aV Chet
 p6059
 aV \u2014
 p6060
-aV \u2014
+aV Chet
 p6061
-aV \u2014
+aV Erik
 p6062
 aV \u2014
 p6063
-aV \u2014
+aV Erik
 p6064
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6065
 aV \u2014
 p6066
 aV \u2014
 p6067
-aVQuit
+aV \u2014
 p6068
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6069
-aV Tracy
+aV \u2014
 p6070
-aV Tracy
+aV \u2014
 p6071
 aV \u2014
 p6072
-aV Tracy
+aV \u2014
 p6073
 aV \u2014
 p6074
@@ -16508,100 +16492,97 @@ aV \u2014
 p6075
 aV \u2014
 p6076
-aV Tracy
+aVQuit
 p6077
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6078
 aV Tracy
 p6079
-aV Ozzy
+aV Tracy
 p6080
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6081
-aV Ami
+aV Tracy
 p6082
-aV Ami
+aV \u2014
 p6083
 aV \u2014
 p6084
-aV Ami
-p6085
 aV \u2014
+p6085
+aV Tracy
 p6086
 aV \u2014
 p6087
-aV \u2014
+aV Tracy
 p6088
-aV Ami
+aV Ozzy
 p6089
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6090
-aV Erik
+aV Ami
 p6091
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Eliza
+aV Ami
 p6092
-aV Eliza
+aV \u2014
 p6093
-aV Eliza
+aV Ami
 p6094
-aV Eliza
+aV \u2014
 p6095
-aV Eliza
+aV \u2014
 p6096
-aV Eliza
+aV \u2014
 p6097
-aV Eliza
+aV Ami
 p6098
-aV Ozzy
+aV \u2014
 p6099
-aV Eliza
+aV Erik
 p6100
-aV Ozzy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Eliza
 p6101
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Ozzy
+aV Eliza
 p6102
-aV Jason
+aV Eliza
 p6103
-aV Ozzy
+aV Eliza
 p6104
-aV Ozzy
+aV Eliza
 p6105
-aV Jason
+aV Eliza
 p6106
-aV Ozzy
+aV Eliza
 p6107
-aV Jason
-p6108
 aV Ozzy
+p6108
+aV Eliza
 p6109
-aV Jason
+aV Ozzy
 p6110
 ag129
 ag129
@@ -16613,120 +16594,101 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Jason
+aV Ozzy
 p6111
 aV Jason
 p6112
-aV Jason
+aV Ozzy
 p6113
-aV James
+aV Ozzy
 p6114
 aV Jason
 p6115
-aV James
+aV Ozzy
 p6116
-aV Parvati
+aV Jason
 p6117
-aV James
+aV Ozzy
 p6118
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Jason
 p6119
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jason
 p6120
-aV \u2014
+aV Jason
 p6121
-aV \u2014
+aV Jason
 p6122
-aV \u2014
+aV James
 p6123
-aV \u2014
+aV Jason
 p6124
-aVEvacuated
+aV James
 p6125
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alexis
-p6126
-aV Alexis
-p6127
-aV Amanda
-p6128
-aV Amanda
-p6129
-aV Amanda
-p6130
-aV Amanda
-p6131
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Erik
-p6132
-aV Erik
-p6133
-aV Erik
-p6134
-aV Erik
-p6135
 aV Parvati
+p6126
+aV James
+p6127
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p6128
+aV \u2014
+p6129
+aV \u2014
+p6130
+aV \u2014
+p6131
+aV \u2014
+p6132
+aV \u2014
+p6133
+aVEvacuated
+p6134
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Alexis
+p6135
+aV Alexis
 p6136
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Natalie
+aV Amanda
 p6137
-aV Natalie
+aV Amanda
 p6138
-aV Natalie
+aV Amanda
 p6139
-aV Cirie
+aV Amanda
 p6140
 ag129
 ag129
@@ -16742,69 +16704,116 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Erik
 p6141
-aV Cirie
+aV Erik
 p6142
-aV \u2014
+aV Erik
 p6143
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-aV Amanda
+aV Erik
 p6144
-ag129
-aV Amanda
+aV Parvati
 p6145
 ag129
-aV Amanda
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Natalie
 p6146
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-aV Parvati
+aV Natalie
 p6147
-aV Parvati
+aV Natalie
 p6148
-ag129
-aV Parvati
+aV Cirie
 p6149
 ag129
-aV Parvati
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p6150
+aV Cirie
+p6151
+aV \u2014
+p6152
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+aV Amanda
+p6153
+ag129
+aV Amanda
+p6154
+ag129
+aV Amanda
+p6155
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Parvati
+p6156
+aV Parvati
+p6157
 ag129
 aV Parvati
-p6151
+p6158
+ag129
+aV Parvati
+p6159
+ag129
+aV Parvati
+p6160
 ag129
 ag129
 ag129
@@ -16815,35 +16824,26 @@ ag129
 ag129
 ag129
 ag129
-atp6152
-ba(lp6153
+atp6161
+ba(lp6162
 g21
 (g22
-(dp6154
+(dp6163
 g24
 g25
 (g26
 (I0
-tp6155
+tp6164
 g28
-tp6156
-Rp6157
+tp6165
+Rp6166
 (I1
 (L20L
-tp6158
+tp6167
 g35
 I00
-(lp6159
-g5876
-ag5877
-ag5878
-ag5879
-ag5880
-ag5881
-ag5882
-ag5883
-ag5884
-ag5885
+(lp6168
+g5885
 ag5886
 ag5887
 ag5888
@@ -16854,43 +16854,52 @@ ag5892
 ag5893
 ag5894
 ag5895
-atp6160
+ag5896
+ag5897
+ag5898
+ag5899
+ag5900
+ag5901
+ag5902
+ag5903
+ag5904
+atp6169
 bsg63
-Nstp6161
-Rp6162
-a(dp6163
+Nstp6170
+Rp6171
+a(dp6172
 g339
-(dp6164
+(dp6173
 g341
-g5869
+g5878
 sg342
-(lp6165
-(dp6166
+(lp6174
+(dp6175
 g345
 g346
 (I0
 I20
 I1
-tp6167
-Rp6168
+tp6176
+Rp6177
 sg349
-g5934
-sasstp6169
+g5943
+sasstp6178
 bsbsg351
 I16
 ssVSamoa
-p6170
-(dp6171
+p6179
+(dp6180
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Samoa
-p6172
+p6181
 sg5
 g6
 (g7
 g8
-Ntp6173
-Rp6174
-(dp6175
+Ntp6182
+Rp6183
+(dp6184
 g12
 g13
 sg14
@@ -16899,211 +16908,193 @@ sg16
 g6
 (g17
 g8
-Ntp6176
-Rp6177
-((lp6178
+Ntp6185
+Rp6186
+((lp6187
 g21
 (g22
-(dp6179
+(dp6188
 g24
 g25
 (g26
 (I0
-tp6180
+tp6189
 g28
-tp6181
-Rp6182
+tp6190
+Rp6191
 (I1
 (L21L
-tp6183
+tp6192
 g35
 I00
-(lp6184
+(lp6193
 VMarisa
-p6185
-aVMike
-p6186
-aVBetsy
-p6187
-aVBen
-p6188
-aVYasmin
-p6189
-aVAshley
-p6190
-aVRussell S.
-p6191
-aVLiz
-p6192
-aVErik
-p6193
-aVKelly
 p6194
-aVLaura
+aVMike
 p6195
-aVLaura
+aVBetsy
 p6196
-aVJohn
+aVBen
 p6197
-aVDave
+aVYasmin
 p6198
-aVMonica
+aVAshley
 p6199
-aVShambo
+aVRussell S.
 p6200
-aVJaison
+aVLiz
 p6201
-aVBrett
+aVErik
 p6202
-aVMick
+aVKelly
 p6203
-aVRussell H.
+aVLaura
 p6204
-aVNatalie
+aVLaura
 p6205
-atp6206
+aVJohn
+p6206
+aVDave
+p6207
+aVMonica
+p6208
+aVShambo
+p6209
+aVJaison
+p6210
+aVBrett
+p6211
+aVMick
+p6212
+aVRussell H.
+p6213
+aVNatalie
+p6214
+atp6215
 bsg63
-Nstp6207
-Rp6208
+Nstp6216
+Rp6217
 ag21
 (g22
-(dp6209
+(dp6218
 g24
 g25
 (g26
 (I0
-tp6210
+tp6219
 g28
-tp6211
-Rp6212
+tp6220
+Rp6221
 (I1
 (L20L
-tp6213
+tp6222
 g35
 I00
-(lp6214
+(lp6223
 VNatalie
-p6215
-aVRussell H.
-p6216
-aVMick
-p6217
-aVBrett
-p6218
-aVJaison
-p6219
-aVShambo
-p6220
-aVMonica
-p6221
-aVDave
-p6222
-aVJohn
-p6223
-aVLaura
 p6224
-aVKelly
+aVRussell H.
 p6225
-aVErik
+aVMick
 p6226
-aVLiz
+aVBrett
 p6227
-aVRussell S.
+aVJaison
 p6228
-aVAshley
+aVShambo
 p6229
-aVYasmin
+aVMonica
 p6230
-aVBen
+aVDave
 p6231
-aVBetsy
+aVJohn
 p6232
-aVMike
+aVLaura
 p6233
-aVMarisa
+aVKelly
 p6234
-atp6235
+aVErik
+p6235
+aVLiz
+p6236
+aVRussell S.
+p6237
+aVAshley
+p6238
+aVYasmin
+p6239
+aVBen
+p6240
+aVBetsy
+p6241
+aVMike
+p6242
+aVMarisa
+p6243
+atp6244
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p6236
-tp6237
-Rp6238
-stp6239
-Rp6240
-a(lp6241
+p6245
+tp6246
+Rp6247
+stp6248
+Rp6249
+a(lp6250
 g25
 (g26
 (I0
-tp6242
+tp6251
 g28
-tp6243
-Rp6244
+tp6252
+Rp6253
 (I1
 (L21L
 L20L
-tp6245
+tp6254
 g35
 I00
-(lp6246
+(lp6255
 V Marisa
-p6247
-aV Marisa
-p6248
-aV Ashley
-p6249
-aV \u2014
-p6250
-aV Marisa
-p6251
-aV \u2014
-p6252
-aV \u2014
-p6253
-aV \u2014
-p6254
-aV \u2014
-p6255
-aV \u2014
 p6256
-aV \u2014
+aV Marisa
 p6257
-aV \u2014
+aV Ashley
 p6258
-aV Marisa
-p6259
 aV \u2014
-p6260
+p6259
 aV Marisa
+p6260
+aV \u2014
 p6261
 aV \u2014
 p6262
-aV Marisa
+aV \u2014
 p6263
-aV Ashley
+aV \u2014
 p6264
-aV Marisa
+aV \u2014
 p6265
-aV Ashley
+aV \u2014
 p6266
 aV \u2014
 p6267
-aV \u2014
+aV Marisa
 p6268
 aV \u2014
 p6269
-aV \u2014
+aV Marisa
 p6270
 aV \u2014
 p6271
-aV \u2014
+aV Marisa
 p6272
-aV \u2014
+aV Ashley
 p6273
-aV \u2014
+aV Marisa
 p6274
-aV \u2014
+aV Ashley
 p6275
 aV \u2014
 p6276
@@ -17123,18 +17114,17 @@ aV \u2014
 p6283
 aV \u2014
 p6284
-aVEvacuated
+aV \u2014
 p6285
-ag129
-aV Betsy
+aV \u2014
 p6286
-aV Betsy
+aV \u2014
 p6287
-aV Betsy
+aV \u2014
 p6288
 aV \u2014
 p6289
-aV Betsy
+aV \u2014
 p6290
 aV \u2014
 p6291
@@ -17142,136 +17132,132 @@ aV \u2014
 p6292
 aV \u2014
 p6293
-aV \u2014
+aVEvacuated
 p6294
-aV \u2014
+ag129
+aV Betsy
 p6295
-aV \u2014
+aV Betsy
 p6296
-aV \u2014
+aV Betsy
 p6297
-aV Betsy
-p6298
 aV \u2014
-p6299
+p6298
 aV Betsy
+p6299
+aV \u2014
 p6300
 aV \u2014
 p6301
-aV Betsy
+aV \u2014
 p6302
-aV Ben
+aV \u2014
 p6303
-ag129
-ag129
-aV Ben
+aV \u2014
 p6304
-aV Ben
+aV \u2014
 p6305
-aV Ben
+aV \u2014
 p6306
-aV \u2014
+aV Betsy
 p6307
-aV Ben
-p6308
 aV \u2014
+p6308
+aV Betsy
 p6309
 aV \u2014
 p6310
-aV \u2014
+aV Betsy
 p6311
-aV \u2014
+aV Ben
 p6312
-aV \u2014
+ag129
+ag129
+aV Ben
 p6313
-aV \u2014
+aV Ben
 p6314
-aV \u2014
+aV Ben
 p6315
-aV Ben
-p6316
 aV \u2014
-p6317
+p6316
 aV Ben
+p6317
+aV \u2014
 p6318
 aV \u2014
 p6319
-aV Ashley
+aV \u2014
 p6320
-ag129
-ag129
-ag129
 aV \u2014
 p6321
 aV \u2014
 p6322
 aV \u2014
 p6323
-aV Yasmin
+aV \u2014
 p6324
-aV \u2014
+aV Ben
 p6325
-aV Monica
+aV \u2014
 p6326
-aV Yasmin
+aV Ben
 p6327
-aV Yasmin
+aV \u2014
 p6328
-aV Yasmin
+aV Ashley
 p6329
-aV Yasmin
+ag129
+ag129
+ag129
+aV \u2014
 p6330
-aV Yasmin
+aV \u2014
 p6331
-aV Yasmin
+aV \u2014
 p6332
-aV \u2014
-p6333
 aV Yasmin
+p6333
+aV \u2014
 p6334
-aV \u2014
-p6335
 aV Monica
+p6335
+aV Yasmin
 p6336
-ag129
-ag129
-ag129
-ag129
-aV Ashley
+aV Yasmin
 p6337
-aV Ashley
+aV Yasmin
 p6338
-aV Ashley
+aV Yasmin
 p6339
-aV \u2014
+aV Yasmin
 p6340
-aV Ashley
+aV Yasmin
 p6341
 aV \u2014
 p6342
-aV \u2014
+aV Yasmin
 p6343
 aV \u2014
 p6344
-aV \u2014
+aV Monica
 p6345
-aV \u2014
-p6346
-aV \u2014
-p6347
-aV \u2014
-p6348
+ag129
+ag129
+ag129
+ag129
 aV Ashley
-p6349
+p6346
+aV Ashley
+p6347
+aV Ashley
+p6348
 aV \u2014
+p6349
+aV Ashley
 p6350
-aV Liz
+aV \u2014
 p6351
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6352
 aV \u2014
@@ -17284,12 +17270,17 @@ aV \u2014
 p6356
 aV \u2014
 p6357
-aV \u2014
+aV Ashley
 p6358
 aV \u2014
 p6359
-aV \u2014
+aV Liz
 p6360
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6361
 aV \u2014
@@ -17298,23 +17289,17 @@ aV \u2014
 p6363
 aV \u2014
 p6364
-aVEvacuated
+aV \u2014
 p6365
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Liz
+aV \u2014
 p6366
-aV Liz
+aV \u2014
 p6367
-aV Liz
+aV \u2014
 p6368
 aV \u2014
 p6369
-aV Liz
+aV \u2014
 p6370
 aV \u2014
 p6371
@@ -17322,163 +17307,159 @@ aV \u2014
 p6372
 aV \u2014
 p6373
-aV \u2014
+aVEvacuated
 p6374
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Liz
 p6375
-aV \u2014
+aV Liz
 p6376
-aV \u2014
+aV Liz
 p6377
-aV Jaison
+aV \u2014
 p6378
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Erik
+aV Liz
 p6379
-aV Erik
+aV \u2014
 p6380
-aV Erik
+aV \u2014
 p6381
-aV Erik
+aV \u2014
 p6382
-aV Erik
+aV \u2014
 p6383
-aV Jaison
+aV \u2014
 p6384
-aV Erik
+aV \u2014
 p6385
-aV Erik
+aV \u2014
 p6386
-aV Erik
+aV Jaison
 p6387
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Erik
 p6388
 aV Erik
 p6389
-aV Jaison
+aV Erik
 p6390
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Kelly
+aV Erik
 p6391
-aV Kelly
+aV Erik
 p6392
-aV Kelly
+aV Jaison
 p6393
-aV Russell H.
+aV Erik
 p6394
-aV Kelly
+aV Erik
 p6395
-aV Russell H.
+aV Erik
 p6396
-aV Russell H.
+aV Erik
 p6397
-aV Russell H.
+aV Erik
 p6398
-aV Russell H.
+aV Jaison
 p6399
-aV Russell H.
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Kelly
 p6400
-aV Russell H.
+aV Kelly
 p6401
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Laura
+aV Kelly
 p6402
-aV Laura
+aV Russell H.
 p6403
-aV Laura
+aV Kelly
 p6404
-aV Natalie
+aV Russell H.
 p6405
-aV Laura
+aV Russell H.
 p6406
-aV Laura
+aV Russell H.
 p6407
-aV Natalie
+aV Russell H.
 p6408
-aV Natalie
+aV Russell H.
 p6409
-aV Natalie
+aV Russell H.
 p6410
-aV Natalie
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Laura
 p6411
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aVNone
+aV Laura
 p6412
 aV Laura
 p6413
-aV Laura
-p6414
 aV Natalie
+p6414
+aV Laura
 p6415
 aV Laura
 p6416
-aV Laura
+aV Natalie
 p6417
 aV Natalie
 p6418
 aV Natalie
 p6419
-aV Laura
+aV Natalie
 p6420
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aVNone
 p6421
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV John
+aV Laura
 p6422
-aV John
+aV Laura
 p6423
-aV John
+aV Natalie
 p6424
-aV John
+aV Laura
 p6425
-aV John
+aV Laura
 p6426
-aV Dave
+aV Natalie
 p6427
-aV John
+aV Natalie
 p6428
-aV John
+aV Laura
 p6429
-aV Mick
+aVNone
 p6430
 ag129
 ag129
@@ -17490,118 +17471,99 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Dave
+aV John
 p6431
-aV Dave
+aV John
 p6432
-aV Dave
+aV John
 p6433
-aV Dave
+aV John
 p6434
-aV Dave
+aV John
 p6435
 aV Dave
 p6436
-aV Dave
+aV John
 p6437
-aV Shambo
+aV John
 p6438
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Monica
+aV Mick
 p6439
-aV Monica
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Dave
 p6440
-aV Monica
+aV Dave
 p6441
-aV Russell H.
+aV Dave
 p6442
-aV Monica
+aV Dave
 p6443
-aV Monica
+aV Dave
 p6444
-aV Russell H.
+aV Dave
 p6445
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Shambo
+aV Dave
 p6446
 aV Shambo
 p6447
-aV Shambo
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Monica
 p6448
-aV Shambo
+aV Monica
 p6449
-aV Shambo
+aV Monica
 p6450
-aV Mick
+aV Russell H.
 p6451
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jaison
+aV Monica
 p6452
-aV Jaison
+aV Monica
 p6453
-aV Jaison
+aV Russell H.
 p6454
-aV Jaison
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Shambo
 p6455
-aV Mick
+aV Shambo
 p6456
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Brett
+aV Shambo
 p6457
-aV Brett
+aV Shambo
 p6458
-aV Brett
+aV Shambo
 p6459
 aV Mick
 p6460
@@ -17619,68 +17581,38 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-aV Russell H.
+aV Jaison
 p6461
-ag129
-ag129
-aV Russell H.
+aV Jaison
 p6462
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Natalie
+aV Jaison
 p6463
-aV Natalie
+aV Jaison
 p6464
-ag129
-aV Natalie
+aV Mick
 p6465
-aV Natalie
-p6466
 ag129
-aV Natalie
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Brett
+p6466
+aV Brett
 p6467
-aV Natalie
+aV Brett
 p6468
-aV Natalie
+aV Mick
 p6469
 ag129
 ag129
@@ -17690,35 +17622,103 @@ ag129
 ag129
 ag129
 ag129
-atp6470
-ba(lp6471
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+aV Russell H.
+p6470
+ag129
+ag129
+aV Russell H.
+p6471
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Natalie
+p6472
+aV Natalie
+p6473
+ag129
+aV Natalie
+p6474
+aV Natalie
+p6475
+ag129
+aV Natalie
+p6476
+aV Natalie
+p6477
+aV Natalie
+p6478
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp6479
+ba(lp6480
 g21
 (g22
-(dp6472
+(dp6481
 g24
 g25
 (g26
 (I0
-tp6473
+tp6482
 g28
-tp6474
-Rp6475
+tp6483
+Rp6484
 (I1
 (L21L
-tp6476
+tp6485
 g35
 I00
-(lp6477
-g6185
-ag6186
-ag6187
-ag6188
-ag6189
-ag6190
-ag6191
-ag6192
-ag6193
-ag6194
+(lp6486
+g6194
 ag6195
 ag6196
 ag6197
@@ -17730,43 +17730,52 @@ ag6202
 ag6203
 ag6204
 ag6205
-atp6478
+ag6206
+ag6207
+ag6208
+ag6209
+ag6210
+ag6211
+ag6212
+ag6213
+ag6214
+atp6487
 bsg63
-Nstp6479
-Rp6480
-a(dp6481
+Nstp6488
+Rp6489
+a(dp6490
 g339
-(dp6482
+(dp6491
 g341
-g6178
+g6187
 sg342
-(lp6483
-(dp6484
+(lp6492
+(dp6493
 g345
 g346
 (I0
 I21
 I1
-tp6485
-Rp6486
+tp6494
+Rp6495
 sg349
-g6244
-sasstp6487
+g6253
+sasstp6496
 bsbsg351
 I19
 ssVAll-Stars
-p6488
-(dp6489
+p6497
+(dp6498
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_All-Stars
-p6490
+p6499
 sg5
 g6
 (g7
 g8
-Ntp6491
-Rp6492
-(dp6493
+Ntp6500
+Rp6501
+(dp6502
 g12
 g13
 sg14
@@ -17775,169 +17784,151 @@ sg16
 g6
 (g17
 g8
-Ntp6494
-Rp6495
-((lp6496
+Ntp6503
+Rp6504
+((lp6505
 g21
 (g22
-(dp6497
+(dp6506
 g24
 g25
 (g26
 (I0
-tp6498
+tp6507
 g28
-tp6499
-Rp6500
+tp6508
+Rp6509
 (I1
 (L18L
-tp6501
+tp6510
 g35
 I00
-(lp6502
+(lp6511
 VTina
-p6503
-aVRudy
-p6504
-aVJenna M.
-p6505
-aVRob C.
-p6506
-aVRichard
-p6507
-aVSusan
-p6508
-aVColby
-p6509
-aVEthan
-p6510
-aVJerri
-p6511
-aVLex
 p6512
-aVKathy
+aVRudy
 p6513
-aVAlicia
+aVJenna M.
 p6514
-aVShii Ann
+aVRob C.
 p6515
-aVTom
+aVRichard
 p6516
-aVRupert
+aVSusan
 p6517
-aVJenna L.
+aVColby
 p6518
-aVRob M.
+aVEthan
 p6519
-aVAmber
+aVJerri
 p6520
-atp6521
+aVLex
+p6521
+aVKathy
+p6522
+aVAlicia
+p6523
+aVShii Ann
+p6524
+aVTom
+p6525
+aVRupert
+p6526
+aVJenna L.
+p6527
+aVRob M.
+p6528
+aVAmber
+p6529
+atp6530
 bsg63
-Nstp6522
-Rp6523
+Nstp6531
+Rp6532
 ag21
 (g22
-(dp6524
+(dp6533
 g24
 g25
 (g26
 (I0
-tp6525
+tp6534
 g28
-tp6526
-Rp6527
+tp6535
+Rp6536
 (I1
 (L18L
-tp6528
+tp6537
 g35
 I00
-(lp6529
+(lp6538
 VAmber
-p6530
-aVRob M.
-p6531
-aVJenna L.
-p6532
-aVRupert
-p6533
-aVTom
-p6534
-aVShii Ann
-p6535
-aVAlicia
-p6536
-aVKathy
-p6537
-aVLex
-p6538
-aVJerri
 p6539
-aVEthan
+aVRob M.
 p6540
-aVColby
+aVJenna L.
 p6541
-aVSusan
+aVRupert
 p6542
-aVRichard
+aVTom
 p6543
-aVRob C.
+aVShii Ann
 p6544
-aVJenna M.
+aVAlicia
 p6545
-aVRudy
+aVKathy
 p6546
-aVTina
+aVLex
 p6547
-atp6548
+aVJerri
+p6548
+aVEthan
+p6549
+aVColby
+p6550
+aVSusan
+p6551
+aVRichard
+p6552
+aVRob C.
+p6553
+aVJenna M.
+p6554
+aVRudy
+p6555
+aVTina
+p6556
+atp6557
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p6549
-tp6550
-Rp6551
-stp6552
-Rp6553
-a(lp6554
+p6558
+tp6559
+Rp6560
+stp6561
+Rp6562
+a(lp6563
 g25
 (g26
 (I0
-tp6555
+tp6564
 g28
-tp6556
-Rp6557
+tp6565
+Rp6566
 (I1
 (L18L
 L18L
-tp6558
+tp6567
 g35
 I00
-(lp6559
+(lp6568
 V\u2014
-p6560
-aV \u2014
-p6561
-aV Tina
-p6562
-aV Tina
-p6563
-aV \u2014
-p6564
-aV \u2014
-p6565
-aV \u2014
-p6566
-aV \u2014
-p6567
-aV \u2014
-p6568
-aV Tina
 p6569
-aV Jenna L.
+aV \u2014
 p6570
-aV \u2014
+aV Tina
 p6571
-aV \u2014
+aV Tina
 p6572
 aV \u2014
 p6573
@@ -17945,17 +17936,17 @@ aV \u2014
 p6574
 aV \u2014
 p6575
-aV Tina
-p6576
-aV Jenna L.
-p6577
-aV\u2014
-p6578
 aV \u2014
+p6576
+aV \u2014
+p6577
+aV Tina
+p6578
+aV Jenna L.
 p6579
-aV Rudy
+aV \u2014
 p6580
-aV Ethan
+aV \u2014
 p6581
 aV \u2014
 p6582
@@ -17963,17 +17954,17 @@ aV \u2014
 p6583
 aV \u2014
 p6584
-aV \u2014
+aV Tina
 p6585
-aV \u2014
+aV Jenna L.
 p6586
-aV Rudy
+aV\u2014
 p6587
-aV Rudy
+aV \u2014
 p6588
-aV \u2014
+aV Rudy
 p6589
-aV \u2014
+aV Ethan
 p6590
 aV \u2014
 p6591
@@ -17981,14 +17972,13 @@ aV \u2014
 p6592
 aV \u2014
 p6593
-aV Ethan
+aV \u2014
 p6594
-ag129
-aV\u2014
+aV \u2014
 p6595
-aV \u2014
+aV Rudy
 p6596
-aV \u2014
+aV Rudy
 p6597
 aV \u2014
 p6598
@@ -18000,9 +17990,10 @@ aV \u2014
 p6601
 aV \u2014
 p6602
-aV \u2014
+aV Ethan
 p6603
-aV \u2014
+ag129
+aV\u2014
 p6604
 aV \u2014
 p6605
@@ -18014,44 +18005,41 @@ aV \u2014
 p6608
 aV \u2014
 p6609
-aVQuit
+aV \u2014
 p6610
-ag129
-ag129
-aV Rob C.
+aV \u2014
 p6611
-aV Rob C.
+aV \u2014
 p6612
 aV \u2014
 p6613
 aV \u2014
 p6614
-aV Rob C.
+aV \u2014
 p6615
 aV \u2014
 p6616
-aV Rob C.
+aV \u2014
 p6617
 aV \u2014
 p6618
-aV \u2014
+aVQuit
 p6619
-aV \u2014
+ag129
+ag129
+aV Rob C.
 p6620
-aV \u2014
+aV Rob C.
 p6621
 aV \u2014
 p6622
-aV Rob C.
+aV \u2014
 p6623
-aV \u2014
+aV Rob C.
 p6624
-aV Alicia
-p6625
-ag129
-ag129
-ag129
 aV \u2014
+p6625
+aV Rob C.
 p6626
 aV \u2014
 p6627
@@ -18061,59 +18049,57 @@ aV \u2014
 p6629
 aV \u2014
 p6630
-aV Richard
-p6631
 aV \u2014
+p6631
+aV Rob C.
 p6632
-aV Richard
+aV \u2014
 p6633
-aV Richard
+aV Alicia
 p6634
-aV Richard
+ag129
+ag129
+ag129
+aV \u2014
 p6635
-aV Richard
+aV \u2014
 p6636
-aV Richard
+aV \u2014
 p6637
 aV \u2014
 p6638
-aV Colby
-p6639
-ag129
-ag129
-ag129
-ag129
 aV \u2014
+p6639
+aV Richard
 p6640
 aV \u2014
 p6641
-aV \u2014
+aV Richard
 p6642
-aV \u2014
+aV Richard
 p6643
-aV \u2014
+aV Richard
 p6644
-aV \u2014
+aV Richard
 p6645
-aV \u2014
+aV Richard
 p6646
 aV \u2014
 p6647
-aV \u2014
+aV Colby
 p6648
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6649
 aV \u2014
 p6650
 aV \u2014
 p6651
-aVQuit
+aV \u2014
 p6652
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6653
 aV \u2014
@@ -18124,98 +18110,95 @@ aV \u2014
 p6656
 aV \u2014
 p6657
-aV Colby
+aV \u2014
 p6658
 aV \u2014
 p6659
-aVKidnapped
+aV \u2014
 p6660
-aV Colby
+aVQuit
 p6661
-aV Colby
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p6662
-aV Jerri
+aV \u2014
 p6663
-aV Jerri
+aV \u2014
 p6664
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6665
 aV \u2014
 p6666
-aV \u2014
+aV Colby
 p6667
 aV \u2014
 p6668
-aV \u2014
+aVKidnapped
 p6669
-aV Ethan
+aV Colby
 p6670
-aV \u2014
+aV Colby
 p6671
-aV Ethan
+aV Jerri
 p6672
-aV Ethan
+aV Jerri
 p6673
-aV Ethan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p6674
-aV Jerri
+aV \u2014
 p6675
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jerri
+aV \u2014
 p6676
 aV \u2014
 p6677
 aV \u2014
 p6678
-aV \u2014
+aV Ethan
 p6679
 aV \u2014
 p6680
-aV Jerri
+aV Ethan
 p6681
-aV \u2014
+aV Ethan
 p6682
-aV Jerri
+aV Ethan
 p6683
 aV Jerri
 p6684
-aV Amber
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jerri
 p6685
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Lex
+aV \u2014
 p6686
-aV Lex
+aV \u2014
 p6687
-aV Lex
+aV \u2014
 p6688
-aV Lex
+aV \u2014
 p6689
-aV Lex
+aV Jerri
 p6690
-aV Lex
+aV \u2014
 p6691
-aV Lex
+aV Jerri
 p6692
-aV Amber
+aV Jerri
 p6693
 aV Amber
 p6694
@@ -18227,112 +18210,95 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Kathy
+aV Lex
 p6695
-aV Kathy
+aV Lex
 p6696
-aV Kathy
+aV Lex
 p6697
-aV Kathy
+aV Lex
 p6698
-aV Kathy
+aV Lex
 p6699
-aV Amber
+aV Lex
 p6700
-aV Kathy
+aV Lex
 p6701
 aV Amber
 p6702
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alicia
-p6703
-aV Alicia
-p6704
-aV Alicia
-p6705
-aV Alicia
-p6706
-aV Alicia
-p6707
-aV Alicia
-p6708
-aV Rupert
-p6709
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Shii Ann
-p6710
-aV Shii Ann
-p6711
-aV Shii Ann
-p6712
-aV Shii Ann
-p6713
-aV Shii Ann
-p6714
 aV Amber
+p6703
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Kathy
+p6704
+aV Kathy
+p6705
+aV Kathy
+p6706
+aV Kathy
+p6707
+aV Kathy
+p6708
+aV Amber
+p6709
+aV Kathy
+p6710
+aV Amber
+p6711
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Alicia
+p6712
+aV Alicia
+p6713
+aV Alicia
+p6714
+aV Alicia
 p6715
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tom
+aV Alicia
 p6716
-aV Tom
+aV Alicia
 p6717
-aV Tom
+aV Rupert
 p6718
-aV Tom
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Shii Ann
 p6719
-aV Jenna L.
+aV Shii Ann
 p6720
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Rupert
+aV Shii Ann
 p6721
-aV Rupert
+aV Shii Ann
 p6722
-aV Rupert
+aV Shii Ann
 p6723
-aV Rob M.
+aV Amber
 p6724
 ag129
 ag129
@@ -18346,63 +18312,57 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Tom
 p6725
-aV Jenna L.
+aV Tom
 p6726
-aV \u2014
+aV Tom
 p6727
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-aV Rob M.
+aV Tom
 p6728
-aV Rob M.
+aV Jenna L.
 p6729
 ag129
 ag129
 ag129
-aV Rob M.
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Rupert
 p6730
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-aV Amber
+aV Rupert
 p6731
-aV Amber
+aV Rupert
 p6732
-aV Amber
+aV Rob M.
 p6733
 ag129
-aV Amber
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p6734
+aV Jenna L.
+p6735
+aV \u2014
+p6736
 ag129
 ag129
 ag129
@@ -18412,35 +18372,75 @@ ag129
 ag129
 ag129
 ag129
-atp6735
-ba(lp6736
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Rob M.
+p6737
+aV Rob M.
+p6738
+ag129
+ag129
+ag129
+aV Rob M.
+p6739
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+aV Amber
+p6740
+aV Amber
+p6741
+aV Amber
+p6742
+ag129
+aV Amber
+p6743
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp6744
+ba(lp6745
 g21
 (g22
-(dp6737
+(dp6746
 g24
 g25
 (g26
 (I0
-tp6738
+tp6747
 g28
-tp6739
-Rp6740
+tp6748
+Rp6749
 (I1
 (L18L
-tp6741
+tp6750
 g35
 I00
-(lp6742
-g6503
-ag6504
-ag6505
-ag6506
-ag6507
-ag6508
-ag6509
-ag6510
-ag6511
-ag6512
+(lp6751
+g6512
 ag6513
 ag6514
 ag6515
@@ -18449,43 +18449,52 @@ ag6517
 ag6518
 ag6519
 ag6520
-atp6743
+ag6521
+ag6522
+ag6523
+ag6524
+ag6525
+ag6526
+ag6527
+ag6528
+ag6529
+atp6752
 bsg63
-Nstp6744
-Rp6745
-a(dp6746
+Nstp6753
+Rp6754
+a(dp6755
 g339
-(dp6747
+(dp6756
 g341
-g6496
+g6505
 sg342
-(lp6748
-(dp6749
+(lp6757
+(dp6758
 g345
 g346
 (I0
 I18
 I1
-tp6750
-Rp6751
+tp6759
+Rp6760
 sg349
-g6557
-sasstp6752
+g6566
+sasstp6761
 bsbsg351
 I8
 ssVFiji
-p6753
-(dp6754
+p6762
+(dp6763
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Fiji
-p6755
+p6764
 sg5
 g6
 (g7
 g8
-Ntp6756
-Rp6757
-(dp6758
+Ntp6765
+Rp6766
+(dp6767
 g12
 g13
 sg14
@@ -18494,213 +18503,195 @@ sg16
 g6
 (g17
 g8
-Ntp6759
-Rp6760
-((lp6761
+Ntp6768
+Rp6769
+((lp6770
 g21
 (g22
-(dp6762
+(dp6771
 g24
 g25
 (g26
 (I0
-tp6763
+tp6772
 g28
-tp6764
-Rp6765
+tp6773
+Rp6774
 (I1
 (L19L
-tp6766
+tp6775
 g35
 I00
-(lp6767
+(lp6776
 VJessica
-p6768
-aVErica
-p6769
-aVSylvia
-p6770
-aVGary
-p6771
-aVLiliana
-p6772
-aVRita
-p6773
-aVAnthony
-p6774
-aVRocky
-p6775
-aVLisi
-p6776
-aVMichelle
 p6777
-aVEdgardo
+aVErica
 p6778
-aVMookie
+aVSylvia
 p6779
-aVAlex
+aVGary
 p6780
-aVStacy
+aVLiliana
 p6781
-aVBoo
+aVRita
 p6782
-aVYau-Man
+aVAnthony
 p6783
-aVDreamz
+aVRocky
 p6784
-aVCassandra
+aVLisi
 p6785
-aVEarl
+aVMichelle
 p6786
-atp6787
+aVEdgardo
+p6787
+aVMookie
+p6788
+aVAlex
+p6789
+aVStacy
+p6790
+aVBoo
+p6791
+aVYau-Man
+p6792
+aVDreamz
+p6793
+aVCassandra
+p6794
+aVEarl
+p6795
+atp6796
 bsg63
-Nstp6788
-Rp6789
+Nstp6797
+Rp6798
 ag21
 (g22
-(dp6790
+(dp6799
 g24
 g25
 (g26
 (I0
-tp6791
+tp6800
 g28
-tp6792
-Rp6793
+tp6801
+Rp6802
 (I1
 (L19L
-tp6794
+tp6803
 g35
 I00
-(lp6795
+(lp6804
 VEarl
-p6796
-aVCassandra
-p6797
-aVDreamz
-p6798
-aVYau-Man
-p6799
-aVBoo
-p6800
-aVStacy
-p6801
-aVAlex
-p6802
-aVMookie
-p6803
-aVEdgardo
-p6804
-aVMichelle
 p6805
-aVLisi
+aVCassandra
 p6806
-aVRocky
+aVDreamz
 p6807
-aVAnthony
+aVYau-Man
 p6808
-aVRita
+aVBoo
 p6809
-aVLiliana
+aVStacy
 p6810
-aVGary
+aVAlex
 p6811
-aVSylvia
+aVMookie
 p6812
-aVErica
+aVEdgardo
 p6813
-aVJessica
+aVMichelle
 p6814
-atp6815
+aVLisi
+p6815
+aVRocky
+p6816
+aVAnthony
+p6817
+aVRita
+p6818
+aVLiliana
+p6819
+aVGary
+p6820
+aVSylvia
+p6821
+aVErica
+p6822
+aVJessica
+p6823
+atp6824
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p6816
-tp6817
-Rp6818
-stp6819
-Rp6820
-a(lp6821
+p6825
+tp6826
+Rp6827
+stp6828
+Rp6829
+a(lp6830
 g25
 (g26
 (I0
-tp6822
+tp6831
 g28
-tp6823
-Rp6824
+tp6832
+Rp6833
 (I1
 (L19L
 L19L
-tp6825
+tp6834
 g35
 I00
-(lp6826
+(lp6835
 V Jessica
-p6827
-aV \u2014
-p6828
-aV \u2014
-p6829
-aV Jessica
-p6830
-aV \u2014
-p6831
-aV \u2014
-p6832
-aV \u2014
-p6833
-aV Jessica
-p6834
-aV \u2014
-p6835
-aV Jessica
 p6836
 aV \u2014
 p6837
-aV Mookie
+aV \u2014
 p6838
 aV Jessica
 p6839
-aV Jessica
+aV \u2014
 p6840
 aV \u2014
 p6841
 aV \u2014
 p6842
-aVExiled
+aV Jessica
 p6843
-aV Yau-Man
+aV \u2014
 p6844
-aV Rita
+aV Jessica
 p6845
-aVExiled
+aV \u2014
 p6846
-aV \u2014
+aV Mookie
 p6847
-aV \u2014
+aV Jessica
 p6848
-aV Erica
+aV Jessica
 p6849
 aV \u2014
 p6850
 aV \u2014
 p6851
-aV \u2014
+aVExiled
 p6852
-aV Erica
+aV Yau-Man
 p6853
-aV \u2014
+aV Rita
 p6854
-aV Erica
+aVExiled
 p6855
 aV \u2014
 p6856
-aV Erica
+aV \u2014
 p6857
-aV Sylvia
-p6858
 aV Erica
+p6858
+aV \u2014
 p6859
 aV \u2014
 p6860
@@ -18708,36 +18699,36 @@ aV \u2014
 p6861
 aV Erica
 p6862
-aV Sylvia
+aV \u2014
 p6863
-ag129
-aV Sylvia
+aV Erica
 p6864
 aV \u2014
 p6865
-aV \u2014
+aV Erica
 p6866
 aV Sylvia
 p6867
-aV \u2014
+aV Erica
 p6868
 aV \u2014
 p6869
 aV \u2014
 p6870
-aV Anthony
+aV Erica
 p6871
-aV \u2014
+aV Sylvia
 p6872
+ag129
 aV Sylvia
 p6873
 aV \u2014
 p6874
-aV Anthony
+aV \u2014
 p6875
 aV Sylvia
 p6876
-aV Earl
+aV \u2014
 p6877
 aV \u2014
 p6878
@@ -18745,26 +18736,26 @@ aV \u2014
 p6879
 aV Anthony
 p6880
-ag129
-ag129
 aV \u2014
 p6881
-aV \u2014
+aV Sylvia
 p6882
 aV \u2014
 p6883
-aV \u2014
+aV Anthony
 p6884
-aV \u2014
+aV Sylvia
 p6885
-aV \u2014
+aV Earl
 p6886
 aV \u2014
 p6887
 aV \u2014
 p6888
-aV \u2014
+aV Anthony
 p6889
+ag129
+ag129
 aV \u2014
 p6890
 aV \u2014
@@ -18777,217 +18768,208 @@ aV \u2014
 p6894
 aV \u2014
 p6895
-aVQuit
+aV \u2014
 p6896
-ag129
-ag129
-ag129
 aV \u2014
 p6897
-aV Lisi
+aV \u2014
 p6898
-aV Liliana
+aV \u2014
 p6899
 aV \u2014
 p6900
-aV Liliana
+aV \u2014
 p6901
-aV Liliana
+aV \u2014
 p6902
-aV Liliana
+aV \u2014
 p6903
 aV \u2014
 p6904
-aV Liliana
+aVQuit
 p6905
+ag129
+ag129
+ag129
 aV \u2014
 p6906
-aV Liliana
+aV Lisi
 p6907
-aV \u2014
+aV Liliana
 p6908
 aV \u2014
 p6909
-aV \u2014
+aV Liliana
 p6910
-aV Cassandra
+aV Liliana
 p6911
-ag129
-ag129
-ag129
-ag129
-aV Rita
+aV Liliana
 p6912
 aV \u2014
 p6913
-aV \u2014
+aV Liliana
 p6914
-aV Rita
-p6915
 aV \u2014
+p6915
+aV Liliana
 p6916
 aV \u2014
 p6917
 aV \u2014
 p6918
-aV Rita
-p6919
 aV \u2014
+p6919
+aV Cassandra
 p6920
-aV Anthony
+ag129
+ag129
+ag129
+ag129
+aV Rita
 p6921
 aV \u2014
 p6922
-aV Rita
+aV \u2014
 p6923
 aV Rita
 p6924
-aV Anthony
+aV \u2014
 p6925
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6926
 aV \u2014
 p6927
-aV Anthony
+aV Rita
 p6928
 aV \u2014
 p6929
-aV \u2014
+aV Anthony
 p6930
 aV \u2014
 p6931
-aV Anthony
+aV Rita
 p6932
-aV Anthony
+aV Rita
 p6933
 aV Anthony
 p6934
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6935
-aVExiled
+aV \u2014
 p6936
 aV Anthony
 p6937
-aV Rocky
+aV \u2014
 p6938
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6939
 aV \u2014
 p6940
-aV Rocky
+aV Anthony
 p6941
-aV \u2014
+aV Anthony
 p6942
-aV \u2014
+aV Anthony
 p6943
 aV \u2014
 p6944
-aV Rocky
+aVExiled
 p6945
-aV Lisi
+aV Anthony
 p6946
 aV Rocky
 p6947
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6948
-aV Rocky
+aV \u2014
 p6949
-aV Lisi
+aV Rocky
 p6950
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p6951
 aV \u2014
 p6952
-aV Lisi
+aV \u2014
 p6953
-aV \u2014
+aV Rocky
 p6954
-aV \u2014
+aV Lisi
 p6955
-aV \u2014
+aV Rocky
 p6956
-aV Lisi
+aV \u2014
 p6957
-aV Lisi
+aV Rocky
 p6958
 aV Lisi
 p6959
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p6960
-aV Dreamz
+aV \u2014
 p6961
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Lisi
 p6962
 aV \u2014
 p6963
-aV Michelle
+aV \u2014
 p6964
 aV \u2014
 p6965
-aV \u2014
+aV Lisi
 p6966
-aV Michelle
+aV Lisi
 p6967
-aV Michelle
+aV Lisi
 p6968
-aV Stacy
-p6969
 aV \u2014
+p6969
+aV Dreamz
 p6970
-aV Stacy
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p6971
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Edgardo
+aV \u2014
 p6972
-aV Edgardo
+aV Michelle
 p6973
-aV Mookie
+aV \u2014
 p6974
-aV Edgardo
+aV \u2014
 p6975
-aV Edgardo
+aV Michelle
 p6976
-aV Edgardo
+aV Michelle
 p6977
-aV Cassandra
+aV Stacy
 p6978
-aV Cassandra
+aV \u2014
 p6979
-aV Cassandra
+aV Stacy
 p6980
 ag129
 ag129
@@ -18998,116 +18980,98 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Alex
+aV Edgardo
 p6981
-aV Mookie
+aV Edgardo
 p6982
 aV Mookie
 p6983
-aV Alex
+aV Edgardo
 p6984
-aV Alex
+aV Edgardo
 p6985
-aV Mookie
+aV Edgardo
 p6986
-aV Mookie
+aV Cassandra
 p6987
-aV Boo
+aV Cassandra
 p6988
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alex
+aV Cassandra
 p6989
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Alex
 p6990
-aV Alex
+aV Mookie
 p6991
-aV Alex
+aV Mookie
 p6992
 aV Alex
 p6993
 aV Alex
 p6994
-aV Yau-Man
+aV Mookie
 p6995
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Stacy
+aV Mookie
 p6996
-aV Yau-Man
+aV Boo
 p6997
-aV Yau-Man
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Alex
 p6998
-aV Stacy
+aV Alex
 p6999
-aV Yau-Man
+aV Alex
 p7000
-aV Yau-Man
+aV Alex
 p7001
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Boo
+aV Alex
 p7002
-aV Boo
+aV Alex
 p7003
-aV Boo
+aV Yau-Man
 p7004
-aV Boo
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Stacy
 p7005
-aV Dreamz
+aV Yau-Man
 p7006
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Yau-Man
 p7007
-aV Yau-Man
+aV Stacy
 p7008
 aV Yau-Man
 p7009
-aV Cassandra
+aV Yau-Man
 p7010
 ag129
 ag129
@@ -19122,66 +19086,37 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Earl
+aV Boo
 p7011
-aV Earl
+aV Boo
 p7012
-aV Earl
+aV Boo
 p7013
-aV Earl
+aV Boo
 p7014
-aV Earl
+aV Dreamz
 p7015
-aV Earl
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Yau-Man
 p7016
-aV Earl
+aV Yau-Man
 p7017
-aV Earl
+aV Yau-Man
 p7018
-aV Earl
+aV Cassandra
 p7019
 ag129
 ag129
@@ -19190,35 +19125,100 @@ ag129
 ag129
 ag129
 ag129
-atp7020
-ba(lp7021
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Earl
+p7020
+aV Earl
+p7021
+aV Earl
+p7022
+aV Earl
+p7023
+aV Earl
+p7024
+aV Earl
+p7025
+aV Earl
+p7026
+aV Earl
+p7027
+aV Earl
+p7028
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp7029
+ba(lp7030
 g21
 (g22
-(dp7022
+(dp7031
 g24
 g25
 (g26
 (I0
-tp7023
+tp7032
 g28
-tp7024
-Rp7025
+tp7033
+Rp7034
 (I1
 (L19L
-tp7026
+tp7035
 g35
 I00
-(lp7027
-g6768
-ag6769
-ag6770
-ag6771
-ag6772
-ag6773
-ag6774
-ag6775
-ag6776
-ag6777
+(lp7036
+g6777
 ag6778
 ag6779
 ag6780
@@ -19228,43 +19228,52 @@ ag6783
 ag6784
 ag6785
 ag6786
-atp7028
+ag6787
+ag6788
+ag6789
+ag6790
+ag6791
+ag6792
+ag6793
+ag6794
+ag6795
+atp7037
 bsg63
-Nstp7029
-Rp7030
-a(dp7031
+Nstp7038
+Rp7039
+a(dp7040
 g339
-(dp7032
+(dp7041
 g341
-g6761
+g6770
 sg342
-(lp7033
-(dp7034
+(lp7042
+(dp7043
 g345
 g346
 (I0
 I19
 I1
-tp7035
-Rp7036
+tp7044
+Rp7045
 sg349
-g6824
-sasstp7037
+g6833
+sasstp7046
 bsbsg351
 I14
 ssVAfrica
-p7038
-(dp7039
+p7047
+(dp7048
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Africa
-p7040
+p7049
 sg5
 g6
 (g7
 g8
-Ntp7041
-Rp7042
-(dp7043
+Ntp7050
+Rp7051
+(dp7052
 g12
 g13
 sg14
@@ -19273,179 +19282,161 @@ sg16
 g6
 (g17
 g8
-Ntp7044
-Rp7045
-((lp7046
+Ntp7053
+Rp7054
+((lp7055
 g21
 (g22
-(dp7047
+(dp7056
 g24
 g25
 (g26
 (I0
-tp7048
+tp7057
 g28
-tp7049
-Rp7050
+tp7058
+Rp7059
 (I1
 (L18L
-tp7051
+tp7060
 g35
 I00
-(lp7052
+(lp7061
 VDiane
-p7053
-aVJessie
-p7054
-aVCarl
-p7055
-aVCarl
-p7056
-aVLinda
-p7057
-aVSilas
-p7058
-aVLindsey
-p7059
-aVLindsey
-p7060
-aVClarence
-p7061
-aVKelly
 p7062
-aVBrandon
+aVJessie
 p7063
-aVFrank
+aVCarl
 p7064
-aVKim P.
+aVCarl
 p7065
-aVTeresa
+aVLinda
 p7066
-aVTom
+aVSilas
 p7067
-aVLex
+aVLindsey
 p7068
-aVKim J.
+aVLindsey
 p7069
-aVEthan
+aVClarence
 p7070
-atp7071
+aVKelly
+p7071
+aVBrandon
+p7072
+aVFrank
+p7073
+aVKim P.
+p7074
+aVTeresa
+p7075
+aVTom
+p7076
+aVLex
+p7077
+aVKim J.
+p7078
+aVEthan
+p7079
+atp7080
 bsg63
-Nstp7072
-Rp7073
+Nstp7081
+Rp7082
 ag21
 (g22
-(dp7074
+(dp7083
 g24
 g25
 (g26
 (I0
-tp7075
+tp7084
 g28
-tp7076
-Rp7077
+tp7085
+Rp7086
 (I1
 (L16L
-tp7078
+tp7087
 g35
 I00
-(lp7079
+(lp7088
 VEthan
-p7080
-aVKim J.
-p7081
-aVLex
-p7082
-aVTom
-p7083
-aVTeresa
-p7084
-aVKim P.
-p7085
-aVFrank
-p7086
-aVBrandon
-p7087
-aVKelly
-p7088
-aVClarence
 p7089
-aVLindsey
+aVKim J.
 p7090
-aVSilas
+aVLex
 p7091
-aVLinda
+aVTom
 p7092
-aVCarl
+aVTeresa
 p7093
-aVJessie
+aVKim P.
 p7094
-aVDiane
+aVFrank
 p7095
-atp7096
+aVBrandon
+p7096
+aVKelly
+p7097
+aVClarence
+p7098
+aVLindsey
+p7099
+aVSilas
+p7100
+aVLinda
+p7101
+aVCarl
+p7102
+aVJessie
+p7103
+aVDiane
+p7104
+atp7105
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p7097
-tp7098
-Rp7099
-stp7100
-Rp7101
-a(lp7102
+p7106
+tp7107
+Rp7108
+stp7109
+Rp7110
+a(lp7111
 g25
 (g26
 (I0
-tp7103
+tp7112
 g28
-tp7104
-Rp7105
+tp7113
+Rp7114
 (I1
 (L18L
 L16L
-tp7106
+tp7115
 g35
 I00
-(lp7107
+(lp7116
 V Diane
-p7108
-aV Diane
-p7109
-aV Diane
-p7110
-aV Clarence
-p7111
-aV \u2014
-p7112
-aV \u2014
-p7113
-aV \u2014
-p7114
-aV \u2014
-p7115
-aV Diane
-p7116
-aV Diane
 p7117
-aV \u2014
+aV Diane
 p7118
-aV \u2014
+aV Diane
 p7119
-aV \u2014
+aV Clarence
 p7120
 aV \u2014
 p7121
-aV Diane
+aV \u2014
 p7122
-aV Clarence
+aV \u2014
 p7123
-aV Jessie
+aV \u2014
 p7124
-aV Jessie
+aV Diane
 p7125
-aV Jessie
+aV Diane
 p7126
-aV Clarence
+aV \u2014
 p7127
 aV \u2014
 p7128
@@ -19453,224 +19444,218 @@ aV \u2014
 p7129
 aV \u2014
 p7130
-aV \u2014
+aV Diane
 p7131
-aV Jessie
+aV Clarence
 p7132
 aV Jessie
 p7133
-aV \u2014
+aV Jessie
 p7134
-aV \u2014
+aV Jessie
 p7135
-aV \u2014
+aV Clarence
 p7136
 aV \u2014
 p7137
-aV Clarence
+aV \u2014
 p7138
-ag129
 aV \u2014
 p7139
 aV \u2014
 p7140
-aV \u2014
+aV Jessie
 p7141
-aV \u2014
+aV Jessie
 p7142
-aV Lindsey
-p7143
-aV Carl
-p7144
-aV Lindsey
-p7145
-aV Carl
-p7146
 aV \u2014
+p7143
+aV \u2014
+p7144
+aV \u2014
+p7145
+aV \u2014
+p7146
+aV Clarence
 p7147
+ag129
 aV \u2014
 p7148
-aV Carl
+aV \u2014
 p7149
-aV Carl
+aV \u2014
 p7150
-aV Lindsey
+aV \u2014
 p7151
 aV Lindsey
 p7152
-ag129
-ag129
-ag7139
-ag7140
-ag7141
-ag7142
-aV Lindsey
+aV Carl
 p7153
-aV Carl
-p7154
 aV Lindsey
-p7155
+p7154
 aV Carl
+p7155
+aV \u2014
 p7156
-ag7147
-ag7148
-aVNone
+aV \u2014
 p7157
 aV Carl
 p7158
-aV Lindsey
+aV Carl
 p7159
-aVNone
+aV Lindsey
 p7160
-ag129
-ag129
-aV \u2014
+aV Lindsey
 p7161
-aV \u2014
+ag129
+ag129
+ag7148
+ag7149
+ag7150
+ag7151
+aV Lindsey
 p7162
-aV \u2014
+aV Carl
 p7163
-aV \u2014
+aV Lindsey
 p7164
-aV Silas
+aV Carl
 p7165
-aV Linda
+ag7156
+ag7157
+aVNone
 p7166
-aV Silas
+aV Carl
 p7167
-aV Linda
+aV Lindsey
 p7168
-aV \u2014
+aVNone
 p7169
+ag129
+ag129
 aV \u2014
 p7170
-aV Linda
+aV \u2014
 p7171
-aV Linda
+aV \u2014
 p7172
-aV Silas
+aV \u2014
 p7173
-ag129
-ag129
-ag129
 aV Silas
 p7174
-aV Silas
+aV Linda
 p7175
-aV \u2014
-p7176
-aV \u2014
-p7177
 aV Silas
+p7176
+aV Linda
+p7177
+aV \u2014
 p7178
 aV \u2014
 p7179
-aV Silas
+aV Linda
 p7180
-aV \u2014
+aV Linda
 p7181
-aV \u2014
+aV Silas
 p7182
+ag129
+ag129
+ag129
 aV Silas
 p7183
-aV \u2014
+aV Silas
 p7184
-aV Frank
+aV \u2014
 p7185
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p7186
-aV \u2014
+aV Silas
 p7187
-aV Lindsey
+aV \u2014
 p7188
-aV Lindsey
+aV Silas
 p7189
 aV \u2014
 p7190
-aV Tom
-p7191
 aV \u2014
+p7191
+aV Silas
 p7192
-aV Tom
+aV \u2014
 p7193
-aV Lindsey
+aV Frank
 p7194
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p7195
-aV Tom
+aV \u2014
 p7196
-ag129
-ag129
-ag129
-ag129
-ag129
-ag7186
-ag7187
 aV Lindsey
 p7197
-aVNone
+aV Lindsey
 p7198
-ag7190
-aV Tom
+aV \u2014
 p7199
-ag7192
 aV Tom
 p7200
-aV Lindsey
+aV \u2014
 p7201
-ag7195
-aVNone
+aV Tom
 p7202
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Clarence
+aV Lindsey
 p7203
-aV Clarence
+aV \u2014
 p7204
-aV Clarence
+aV Tom
 p7205
-aV Clarence
+ag129
+ag129
+ag129
+ag129
+ag129
+ag7195
+ag7196
+aV Lindsey
 p7206
-aV Lex
+aVNone
 p7207
-aV Clarence
+ag7199
+aV Tom
 p7208
-aV Clarence
+ag7201
+aV Tom
 p7209
-aV Clarence
+aV Lindsey
 p7210
-aV Clarence
+ag7204
+aVNone
 p7211
-aV Lex
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Clarence
 p7212
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Kelly
+aV Clarence
 p7213
-aV Kelly
+aV Clarence
 p7214
-aV Kelly
+aV Clarence
 p7215
-aV Kelly
+aV Lex
 p7216
-aV Lex
+aV Clarence
 p7217
-aV Lex
+aV Clarence
 p7218
-aV Lex
+aV Clarence
 p7219
-aV Kelly
+aV Clarence
 p7220
 aV Lex
 p7221
@@ -19680,102 +19665,87 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Brandon
+aV Kelly
 p7222
-aV Brandon
+aV Kelly
 p7223
-aV Frank
+aV Kelly
 p7224
-aV Brandon
+aV Kelly
 p7225
-aV Brandon
+aV Lex
 p7226
-aV Brandon
+aV Lex
 p7227
-aV Brandon
+aV Lex
 p7228
-aV Frank
+aV Kelly
 p7229
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Frank
+aV Lex
 p7230
-aV Frank
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Brandon
 p7231
-aV Frank
+aV Brandon
 p7232
 aV Frank
 p7233
-aV Frank
+aV Brandon
 p7234
-aV Frank
+aV Brandon
 p7235
-aV Kim J.
+aV Brandon
 p7236
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Kim P.
+aV Brandon
 p7237
-aV Kim P.
+aV Frank
 p7238
-aV Kim P.
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Frank
 p7239
-aV Kim P.
+aV Frank
 p7240
-aV Lex
+aV Frank
 p7241
-aV Lex
+aV Frank
 p7242
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Teresa
+aV Frank
 p7243
-aV Teresa
+aV Frank
 p7244
-aV Teresa
+aV Kim J.
 p7245
-aV Teresa
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Kim P.
 p7246
-aV Tom
+aV Kim P.
 p7247
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Tom
+aV Kim P.
 p7248
-aV Tom
+aV Kim P.
 p7249
-aV Tom
+aV Lex
 p7250
 aV Lex
 p7251
@@ -19789,36 +19759,15 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-aV \u2014
+aV Teresa
 p7252
-aV Lex
+aV Teresa
 p7253
-aV \u2014
+aV Teresa
 p7254
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag129
-ag129
-ag129
-aV Kim J.
+aV Teresa
 p7255
-ag129
-aV Kim J.
+aV Tom
 p7256
 ag129
 ag129
@@ -19828,20 +19777,35 @@ ag129
 ag129
 ag129
 ag129
-ag319
-ag319
-aV Ethan
-p7257
-aV Ethan
-p7258
-aV Ethan
-p7259
 ag129
-aV Ethan
+ag129
+ag129
+aV Tom
+p7257
+aV Tom
+p7258
+aV Tom
+p7259
+aV Lex
 p7260
 ag129
-aV Ethan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p7261
+aV Lex
+p7262
+aV \u2014
+p7263
 ag129
 ag129
 ag129
@@ -19849,35 +19813,71 @@ ag129
 ag129
 ag129
 ag129
-atp7262
-ba(lp7263
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag129
+ag129
+ag129
+aV Kim J.
+p7264
+ag129
+aV Kim J.
+p7265
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+aV Ethan
+p7266
+aV Ethan
+p7267
+aV Ethan
+p7268
+ag129
+aV Ethan
+p7269
+ag129
+aV Ethan
+p7270
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp7271
+ba(lp7272
 g21
 (g22
-(dp7264
+(dp7273
 g24
 g25
 (g26
 (I0
-tp7265
+tp7274
 g28
-tp7266
-Rp7267
+tp7275
+Rp7276
 (I1
 (L18L
-tp7268
+tp7277
 g35
 I00
-(lp7269
-g7053
-ag7054
-ag7055
-ag7056
-ag7057
-ag7058
-ag7059
-ag7060
-ag7061
-ag7062
+(lp7278
+g7062
 ag7063
 ag7064
 ag7065
@@ -19886,43 +19886,52 @@ ag7067
 ag7068
 ag7069
 ag7070
-atp7270
+ag7071
+ag7072
+ag7073
+ag7074
+ag7075
+ag7076
+ag7077
+ag7078
+ag7079
+atp7279
 bsg63
-Nstp7271
-Rp7272
-a(dp7273
+Nstp7280
+Rp7281
+a(dp7282
 g339
-(dp7274
+(dp7283
 g341
-g7046
+g7055
 sg342
-(lp7275
-(dp7276
+(lp7284
+(dp7285
 g345
 g346
 (I0
 I18
 I1
-tp7277
-Rp7278
+tp7286
+Rp7287
 sg349
-g7105
-sasstp7279
+g7114
+sasstp7288
 bsbsg351
 I3
 ssVSan_Juan_del_Sur
-p7280
-(dp7281
+p7289
+(dp7290
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_San_Juan_del_Sur
-p7282
+p7291
 sg5
 g6
 (g7
 g8
-Ntp7283
-Rp7284
-(dp7285
+Ntp7292
+Rp7293
+(dp7294
 g12
 g13
 sg14
@@ -19931,183 +19940,165 @@ sg16
 g6
 (g17
 g8
-Ntp7286
-Rp7287
-((lp7288
+Ntp7295
+Rp7296
+((lp7297
 g21
 (g22
-(dp7289
+(dp7298
 g24
 g25
 (g26
 (I0
-tp7290
+tp7299
 g28
-tp7291
-Rp7292
+tp7300
+Rp7301
 (I1
 (L20L
-tp7293
+tp7302
 g35
 I00
-(lp7294
+(lp7303
 VNadiya
-p7295
-aVVal
-p7296
-aVVal
-p7297
-aVJohn
-p7298
-aVDrew
-p7299
-aVKelley
-p7300
-aVDale
-p7301
-aVJulie
-p7302
-aVJosh
-p7303
-aVJeremy
 p7304
-aVWes
+aVVal
 p7305
-aVReed
+aVVal
 p7306
-aVAlec
+aVJohn
 p7307
-aVJon
+aVDrew
 p7308
-aVJon
+aVKelley
 p7309
-aVBaylor
+aVDale
 p7310
-aVKeith
+aVJulie
 p7311
-aVMissy
+aVJosh
 p7312
-aVJaclyn
+aVJeremy
 p7313
-aVNatalie
+aVWes
 p7314
-atp7315
+aVReed
+p7315
+aVAlec
+p7316
+aVJon
+p7317
+aVJon
+p7318
+aVBaylor
+p7319
+aVKeith
+p7320
+aVMissy
+p7321
+aVJaclyn
+p7322
+aVNatalie
+p7323
+atp7324
 bsg63
-Nstp7316
-Rp7317
+Nstp7325
+Rp7326
 ag21
 (g22
-(dp7318
+(dp7327
 g24
 g25
 (g26
 (I0
-tp7319
+tp7328
 g28
-tp7320
-Rp7321
+tp7329
+Rp7330
 (I1
 (L18L
-tp7322
+tp7331
 g35
 I00
-(lp7323
+(lp7332
 VNatalie
-p7324
-aVJaclyn
-p7325
-aVMissy
-p7326
-aVKeith
-p7327
-aVBaylor
-p7328
-aVJon
-p7329
-aVAlec
-p7330
-aVReed
-p7331
-aVWes
-p7332
-aVJeremy
 p7333
-aVJosh
+aVJaclyn
 p7334
-aVJulie
+aVMissy
 p7335
-aVDale
+aVKeith
 p7336
-aVKelley
+aVBaylor
 p7337
-aVDrew
+aVJon
 p7338
-aVJohn
+aVAlec
 p7339
-aVVal
+aVReed
 p7340
-aVNadiya
+aVWes
 p7341
-atp7342
+aVJeremy
+p7342
+aVJosh
+p7343
+aVJulie
+p7344
+aVDale
+p7345
+aVKelley
+p7346
+aVDrew
+p7347
+aVJohn
+p7348
+aVVal
+p7349
+aVNadiya
+p7350
+atp7351
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p7343
-tp7344
-Rp7345
-stp7346
-Rp7347
-a(lp7348
+p7352
+tp7353
+Rp7354
+stp7355
+Rp7356
+a(lp7357
 g25
 (g26
 (I0
-tp7349
+tp7358
 g28
-tp7350
-Rp7351
+tp7359
+Rp7360
 (I1
 (L20L
 L18L
-tp7352
+tp7361
 g35
 I00
-(lp7353
+(lp7362
 V \u2014
-p7354
-aV Dale
-p7355
-aV \u2014
-p7356
-aV \u2014
-p7357
-aV Nadiya
-p7358
-aV \u2014
-p7359
-aV Nadiya
-p7360
-aV \u2014
-p7361
-aV Nadiya
-p7362
-aV \u2014
 p7363
-aV Baylor
+aV Dale
 p7364
 aV \u2014
 p7365
-aV Nadiya
-p7366
 aV \u2014
+p7366
+aV Nadiya
 p7367
 aV \u2014
 p7368
 aV Nadiya
 p7369
-aV Dale
+aV \u2014
 p7370
-aV Dale
+aV Nadiya
 p7371
 aV \u2014
 p7372
@@ -20115,194 +20106,189 @@ aV Baylor
 p7373
 aV \u2014
 p7374
-aV \u2014
+aV Nadiya
 p7375
-aV Val
+aV \u2014
 p7376
 aV \u2014
 p7377
-aV Baylor
+aV Nadiya
 p7378
-aV \u2014
+aV Dale
 p7379
-aV Val
+aV Dale
 p7380
 aV \u2014
 p7381
-aV Val
+aV Baylor
 p7382
 aV \u2014
 p7383
-aV Val
-p7384
 aV \u2014
+p7384
+aV Val
 p7385
 aV \u2014
 p7386
 aV Baylor
 p7387
-aV Baylor
+aV \u2014
 p7388
-ag129
-ag7372
-aV Baylor
+aV Val
 p7389
-ag7374
-ag7375
-aV None
+aV \u2014
 p7390
-ag7377
 aV Val
 p7391
-ag7379
-aV Val
+aV \u2014
 p7392
-ag7381
 aV Val
 p7393
-ag7383
-aV Val
+aV \u2014
 p7394
-ag7385
+aV \u2014
+p7395
+aV Baylor
+p7396
+aV Baylor
+p7397
+ag129
+ag7381
+aV Baylor
+p7398
+ag7383
+ag7384
+aV None
+p7399
 ag7386
 aV Val
-p7395
-aV None
-p7396
-ag129
-aV \u2014
-p7397
-aV John
-p7398
-aV \u2014
-p7399
-aV \u2014
 p7400
-aV John
+ag7388
+aV Val
 p7401
-aV \u2014
+ag7390
+aV Val
 p7402
-aV John
+ag7392
+aV Val
 p7403
-aV \u2014
+ag7394
+ag7395
+aV Val
 p7404
-aV John
+aV None
 p7405
+ag129
 aV \u2014
 p7406
 aV John
 p7407
 aV \u2014
 p7408
-aV Baylor
-p7409
 aV \u2014
+p7409
+aV John
 p7410
 aV \u2014
 p7411
-aV Baylor
+aV John
 p7412
-ag129
-ag129
-aV Drew
-p7413
 aV \u2014
+p7413
+aV John
 p7414
-aV Drew
+aV \u2014
 p7415
-aV Julie
+aV John
 p7416
 aV \u2014
 p7417
-aV Keith
+aV Baylor
 p7418
 aV \u2014
 p7419
-aV Julie
-p7420
 aV \u2014
+p7420
+aV Baylor
 p7421
+ag129
+ag129
 aV Drew
 p7422
 aV \u2014
 p7423
 aV Drew
 p7424
-aV \u2014
+aV Julie
 p7425
-aV Drew
+aV \u2014
 p7426
-aV Kelley
+aV Keith
 p7427
-ag129
-ag129
-ag129
 aV \u2014
 p7428
-aV Kelley
+aV Julie
 p7429
-aV Kelley
+aV \u2014
 p7430
-aV Dale
+aV Drew
 p7431
-aV Kelley
+aV \u2014
 p7432
-aV Dale
+aV Drew
 p7433
 aV \u2014
 p7434
-aV \u2014
+aV Drew
 p7435
-aV \u2014
+aV Kelley
 p7436
+ag129
+ag129
+ag129
 aV \u2014
 p7437
-aV \u2014
+aV Kelley
 p7438
-aV \u2014
+aV Kelley
 p7439
-aV Baylor
+aV Dale
 p7440
-aV Baylor
+aV Kelley
 p7441
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Dale
 p7442
-aV Dale
+aV \u2014
 p7443
-aV Keith
+aV \u2014
 p7444
-aV Dale
+aV \u2014
 p7445
-aV Keith
+aV \u2014
 p7446
-aV Dale
+aV \u2014
 p7447
 aV \u2014
 p7448
-aV \u2014
+aV Baylor
 p7449
-aV \u2014
+aV Baylor
 p7450
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p7451
-aV \u2014
+aV Dale
 p7452
-aV \u2014
+aV Keith
 p7453
-aV Missy
+aV Dale
 p7454
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Keith
 p7455
-aV \u2014
+aV Dale
 p7456
 aV \u2014
 p7457
@@ -20316,94 +20302,91 @@ aV \u2014
 p7461
 aV \u2014
 p7462
-aV \u2014
+aV Missy
 p7463
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p7464
 aV \u2014
 p7465
-aV Quit
+aV \u2014
 p7466
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Josh
+aV \u2014
 p7467
-aV Josh
+aV \u2014
 p7468
-aV Josh
+aV \u2014
 p7469
-aV Baylor
+aV \u2014
 p7470
-aV Josh
+aV \u2014
 p7471
-aV Josh
+aV \u2014
 p7472
-aV Baylor
+aV \u2014
 p7473
-aV Baylor
+aV \u2014
 p7474
-aV Baylor
+aV Quit
 p7475
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Josh
 p7476
-aV Baylor
+aV Josh
 p7477
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Keith
+aV Josh
 p7478
-aV Jeremy
+aV Baylor
 p7479
-aV Jeremy
+aV Josh
 p7480
-aV Reed
+aV Josh
 p7481
-aV Jeremy
+aV Baylor
 p7482
-aV Jeremy
+aV Baylor
 p7483
-aV Reed
+aV Baylor
 p7484
-aV Jeremy
+aV Josh
 p7485
-aV Reed
+aV Baylor
 p7486
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Keith
 p7487
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Keith
+aV Jeremy
 p7488
-aV Wes
+aV Jeremy
 p7489
-aV Keith
+aV Reed
 p7490
-aV Jon
+aV Jeremy
 p7491
-aV Keith
+aV Jeremy
 p7492
-aV Wes
+aV Reed
 p7493
-aV Jon
+aV Jeremy
 p7494
-aV Jon
+aV Reed
 p7495
-aV Jon
+aV Keith
 p7496
 ag129
 ag129
@@ -20413,136 +20396,119 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Reed
+aV Keith
 p7497
-aV Reed
+aV Wes
 p7498
-aV Reed
+aV Keith
 p7499
-aV Reed
+aV Jon
 p7500
-aV Reed
+aV Keith
 p7501
-aV Reed
+aV Wes
 p7502
-aV Reed
+aV Jon
 p7503
-aV Missy
+aV Jon
 p7504
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Alec
+aV Jon
 p7505
-aV Keith
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Reed
 p7506
-aV Alec
+aV Reed
 p7507
-aV Alec
+aV Reed
 p7508
-aV Alec
+aV Reed
 p7509
-aV Keith
+aV Reed
 p7510
-aV Keith
+aV Reed
 p7511
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jon
+aV Reed
 p7512
-aV Keith
-p7513
-aV Jaclyn
-p7514
-aV Jon
-p7515
-aV Jaclyn
-p7516
-aV Keith
-p7517
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jon
-p7518
-aV None
-p7519
-aV Jaclyn
-p7520
-aV None
-p7521
-aV Jon
-p7522
-aV None
-p7523
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Baylor
-p7524
-aV Baylor
-p7525
-aV Jaclyn
-p7526
-aV Jaclyn
-p7527
-aV Jaclyn
-p7528
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Keith
-p7529
-aV Keith
-p7530
-aV Keith
-p7531
 aV Missy
+p7513
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Alec
+p7514
+aV Keith
+p7515
+aV Alec
+p7516
+aV Alec
+p7517
+aV Alec
+p7518
+aV Keith
+p7519
+aV Keith
+p7520
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jon
+p7521
+aV Keith
+p7522
+aV Jaclyn
+p7523
+aV Jon
+p7524
+aV Jaclyn
+p7525
+aV Keith
+p7526
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jon
+p7527
+aV None
+p7528
+aV Jaclyn
+p7529
+aV None
+p7530
+aV Jon
+p7531
+aV None
 p7532
 ag129
 ag129
@@ -20556,6 +20522,49 @@ ag129
 ag129
 ag129
 ag129
+aV Baylor
+p7533
+aV Baylor
+p7534
+aV Jaclyn
+p7535
+aV Jaclyn
+p7536
+aV Jaclyn
+p7537
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Keith
+p7538
+aV Keith
+p7539
+aV Keith
+p7540
+aV Missy
+p7541
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 ag129
 ag129
 ag319
@@ -20563,7 +20572,7 @@ ag319
 ag319
 ag129
 aV Missy
-p7533
+p7542
 ag129
 ag129
 ag129
@@ -20583,10 +20592,10 @@ ag319
 ag129
 ag129
 aV Jaclyn
-p7534
+p7543
 ag129
 aV Jaclyn
-p7535
+p7544
 ag129
 ag129
 ag129
@@ -20601,18 +20610,18 @@ ag319
 ag319
 ag319
 aV Natalie
-p7536
+p7545
 ag129
 ag129
 aV Natalie
-p7537
+p7546
 ag129
 aV Natalie
-p7538
+p7547
 aV Natalie
-p7539
+p7548
 aV Natalie
-p7540
+p7549
 ag129
 ag129
 ag129
@@ -20620,35 +20629,26 @@ ag129
 ag129
 ag129
 ag129
-atp7541
-ba(lp7542
+atp7550
+ba(lp7551
 g21
 (g22
-(dp7543
+(dp7552
 g24
 g25
 (g26
 (I0
-tp7544
+tp7553
 g28
-tp7545
-Rp7546
+tp7554
+Rp7555
 (I1
 (L20L
-tp7547
+tp7556
 g35
 I00
-(lp7548
-g7295
-ag7296
-ag7297
-ag7298
-ag7299
-ag7300
-ag7301
-ag7302
-ag7303
-ag7304
+(lp7557
+g7304
 ag7305
 ag7306
 ag7307
@@ -20659,43 +20659,52 @@ ag7311
 ag7312
 ag7313
 ag7314
-atp7549
+ag7315
+ag7316
+ag7317
+ag7318
+ag7319
+ag7320
+ag7321
+ag7322
+ag7323
+atp7558
 bsg63
-Nstp7550
-Rp7551
-a(dp7552
+Nstp7559
+Rp7560
+a(dp7561
 g339
-(dp7553
+(dp7562
 g341
-g7288
+g7297
 sg342
-(lp7554
-(dp7555
+(lp7563
+(dp7564
 g345
 g346
 (I0
 I20
 I1
-tp7556
-Rp7557
+tp7565
+Rp7566
 sg349
-g7351
-sasstp7558
+g7360
+sasstp7567
 bsbsg351
 I29
 ssVCook_Islands
-p7559
-(dp7560
+p7568
+(dp7569
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Cook_Islands
-p7561
+p7570
 sg5
 g6
 (g7
 g8
-Ntp7562
-Rp7563
-(dp7564
+Ntp7571
+Rp7572
+(dp7573
 g12
 g13
 sg14
@@ -20704,201 +20713,183 @@ sg16
 g6
 (g17
 g8
-Ntp7565
-Rp7566
-((lp7567
+Ntp7574
+Rp7575
+((lp7576
 g21
 (g22
-(dp7568
+(dp7577
 g24
 g25
 (g26
 (I0
-tp7569
+tp7578
 g28
-tp7570
-Rp7571
+tp7579
+Rp7580
 (I1
 (L20L
-tp7572
+tp7581
 g35
 I00
-(lp7573
+(lp7582
 VSekou
-p7574
-aVBilly
-p7575
-aVCecilia
-p7576
-aVJ.P.
-p7577
-aVStephannie
-p7578
-aVCao Boi
-p7579
-aVCristina
-p7580
-aVJessica
-p7581
-aVBrad
-p7582
-aVRebecca
 p7583
-aVJenny
+aVBilly
 p7584
-aVNate
+aVCecilia
 p7585
-aVCandice
+aVJ.P.
 p7586
-aVJonathan
+aVStephannie
 p7587
-aVParvati
+aVCao Boi
 p7588
-aVAdam
+aVCristina
 p7589
-aVSundra
+aVJessica
 p7590
-aVBecky
+aVBrad
 p7591
-aVOzzy
+aVRebecca
 p7592
-aVYul
+aVJenny
 p7593
-atp7594
+aVNate
+p7594
+aVCandice
+p7595
+aVJonathan
+p7596
+aVParvati
+p7597
+aVAdam
+p7598
+aVSundra
+p7599
+aVBecky
+p7600
+aVOzzy
+p7601
+aVYul
+p7602
+atp7603
 bsg63
-Nstp7595
-Rp7596
+Nstp7604
+Rp7605
 ag21
 (g22
-(dp7597
+(dp7606
 g24
 g25
 (g26
 (I0
-tp7598
+tp7607
 g28
-tp7599
-Rp7600
+tp7608
+Rp7609
 (I1
 (L20L
-tp7601
+tp7610
 g35
 I00
-(lp7602
+(lp7611
 VYul
-p7603
-aVOzzy
-p7604
-aVBecky
-p7605
-aVSundra
-p7606
-aVAdam
-p7607
-aVParvati
-p7608
-aVJonathan
-p7609
-aVCandice
-p7610
-aVNate
-p7611
-aVJenny
 p7612
-aVRebecca
+aVOzzy
 p7613
-aVBrad
+aVBecky
 p7614
-aVJessica
+aVSundra
 p7615
-aVCristina
+aVAdam
 p7616
-aVCao Boi
+aVParvati
 p7617
-aVStephannie
+aVJonathan
 p7618
-aVJ.P.
+aVCandice
 p7619
-aVCecilia
+aVNate
 p7620
-aVBilly
+aVJenny
 p7621
-aVSekou
+aVRebecca
 p7622
-atp7623
+aVBrad
+p7623
+aVJessica
+p7624
+aVCristina
+p7625
+aVCao Boi
+p7626
+aVStephannie
+p7627
+aVJ.P.
+p7628
+aVCecilia
+p7629
+aVBilly
+p7630
+aVSekou
+p7631
+atp7632
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p7624
-tp7625
-Rp7626
-stp7627
-Rp7628
-a(lp7629
+p7633
+tp7634
+Rp7635
+stp7636
+Rp7637
+a(lp7638
 g25
 (g26
 (I0
-tp7630
+tp7639
 g28
-tp7631
-Rp7632
+tp7640
+Rp7641
 (I1
 (L20L
 L20L
-tp7633
+tp7642
 g35
 I00
-(lp7634
+(lp7643
 V \u2014
-p7635
-aV \u2014
-p7636
-aV \u2014
-p7637
-aV Sekou
-p7638
-aV \u2014
-p7639
-aV \u2014
-p7640
-aV \u2014
-p7641
-aV \u2014
-p7642
-aV Sundra
-p7643
-aV \u2014
 p7644
-aV Sekou
+aV \u2014
 p7645
 aV \u2014
 p7646
-aV \u2014
+aV Sekou
 p7647
 aV \u2014
 p7648
 aV \u2014
 p7649
-aV Sekou
+aV \u2014
 p7650
 aV \u2014
 p7651
-aV \u2014
+aV Sundra
 p7652
 aV \u2014
 p7653
-aV Sundra
+aV Sekou
 p7654
 aV \u2014
 p7655
-aV Billy
+aV \u2014
 p7656
 aV \u2014
 p7657
 aV \u2014
 p7658
-aV \u2014
+aV Sekou
 p7659
 aV \u2014
 p7660
@@ -20906,352 +20897,342 @@ aV \u2014
 p7661
 aV \u2014
 p7662
-aV \u2014
+aV Sundra
 p7663
 aV \u2014
 p7664
-aV \u2014
+aV Billy
 p7665
 aV \u2014
 p7666
 aV \u2014
 p7667
-aV Billy
+aV \u2014
 p7668
 aV \u2014
 p7669
 aV \u2014
 p7670
-aV Billy
+aV \u2014
 p7671
-aV Billy
+aV \u2014
 p7672
-aV Ozzy
+aV \u2014
 p7673
-ag129
-aV Cecilia
+aV \u2014
 p7674
-aV Becky
+aV \u2014
 p7675
-aV Cecilia
+aV \u2014
 p7676
-aV Becky
+aV Billy
 p7677
 aV \u2014
 p7678
 aV \u2014
 p7679
-aV Cecilia
+aV Billy
 p7680
-aVExiled
+aV Billy
 p7681
-aV \u2014
+aV Ozzy
 p7682
-aV \u2014
-p7683
-aV \u2014
-p7684
-aV \u2014
-p7685
+ag129
 aV Cecilia
+p7683
+aV Becky
+p7684
+aV Cecilia
+p7685
+aV Becky
 p7686
 aV \u2014
 p7687
-aV Cecilia
+aV \u2014
 p7688
-aV \u2014
+aV Cecilia
 p7689
-aV \u2014
+aVExiled
 p7690
-aV Becky
+aV \u2014
 p7691
-ag129
-ag129
 aV \u2014
 p7692
 aV \u2014
 p7693
 aV \u2014
 p7694
-aV \u2014
+aV Cecilia
 p7695
-aV J.P.
+aV \u2014
 p7696
-aV J.P.
+aV Cecilia
 p7697
 aV \u2014
 p7698
 aV \u2014
 p7699
-aV Stephannie
+aV Becky
 p7700
-aV J.P.
+ag129
+ag129
+aV \u2014
 p7701
-aV J.P.
+aV \u2014
 p7702
-aV J.P.
+aV \u2014
 p7703
 aV \u2014
 p7704
 aV J.P.
 p7705
-aV \u2014
-p7706
 aV J.P.
+p7706
+aV \u2014
 p7707
-aV Stephannie
+aV \u2014
 p7708
-ag129
-ag129
-ag129
-aV \u2014
+aV Stephannie
 p7709
-aV \u2014
+aV J.P.
 p7710
-aV \u2014
+aV J.P.
 p7711
-aV \u2014
+aV J.P.
 p7712
-aV Stephannie
+aV \u2014
 p7713
-aV Stephannie
+aV J.P.
 p7714
 aV \u2014
 p7715
-aV \u2014
+aV J.P.
 p7716
 aV Stephannie
 p7717
-aV Stephannie
+ag129
+ag129
+ag129
+aV \u2014
 p7718
-aV Stephannie
+aV \u2014
 p7719
-aV Stephannie
+aV \u2014
 p7720
 aV \u2014
 p7721
 aV Stephannie
 p7722
-aV \u2014
+aV Stephannie
 p7723
-aV Cristina
-p7724
-ag129
-ag129
-ag129
-ag129
-aV Cao Boi
-p7725
-aV Cao Boi
-p7726
-aV Cao Boi
-p7727
-aV Cao Boi
-p7728
 aV \u2014
+p7724
+aV \u2014
+p7725
+aV Stephannie
+p7726
+aV Stephannie
+p7727
+aV Stephannie
+p7728
+aV Stephannie
 p7729
 aV \u2014
 p7730
-aV Cao Boi
+aV Stephannie
 p7731
-aV Cao Boi
+aV \u2014
 p7732
-aV \u2014
+aV Cristina
 p7733
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+aV Cao Boi
 p7734
-aV \u2014
+aV Cao Boi
 p7735
-aV \u2014
+aV Cao Boi
 p7736
-aV Jonathan
+aV Cao Boi
 p7737
 aV \u2014
 p7738
-aV Candice
+aV \u2014
 p7739
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Cao Boi
 p7740
-aV \u2014
+aV Cao Boi
 p7741
 aV \u2014
 p7742
 aV \u2014
 p7743
-aV Cristina
-p7744
-aV Cristina
-p7745
 aV \u2014
+p7744
+aV \u2014
+p7745
+aV Jonathan
 p7746
 aV \u2014
 p7747
-aVKidnapped
+aV Candice
 p7748
-aV Cristina
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p7749
-aV Cristina
+aV \u2014
 p7750
-aV Jenny
+aV \u2014
 p7751
 aV \u2014
 p7752
-aV Jenny
+aV Cristina
 p7753
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jessica
+aV Cristina
 p7754
-aV Jessica
+aV \u2014
 p7755
-aV Jessica
+aV \u2014
 p7756
-aV Jessica
+aVKidnapped
 p7757
-aV \u2014
+aV Cristina
 p7758
-aV \u2014
+aV Cristina
 p7759
-aV Jessica
+aV Jenny
 p7760
-aV Jessica
+aV \u2014
 p7761
-aV \u2014
+aV Jenny
 p7762
-aV \u2014
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jessica
 p7763
-aV \u2014
+aV Jessica
 p7764
-aV \u2014
+aV Jessica
 p7765
-aV Jonathan
+aV Jessica
 p7766
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p7767
 aV \u2014
 p7768
-aV \u2014
+aV Jessica
 p7769
-aV \u2014
+aV Jessica
 p7770
-aV Brad
+aV \u2014
 p7771
-aV Brad
+aV \u2014
 p7772
-aV Brad
+aV \u2014
 p7773
-aV Brad
+aV \u2014
 p7774
-aV Brad
-p7775
-aV Brad
-p7776
-aV Brad
-p7777
 aV Jonathan
+p7775
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p7776
+aV \u2014
+p7777
+aV \u2014
 p7778
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p7779
-aV \u2014
+aV Brad
 p7780
-aV \u2014
+aV Brad
 p7781
-aV \u2014
+aV Brad
 p7782
-aV Rebecca
+aV Brad
 p7783
-aV Rebecca
+aV Brad
 p7784
-aV Rebecca
+aV Brad
 p7785
-aV Rebecca
+aV Brad
 p7786
-aV Rebecca
-p7787
-aV Rebecca
-p7788
 aV Jonathan
+p7787
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
+p7788
+aV \u2014
 p7789
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV \u2014
 p7790
 aV \u2014
 p7791
-aV \u2014
+aV Rebecca
 p7792
-aV \u2014
+aV Rebecca
 p7793
-aV Jenny
+aV Rebecca
 p7794
-aV Jenny
+aV Rebecca
 p7795
-aV Jenny
+aV Rebecca
 p7796
-aV Jenny
+aV Rebecca
 p7797
 aV Jonathan
 p7798
-aV Jonathan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV \u2014
 p7799
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Nate
+aV \u2014
 p7800
-aV Nate
+aV \u2014
 p7801
-aV Nate
+aV \u2014
 p7802
-aV Nate
+aV Jenny
 p7803
-aV Yul
+aV Jenny
 p7804
-aV Yul
+aV Jenny
 p7805
-aV Nate
+aV Jenny
 p7806
-aV Yul
+aV Jonathan
 p7807
-aV Yul
+aV Jonathan
 p7808
 ag129
 ag129
@@ -21263,120 +21244,101 @@ ag129
 ag129
 ag129
 ag129
-ag129
-aV Candice
+aV Nate
 p7809
-aV Candice
+aV Nate
 p7810
-aV Candice
+aV Nate
 p7811
-aV Candice
+aV Nate
 p7812
-aV Jonathan
+aV Yul
 p7813
-aV Jonathan
+aV Yul
 p7814
-aV Candice
+aV Nate
 p7815
-aV Jonathan
+aV Yul
 p7816
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jonathan
+aV Yul
 p7817
-aV Jonathan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Candice
 p7818
-aV Jonathan
+aV Candice
 p7819
-aV Jonathan
+aV Candice
 p7820
-aV Jonathan
+aV Candice
 p7821
 aV Jonathan
 p7822
-aV Adam
+aV Jonathan
 p7823
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Parvati
+aV Candice
 p7824
-aV Parvati
+aV Jonathan
 p7825
-aV Parvati
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jonathan
 p7826
-aV Parvati
+aV Jonathan
 p7827
-aV Sundra
+aV Jonathan
 p7828
-aV Sundra
+aV Jonathan
 p7829
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Adam
+aV Jonathan
 p7830
-aV Adam
+aV Jonathan
 p7831
 aV Adam
 p7832
-aV Adam
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Parvati
 p7833
-aV Yul
+aV Parvati
 p7834
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Sundra
+aV Parvati
 p7835
-aV Becky
+aV Parvati
 p7836
 aV Sundra
 p7837
-aV Becky
+aV Sundra
 p7838
 ag129
 ag129
@@ -21392,68 +21354,38 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-aV Ozzy
+aV Adam
 p7839
-ag129
-ag129
-aV Ozzy
+aV Adam
 p7840
-aV Ozzy
+aV Adam
 p7841
-aV Ozzy
+aV Adam
 p7842
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
 aV Yul
 p7843
-aV Yul
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Sundra
 p7844
-ag129
-aV Yul
+aV Becky
 p7845
-aV Yul
+aV Sundra
 p7846
-ag129
-ag129
-ag129
-aV Yul
+aV Becky
 p7847
 ag129
 ag129
@@ -21463,35 +21395,103 @@ ag129
 ag129
 ag129
 ag129
-atp7848
-ba(lp7849
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+aV Ozzy
+p7848
+ag129
+ag129
+aV Ozzy
+p7849
+aV Ozzy
+p7850
+aV Ozzy
+p7851
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Yul
+p7852
+aV Yul
+p7853
+ag129
+aV Yul
+p7854
+aV Yul
+p7855
+ag129
+ag129
+ag129
+aV Yul
+p7856
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp7857
+ba(lp7858
 g21
 (g22
-(dp7850
+(dp7859
 g24
 g25
 (g26
 (I0
-tp7851
+tp7860
 g28
-tp7852
-Rp7853
+tp7861
+Rp7862
 (I1
 (L20L
-tp7854
+tp7863
 g35
 I00
-(lp7855
-g7574
-ag7575
-ag7576
-ag7577
-ag7578
-ag7579
-ag7580
-ag7581
-ag7582
-ag7583
+(lp7864
+g7583
 ag7584
 ag7585
 ag7586
@@ -21502,43 +21502,52 @@ ag7590
 ag7591
 ag7592
 ag7593
-atp7856
+ag7594
+ag7595
+ag7596
+ag7597
+ag7598
+ag7599
+ag7600
+ag7601
+ag7602
+atp7865
 bsg63
-Nstp7857
-Rp7858
-a(dp7859
+Nstp7866
+Rp7867
+a(dp7868
 g339
-(dp7860
+(dp7869
 g341
-g7567
+g7576
 sg342
-(lp7861
-(dp7862
+(lp7870
+(dp7871
 g345
 g346
 (I0
 I20
 I1
-tp7863
-Rp7864
+tp7872
+Rp7873
 sg349
-g7632
-sasstp7865
+g7641
+sasstp7874
 bsbsg351
 I13
 ssVRedemption_Island
-p7866
-(dp7867
+p7875
+(dp7876
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Redemption_Island
-p7868
+p7877
 sg5
 g6
 (g7
 g8
-Ntp7869
-Rp7870
-(dp7871
+Ntp7878
+Rp7879
+(dp7880
 g12
 g13
 sg14
@@ -21547,221 +21556,202 @@ sg16
 g6
 (g17
 g8
-Ntp7872
-Rp7873
-((lp7874
+Ntp7881
+Rp7882
+((lp7883
 g21
 (g22
-(dp7875
+(dp7884
 g24
 g25
 (g26
 (I0
-tp7876
+tp7885
 g28
-tp7877
-Rp7878
+tp7886
+Rp7887
 (I1
 (L21L
-tp7879
+tp7888
 g35
 I00
-(lp7880
+(lp7889
 VFrancesca
-p7881
-aVMatthew
-p7882
-aVRussell
-p7883
-aVRussell
-p7884
-aVKristina
-p7885
-aVKrista
-p7886
-aVStephanie
-p7887
-aVSarita
-p7888
-aVMatthew
-p7889
-aVMike
 p7890
-aVDavid
+aVMatthew
 p7891
-aVJulie
+aVRussell
 p7892
-aVRalph
+aVRussell
 p7893
-aVSteve
+aVKristina
 p7894
-aVAndrea
+aVKrista
 p7895
-aVGrant
+aVStephanie
 p7896
-aVAndrea
+aVSarita
 p7897
-aVAshley
+aVMatthew
 p7898
-aVNatalie
+aVMike
 p7899
-aVPhillip
+aVDavid
 p7900
-aVRob
+aVJulie
 p7901
-atp7902
+aVRalph
+p7902
+aVSteve
+p7903
+aVAndrea
+p7904
+aVGrant
+p7905
+aVAndrea
+p7906
+aVAshley
+p7907
+aVNatalie
+p7908
+aVPhillip
+p7909
+aVRob
+p7910
+atp7911
 bsg63
-Nstp7903
-Rp7904
+Nstp7912
+Rp7913
 ag21
 (g22
-(dp7905
+(dp7914
 g24
 g25
 (g26
 (I0
-tp7906
+tp7915
 g28
-tp7907
-Rp7908
+tp7916
+Rp7917
 (I1
 (L18L
-tp7909
+tp7918
 g35
 I00
-(lp7910
+(lp7919
 VRob
-p7911
-aVPhillip
-p7912
-aVNatalie
-p7913
-aVAshley
-p7914
-aVAndrea
-p7915
-aVMike
-p7916
-aVMatthew
-p7917
-aVGrant
-p7918
-aV Ralph
-p7919
-aVSteve
 p7920
-aVJulie
+aVPhillip
 p7921
-aVDavid
+aVNatalie
 p7922
-aVSarita
+aVAshley
 p7923
-aVStephanie
+aVAndrea
 p7924
-aVKrista
+aVMike
 p7925
-aVKristina
+aVMatthew
 p7926
-aVRussell
+aVGrant
 p7927
-aVFrancesca
+aV Ralph
 p7928
-atp7929
+aVSteve
+p7929
+aVJulie
+p7930
+aVDavid
+p7931
+aVSarita
+p7932
+aVStephanie
+p7933
+aVKrista
+p7934
+aVKristina
+p7935
+aVRussell
+p7936
+aVFrancesca
+p7937
+atp7938
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p7930
-tp7931
-Rp7932
-stp7933
-Rp7934
-a(lp7935
+p7939
+tp7940
+Rp7941
+stp7942
+Rp7943
+a(lp7944
 g25
 (g26
 (I0
-tp7936
+tp7945
 g28
-tp7937
-Rp7938
+tp7946
+Rp7947
 (I1
 (L21L
 L18L
-tp7939
+tp7948
 g35
 I00
-(lp7940
+(lp7949
 V Francesca
-p7941
-aV Francesca
-p7942
-aV Kristina
-p7943
-aV Kristina
-p7944
-aV Kristina
-p7945
-aV \u2014
-p7946
-aV Francesca
-p7947
-aV Francesca
-p7948
-aV \u2014
-p7949
-aV \u2014
 p7950
-aV \u2014
+aV Francesca
 p7951
-aV \u2014
+aV Kristina
 p7952
-aV \u2014
+aV Kristina
 p7953
-aV \u2014
+aV Kristina
 p7954
 aV \u2014
 p7955
-aV Phillip
+aV Francesca
 p7956
-aV \u2014
+aV Francesca
 p7957
-aV Phillip
+aV \u2014
 p7958
-aV Matthew
+aV \u2014
 p7959
-aV Kristina
+aV \u2014
 p7960
-aV Matthew
+aV \u2014
 p7961
-aV Matthew
+aV \u2014
 p7962
-aV Kristina
+aV \u2014
 p7963
 aV \u2014
 p7964
 aV Phillip
 p7965
-aV Matthew
+aV \u2014
 p7966
-aV \u2014
+aV Phillip
 p7967
-aV \u2014
+aV Matthew
 p7968
-aV \u2014
+aV Kristina
 p7969
-aV \u2014
+aV Matthew
 p7970
-aV \u2014
+aV Matthew
 p7971
-aV \u2014
+aV Kristina
 p7972
 aV \u2014
 p7973
 aV Phillip
 p7974
-aV \u2014
+aV Matthew
 p7975
-ag4552
 aV \u2014
 p7976
 aV \u2014
@@ -21772,91 +21762,90 @@ aV \u2014
 p7979
 aV \u2014
 p7980
-aV Russell
+aV \u2014
 p7981
-ag4552
 aV \u2014
 p7982
-aV Russell
+aV Phillip
 p7983
-aV Stephanie
-p7984
-aV Stephanie
-p7985
-aV Russell
-p7986
-aV Stephanie
-p7987
-aV Ralph
-p7988
-aV Ralph
-p7989
 aV \u2014
+p7984
+ag4561
+aV \u2014
+p7985
+aV \u2014
+p7986
+aV \u2014
+p7987
+aV \u2014
+p7988
+aV \u2014
+p7989
+aV Russell
 p7990
-aV Ralph
+ag4561
+aV \u2014
 p7991
-ag4552
-ag7976
-ag7977
-ag7978
-ag7979
-ag7980
 aV Russell
 p7992
-ag4552
-ag7982
-aVNone
+aV Stephanie
 p7993
-aV Russell
+aV Stephanie
 p7994
 aV Russell
 p7995
-aV Russell
+aV Stephanie
 p7996
-aV Russell
-p7997
-aVNone
-p7998
 aV Ralph
+p7997
+aV Ralph
+p7998
+aV \u2014
 p7999
-ag7990
-aVNone
+aV Ralph
 p8000
-ag4552
-aV Phillip
+ag4561
+ag7985
+ag7986
+ag7987
+ag7988
+ag7989
+aV Russell
 p8001
-aV Kristina
+ag4561
+ag7991
+aVNone
 p8002
-aV Kristina
+aV Russell
 p8003
-aV Kristina
+aV Russell
 p8004
-aV Kristina
+aV Russell
 p8005
-aV \u2014
+aV Russell
 p8006
-ag4552
-aV Phillip
+aVNone
 p8007
-aV \u2014
+aV Ralph
 p8008
-aV \u2014
+ag7999
+aVNone
 p8009
-aV \u2014
-p8010
-aV \u2014
-p8011
-aV \u2014
-p8012
-aV \u2014
-p8013
-aV\u2014
-p8014
+ag4561
 aV Phillip
-p8015
-ag4552
-ag129
+p8010
+aV Kristina
+p8011
+aV Kristina
+p8012
+aV Kristina
+p8013
+aV Kristina
+p8014
 aV \u2014
+p8015
+ag4561
+aV Phillip
 p8016
 aV \u2014
 p8017
@@ -21866,314 +21855,334 @@ aV \u2014
 p8019
 aV \u2014
 p8020
-aV Krista
+aV \u2014
 p8021
-ag4552
 aV \u2014
 p8022
-aV Krista
+aV\u2014
 p8023
-aV Krista
+aV Phillip
 p8024
-aV Krista
-p8025
-aV Krista
-p8026
-aV Krista
-p8027
-aV Steve
-p8028
-aV Steve
-p8029
-ag4552
-ag129
+ag4561
 ag129
 aV \u2014
+p8025
+aV \u2014
+p8026
+aV \u2014
+p8027
+aV \u2014
+p8028
+aV \u2014
+p8029
+aV Krista
 p8030
+ag4561
 aV \u2014
 p8031
-aV \u2014
+aV Krista
 p8032
-aV \u2014
+aV Krista
 p8033
-aV \u2014
+aV Krista
 p8034
-aV Stephanie
+aV Krista
 p8035
-ag4552
-aV \u2014
+aV Krista
 p8036
-aV Stephanie
+aV Steve
 p8037
-aV Stephanie
+aV Steve
 p8038
-aV Stephanie
+ag4561
+ag129
+ag129
+aV \u2014
 p8039
-aV Sarita
+aV \u2014
 p8040
-aV Stephanie
+aV \u2014
 p8041
-aV Sarita
+aV \u2014
 p8042
-ag4552
-ag129
-ag129
-ag129
 aV \u2014
 p8043
-aV \u2014
+aV Stephanie
 p8044
+ag4561
 aV \u2014
 p8045
-aV \u2014
+aV Stephanie
 p8046
-aV \u2014
+aV Stephanie
 p8047
-aV Sarita
+aV Stephanie
 p8048
-ag4552
-aV \u2014
+aV Sarita
 p8049
-aV David
+aV Stephanie
 p8050
 aV Sarita
 p8051
-aV Sarita
+ag4561
+ag129
+ag129
+ag129
+aV \u2014
 p8052
-aV Sarita
+aV \u2014
 p8053
-aV David
+aV \u2014
 p8054
-ag4552
-ag129
-ag129
-ag129
-ag129
-aV Matthew
+aV \u2014
 p8055
-aV Matthew
+aV \u2014
 p8056
-aV Matthew
+aV Sarita
 p8057
-aV Matthew
+ag4561
+aV \u2014
 p8058
-aV Matthew
+aV David
 p8059
-aV Grant
+aV Sarita
 p8060
-aV Steve
+aV Sarita
 p8061
-aV Matthew
+aV Sarita
 p8062
-aV Grant
+aV David
 p8063
-aV Grant
+ag4561
+ag129
+ag129
+ag129
+ag129
+aV Matthew
 p8064
-aV Grant
+aV Matthew
 p8065
-aV Grant
+aV Matthew
 p8066
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Mike
+aV Matthew
 p8067
-aV Mike
+aV Matthew
 p8068
-aV Mike
+aV Grant
 p8069
-aV Mike
+aV Steve
 p8070
-aV Mike
+aV Matthew
 p8071
-aV Phillip
+aV Grant
 p8072
-ag4552
-aV Mike
+aV Grant
 p8073
-aV Phillip
+aV Grant
 p8074
-aV Phillip
+aV Grant
 p8075
-aV Phillip
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Mike
 p8076
-aV Phillip
+aV Mike
 p8077
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV David
+aV Mike
 p8078
-aV David
+aV Mike
 p8079
-aV David
+aV Mike
 p8080
-aV David
+aV Phillip
 p8081
-aV David
+ag4561
+aV Mike
 p8082
-ag4552
-ag4552
-aV David
+aV Phillip
 p8083
-aV Rob
+aV Phillip
 p8084
-aV Rob
+aV Phillip
 p8085
-aV Rob
+aV Phillip
 p8086
-aV Rob
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV David
 p8087
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Julie
+aV David
 p8088
-aV Julie
+aV David
 p8089
-aV Julie
+aV David
 p8090
-aV Julie
+aV David
 p8091
-aV Julie
+ag4561
+ag4561
+aV David
 p8092
-ag4552
-ag4552
-aV Julie
+aV Rob
 p8093
-aV Phillip
+aV Rob
 p8094
-aV Phillip
+aV Rob
 p8095
-aV Phillip
+aV Rob
 p8096
-ag4552
 ag129
 ag129
 ag129
 ag129
 ag129
 ag129
-aV Ralph
+aV Julie
 p8097
-aV Ralph
+aV Julie
 p8098
-aV Ralph
+aV Julie
 p8099
-aV Ralph
+aV Julie
 p8100
-aV Ralph
+aV Julie
 p8101
-ag4552
-ag4552
-aV Ralph
+ag4561
+ag4561
+aV Julie
 p8102
-aV Rob
-p8103
-aV Rob
-p8104
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Steve
-p8105
-aV Steve
-p8106
-aV Steve
-p8107
-aV Steve
-p8108
-aV Steve
-p8109
-ag4552
-ag4552
-aV Steve
-p8110
-ag4552
-aV Grant
-p8111
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Andrea
-p8112
-aV Andrea
-p8113
-aV Andrea
-p8114
-aV Andrea
-p8115
 aV Phillip
+p8103
+aV Phillip
+p8104
+aV Phillip
+p8105
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Ralph
+p8106
+aV Ralph
+p8107
+aV Ralph
+p8108
+aV Ralph
+p8109
+aV Ralph
+p8110
+ag4561
+ag4561
+aV Ralph
+p8111
+aV Rob
+p8112
+aV Rob
+p8113
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Steve
+p8114
+aV Steve
+p8115
+aV Steve
 p8116
-ag4552
-ag4552
-aV Andrea
+aV Steve
 p8117
-ag4552
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Grant
+aV Steve
 p8118
-aV Grant
+ag4561
+ag4561
+aV Steve
 p8119
+ag4561
 aV Grant
 p8120
-aV Grant
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Andrea
 p8121
-ag4552
-ag4552
-ag4552
-aV Natalie
+aV Andrea
 p8122
-ag4552
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
 aV Andrea
 p8123
 aV Andrea
 p8124
-aV Andrea
+aV Phillip
 p8125
+ag4561
+ag4561
 aV Andrea
 p8126
-aV Rob
+ag4561
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Grant
 p8127
-ag4552
-ag4552
-ag4552
+aV Grant
+p8128
+aV Grant
+p8129
+aV Grant
+p8130
+ag4561
+ag4561
+ag4561
+aV Natalie
+p8131
+ag4561
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Andrea
+p8132
+aV Andrea
+p8133
+aV Andrea
+p8134
+aV Andrea
+p8135
+aV Rob
+p8136
+ag4561
+ag4561
+ag4561
 ag129
 ag129
 ag129
@@ -22229,7 +22238,7 @@ ag129
 ag129
 ag129
 aV Phillip
-p8128
+p8137
 ag129
 ag129
 ag129
@@ -22244,55 +22253,46 @@ ag319
 ag319
 ag319
 aV Rob
-p8129
+p8138
 aV Rob
-p8130
+p8139
 aV Rob
-p8131
+p8140
 aV Rob
-p8132
+p8141
 ag129
 aV Rob
-p8133
+p8142
 aV Rob
-p8134
+p8143
 aV Rob
-p8135
+p8144
 ag129
 ag129
 ag129
 ag129
 ag129
 ag129
-atp8136
-ba(lp8137
+atp8145
+ba(lp8146
 g21
 (g22
-(dp8138
+(dp8147
 g24
 g25
 (g26
 (I0
-tp8139
+tp8148
 g28
-tp8140
-Rp8141
+tp8149
+Rp8150
 (I1
 (L21L
-tp8142
+tp8151
 g35
 I00
-(lp8143
-g7881
-ag7882
-ag7883
-ag7884
-ag7885
-ag7886
-ag7887
-ag7888
-ag7889
-ag7890
+(lp8152
+g7890
 ag7891
 ag7892
 ag7893
@@ -22304,43 +22304,52 @@ ag7898
 ag7899
 ag7900
 ag7901
-atp8144
+ag7902
+ag7903
+ag7904
+ag7905
+ag7906
+ag7907
+ag7908
+ag7909
+ag7910
+atp8153
 bsg63
-Nstp8145
-Rp8146
-a(dp8147
+Nstp8154
+Rp8155
+a(dp8156
 g339
-(dp8148
+(dp8157
 g341
-g7874
+g7883
 sg342
-(lp8149
-(dp8150
+(lp8158
+(dp8159
 g345
 g346
 (I0
 I21
 I1
-tp8151
-Rp8152
+tp8160
+Rp8161
 sg349
-g7938
-sasstp8153
+g7947
+sasstp8162
 bsbsg351
 I22
 ssVNicaragua
-p8154
-(dp8155
+p8163
+(dp8164
 g3
 Vhttp://survivor.wikia.com/wiki/Survivor:_Nicaragua
-p8156
+p8165
 sg5
 g6
 (g7
 g8
-Ntp8157
-Rp8158
-(dp8159
+Ntp8166
+Rp8167
+(dp8168
 g12
 g13
 sg14
@@ -22349,175 +22358,157 @@ sg16
 g6
 (g17
 g8
-Ntp8160
-Rp8161
-((lp8162
+Ntp8169
+Rp8170
+((lp8171
 g21
 (g22
-(dp8163
+(dp8172
 g24
 g25
 (g26
 (I0
-tp8164
+tp8173
 g28
-tp8165
-Rp8166
+tp8174
+Rp8175
 (I1
 (L21L
-tp8167
+tp8176
 g35
 I00
-(lp8168
+(lp8177
 VWendy
-p8169
-aVShannon
-p8170
-aVJimmy J.
-p8171
-aVJimmy T.
-p8172
-aVTyrone
-p8173
-aVKelly B.
-p8174
-aVKelly B.
-p8175
-aVYve
-p8176
-aVJill
-p8177
-aVAlina
 p8178
-aVMarty
+aVShannon
 p8179
-aVBrenda
+aVJimmy J.
 p8180
-aVNaOnka
+aVJimmy T.
 p8181
-aVKelly S.
+aVTyrone
 p8182
-aVBenry
+aVKelly B.
 p8183
-aVJane
+aVKelly B.
 p8184
-aVDan
+aVYve
 p8185
-aVHolly
+aVJill
 p8186
-aVSash
+aVAlina
 p8187
-aVChase
+aVMarty
 p8188
-aVFabio
+aVBrenda
 p8189
-atp8190
+aVNaOnka
+p8190
+aVKelly S.
+p8191
+aVBenry
+p8192
+aVJane
+p8193
+aVDan
+p8194
+aVHolly
+p8195
+aVSash
+p8196
+aVChase
+p8197
+aVFabio
+p8198
+atp8199
 bsg63
-Nstp8191
-Rp8192
+Nstp8200
+Rp8201
 ag21
 (g22
-(dp8193
+(dp8202
 g24
 g25
 (g26
 (I0
-tp8194
+tp8203
 g28
-tp8195
-Rp8196
+tp8204
+Rp8205
 (I1
 (L20L
-tp8197
+tp8206
 g35
 I00
-(lp8198
+(lp8207
 VFabio
-p8199
-aVChase
-p8200
-aVSash
-p8201
-aVHolly
-p8202
-aVDan
-p8203
-aVJane
-p8204
-aVBenry
-p8205
-aVKelly S.
-p8206
-aVNaOnka
-p8207
-aVBrenda
 p8208
-aVMarty
+aVChase
 p8209
-aVAlina
+aVSash
 p8210
-aVJill
+aVHolly
 p8211
-aVYve
+aVDan
 p8212
-aVKelly B.
+aVJane
 p8213
-aVTyrone
+aVBenry
 p8214
-aVJimmy T.
+aVKelly S.
 p8215
-aVJimmy J.
+aVNaOnka
 p8216
-aVShannon
+aVBrenda
 p8217
-aVWendy
+aVMarty
 p8218
-atp8219
+aVAlina
+p8219
+aVJill
+p8220
+aVYve
+p8221
+aVKelly B.
+p8222
+aVTyrone
+p8223
+aVJimmy T.
+p8224
+aVJimmy J.
+p8225
+aVShannon
+p8226
+aVWendy
+p8227
+atp8228
 bsg63
 g93
 (g96
 S'\x01\x00\x00\x00\x00\x00\x00\x00'
-p8220
-tp8221
-Rp8222
-stp8223
-Rp8224
-a(lp8225
+p8229
+tp8230
+Rp8231
+stp8232
+Rp8233
+a(lp8234
 g25
 (g26
 (I0
-tp8226
+tp8235
 g28
-tp8227
-Rp8228
+tp8236
+Rp8237
 (I1
 (L21L
 L20L
-tp8229
+tp8238
 g35
 I00
-(lp8230
+(lp8239
 V \u2014
-p8231
-aV \u2014
-p8232
-aV \u2014
-p8233
-aV Wendy
-p8234
-aV Wendy
-p8235
-aV Wendy
-p8236
-aV \u2014
-p8237
-aV \u2014
-p8238
-aV \u2014
-p8239
-aV \u2014
 p8240
-aV Wendy
+aV \u2014
 p8241
 aV \u2014
 p8242
@@ -22525,78 +22516,78 @@ aV Wendy
 p8243
 aV Wendy
 p8244
-aV \u2014
+aV Wendy
 p8245
-aV Wendy
+aV \u2014
 p8246
-aV Wendy
+aV \u2014
 p8247
-aV Wendy
+aV \u2014
 p8248
 aV \u2014
 p8249
-aV Yve
+aV Wendy
 p8250
-aV Brenda
+aV \u2014
 p8251
-aV Shannon
+aV Wendy
 p8252
-aV Shannon
+aV Wendy
 p8253
 aV \u2014
 p8254
-aV \u2014
+aV Wendy
 p8255
-aV \u2014
+aV Wendy
 p8256
-aV Shannon
+aV Wendy
 p8257
-aV Shannon
-p8258
-aV Shannon
-p8259
-aV Shannon
-p8260
 aV \u2014
-p8261
+p8258
+aV Yve
+p8259
 aV Brenda
+p8260
+aV Shannon
+p8261
+aV Shannon
 p8262
 aV \u2014
 p8263
 aV \u2014
 p8264
-aV Shannon
+aV \u2014
 p8265
-aV \u2014
+aV Shannon
 p8266
-aV \u2014
+aV Shannon
 p8267
-aV \u2014
+aV Shannon
 p8268
-aV Brenda
+aV Shannon
 p8269
-ag129
 aV \u2014
 p8270
-aV \u2014
+aV Brenda
 p8271
 aV \u2014
 p8272
-aV Jimmy J.
+aV \u2014
 p8273
-aV Jimmy J.
+aV Shannon
 p8274
-aV Jimmy J.
+aV \u2014
 p8275
 aV \u2014
 p8276
 aV \u2014
 p8277
-aV \u2014
+aV Brenda
 p8278
+ag129
 aV \u2014
 p8279
-aV Jimmy J.
+aV \u2014
 p8280
 aV \u2014
 p8281
@@ -22604,328 +22595,318 @@ aV Jimmy J.
 p8282
 aV Jimmy J.
 p8283
-aV \u2014
+aV Jimmy J.
 p8284
-aV Jimmy J.
+aV \u2014
 p8285
-aV Jimmy J.
+aV \u2014
 p8286
-aV Dan
+aV \u2014
 p8287
-ag129
-ag129
 aV \u2014
 p8288
-aV \u2014
+aV Jimmy J.
 p8289
 aV \u2014
 p8290
-aV Dan
+aV Jimmy J.
 p8291
-aV Jimmy T.
+aV Jimmy J.
 p8292
-aV Dan
+aV \u2014
 p8293
-aV \u2014
+aV Jimmy J.
 p8294
-aV \u2014
+aV Jimmy J.
 p8295
-aV \u2014
+aV Dan
 p8296
+ag129
+ag129
 aV \u2014
 p8297
-aV Jimmy T.
+aV \u2014
 p8298
 aV \u2014
 p8299
-aV Jimmy T.
+aV Dan
 p8300
 aV Jimmy T.
 p8301
-aV \u2014
-p8302
-aV Jimmy T.
-p8303
 aV Dan
+p8302
+aV \u2014
+p8303
+aV \u2014
 p8304
-ag129
-ag129
-ag129
 aV \u2014
 p8305
-aV Tyrone
-p8306
-ag8290
-aV Tyrone
-p8307
-aV Tyrone
-p8308
 aV \u2014
+p8306
+aV Jimmy T.
+p8307
+aV \u2014
+p8308
+aV Jimmy T.
 p8309
-aV Tyrone
+aV Jimmy T.
 p8310
 aV \u2014
 p8311
-aV Tyrone
+aV Jimmy T.
 p8312
-aV \u2014
+aV Dan
 p8313
+ag129
+ag129
+ag129
 aV \u2014
 p8314
 aV Tyrone
 p8315
-aV \u2014
+ag8299
+aV Tyrone
 p8316
-aV NaOnka
+aV Tyrone
 p8317
 aV \u2014
 p8318
-aV NaOnka
+aV Tyrone
 p8319
-ag129
-ag129
-ag129
-ag129
-aV Kelly B.
-p8320
 aV \u2014
+p8320
+aV Tyrone
 p8321
-aV Marty
+aV \u2014
 p8322
 aV \u2014
 p8323
-aV \u2014
+aV Tyrone
 p8324
-aV Marty
+aV \u2014
 p8325
-aV \u2014
+aV NaOnka
 p8326
-aV Kelly B.
-p8327
 aV \u2014
+p8327
+aV NaOnka
 p8328
+ag129
+ag129
+ag129
+ag129
 aV Kelly B.
 p8329
-aV Brenda
-p8330
 aV \u2014
+p8330
+aV Marty
 p8331
-aV Brenda
+aV \u2014
 p8332
 aV \u2014
 p8333
 aV Marty
 p8334
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Kelly B.
+aV \u2014
 p8335
-ag8321
 aV Kelly B.
 p8336
-ag8323
-ag8324
-aV Marty
+aV \u2014
 p8337
-ag8326
 aV Kelly B.
 p8338
-ag8328
-aV Kelly B.
+aV Brenda
 p8339
-aVNone
+aV \u2014
 p8340
-ag8331
-aV Kelly B.
+aV Brenda
 p8341
-ag8333
-aVNone
+aV \u2014
 p8342
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Marty
 p8343
-aV Yve
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Kelly B.
 p8344
-aV \u2014
+ag8330
+aV Kelly B.
 p8345
-aV Yve
+ag8332
+ag8333
+aV Marty
 p8346
-aV Yve
+ag8335
+aV Kelly B.
 p8347
-aV \u2014
+ag8337
+aV Kelly B.
 p8348
-aV Yve
+aVNone
 p8349
-aV \u2014
+ag8340
+aV Kelly B.
 p8350
-aV Yve
+ag8342
+aVNone
 p8351
+ag129
+ag129
+ag129
+ag129
+ag129
 aV \u2014
 p8352
-aV \u2014
-p8353
 aV Yve
+p8353
+aV \u2014
 p8354
-aV \u2014
+aV Yve
 p8355
-aV Dan
+aV Yve
 p8356
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Marty
+aV \u2014
 p8357
-aV \u2014
+aV Yve
 p8358
-aV Jill
-p8359
 aV \u2014
+p8359
+aV Yve
 p8360
 aV \u2014
 p8361
-aV Marty
+aV \u2014
 p8362
-aV \u2014
+aV Yve
 p8363
-aV Jill
+aV \u2014
 p8364
-aV \u2014
+aV Dan
 p8365
-aV Jill
-p8366
-aV Jane
-p8367
-aV \u2014
-p8368
-aV Jane
-p8369
 ag129
 ag129
 ag129
 ag129
 ag129
 ag129
-ag129
-aV Alina
-p8370
-aV Alina
-p8371
-aV Alina
-p8372
-aV Alina
-p8373
-aV Alina
-p8374
 aV Marty
+p8366
+aV \u2014
+p8367
+aV Jill
+p8368
+aV \u2014
+p8369
+aV \u2014
+p8370
+aV Marty
+p8371
+aV \u2014
+p8372
+aV Jill
+p8373
+aV \u2014
+p8374
+aV Jill
 p8375
-aV Alina
+aV Jane
 p8376
-aV Alina
+aV \u2014
 p8377
-aV Alina
+aV Jane
 p8378
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Alina
 p8379
 aV Alina
 p8380
-aV Marty
+aV Alina
 p8381
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jane
+aV Alina
 p8382
-aV Marty
+aV Alina
 p8383
 aV Marty
 p8384
-aV Marty
+aV Alina
 p8385
-aV Jane
+aV Alina
 p8386
-aV Marty
+aV Alina
 p8387
-aV Jane
+aV Alina
 p8388
-aV Marty
+aV Alina
 p8389
 aV Marty
 p8390
-aV Marty
-p8391
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
 aV Jane
+p8391
+aV Marty
 p8392
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Brenda
+aV Marty
 p8393
-aV Brenda
+aV Marty
 p8394
-aV Brenda
+aV Jane
 p8395
-aV Brenda
+aV Marty
 p8396
-aV Brenda
+aV Jane
 p8397
-aV Brenda
+aV Marty
 p8398
-aV Brenda
+aV Marty
 p8399
-aV Benry
+aV Marty
 p8400
-aV Brenda
+aV Jane
 p8401
-aV NaOnka
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Brenda
 p8402
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV \u2014
+aV Brenda
 p8403
-aV \u2014
+aV Brenda
 p8404
-aV \u2014
+aV Brenda
 p8405
-aV \u2014
+aV Brenda
 p8406
-aV \u2014
+aV Brenda
 p8407
-aV \u2014
+aV Brenda
 p8408
-aV \u2014
+aV Benry
 p8409
-aVQuit
+aV Brenda
 p8410
-aVQuit
+aV NaOnka
 p8411
 ag129
 ag129
@@ -22937,110 +22918,91 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag8403
-ag8404
-ag8405
-ag8406
-ag8407
-ag8408
-ag8409
-ag8410
-ag8411
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Holly
+aV \u2014
 p8412
-aV Benry
+aV \u2014
 p8413
-aV Benry
+aV \u2014
 p8414
-aV Benry
+aV \u2014
 p8415
-aV Fabio
+aV \u2014
 p8416
-aV Benry
+aV \u2014
 p8417
-aV Fabio
+aV \u2014
 p8418
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Jane
+aVQuit
 p8419
-aV Jane
+aVQuit
 p8420
-aV Jane
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag8412
+ag8413
+ag8414
+ag8415
+ag8416
+ag8417
+ag8418
+ag8419
+ag8420
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Holly
 p8421
-aV Jane
+aV Benry
 p8422
-aV Jane
+aV Benry
 p8423
-aV Sash
+aV Benry
 p8424
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Dan
+aV Fabio
 p8425
-aV Dan
+aV Benry
 p8426
-aV Dan
+aV Fabio
 p8427
-aV Dan
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Jane
 p8428
-aV Chase
+aV Jane
 p8429
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-aV Holly
+aV Jane
 p8430
-aV Holly
+aV Jane
 p8431
-aV Holly
+aV Jane
 p8432
 aV Sash
 p8433
@@ -23058,67 +23020,38 @@ ag129
 ag129
 ag129
 ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-aV Chase
+aV Dan
 p8434
-ag129
-aV Chase
+aV Dan
 p8435
-ag129
-ag129
-ag129
-aV Chase
+aV Dan
 p8436
-ag129
-aV Chase
+aV Dan
 p8437
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag129
-ag319
-ag319
-ag319
-ag129
-aV Fabio
+aV Chase
 p8438
 ag129
-aV Fabio
-p8439
-aV Fabio
-p8440
-aV Fabio
-p8441
 ag129
-aV Fabio
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+aV Holly
+p8439
+aV Holly
+p8440
+aV Holly
+p8441
+aV Sash
 p8442
 ag129
 ag129
@@ -23129,35 +23062,102 @@ ag129
 ag129
 ag129
 ag129
-atp8443
-ba(lp8444
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+aV Chase
+p8443
+ag129
+aV Chase
+p8444
+ag129
+ag129
+ag129
+aV Chase
+p8445
+ag129
+aV Chase
+p8446
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag319
+ag319
+ag319
+ag129
+aV Fabio
+p8447
+ag129
+aV Fabio
+p8448
+aV Fabio
+p8449
+aV Fabio
+p8450
+ag129
+aV Fabio
+p8451
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+atp8452
+ba(lp8453
 g21
 (g22
-(dp8445
+(dp8454
 g24
 g25
 (g26
 (I0
-tp8446
+tp8455
 g28
-tp8447
-Rp8448
+tp8456
+Rp8457
 (I1
 (L21L
-tp8449
+tp8458
 g35
 I00
-(lp8450
-g8169
-ag8170
-ag8171
-ag8172
-ag8173
-ag8174
-ag8175
-ag8176
-ag8177
-ag8178
+(lp8459
+g8178
 ag8179
 ag8180
 ag8181
@@ -23169,28 +23169,37 @@ ag8186
 ag8187
 ag8188
 ag8189
-atp8451
+ag8190
+ag8191
+ag8192
+ag8193
+ag8194
+ag8195
+ag8196
+ag8197
+ag8198
+atp8460
 bsg63
-Nstp8452
-Rp8453
-a(dp8454
+Nstp8461
+Rp8462
+a(dp8463
 g339
-(dp8455
+(dp8464
 g341
-g8162
+g8171
 sg342
-(lp8456
-(dp8457
+(lp8465
+(dp8466
 g345
 g346
 (I0
 I21
 I1
-tp8458
-Rp8459
+tp8467
+Rp8468
 sg349
-g8228
-sasstp8460
+g8237
+sasstp8469
 bsbsg351
 I21
 ss.

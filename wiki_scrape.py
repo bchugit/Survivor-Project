@@ -91,12 +91,15 @@ def get_season_info(url):
         
     return seasons
 
-def scrape(url="http://survivor.wikia.com/wiki/Main_Page"):
+def scrape(url="http://survivor.wikia.com/wiki/Main_Page", save_to_disk=True):
     seasons = get_season_info(url)
     
     for i in seasons.keys():
         season = seasons[i]  #A dictionary
         season['votes'], season['num'] = get_voting_results(season['url'])
+    
+    if save_to_disk:
+        pickle.dump( seasons, open( "wiki_scrape.p", "wb" ) )
     
     return seasons
     

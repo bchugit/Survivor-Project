@@ -52,7 +52,8 @@ def votes_correct_against(votes):
         
         # Votes against 
         va = current.value_counts()
-        vadf = pd.DataFrame(va, columns=['votes'])
+        vadf = pd.DataFrame(va)
+        vadf.columns = ['votes']
         tally.loc[tally.index.isin(vadf.index), ['votes_against']] = vadf['votes'] + tally['votes_against']
 
     return tally

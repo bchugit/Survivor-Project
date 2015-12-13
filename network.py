@@ -7,6 +7,28 @@ import pickle
 # Build pandas df of all centrality scores
 # Degree, closeness, betweenness, eigenvector, pagerank
 
+def distance_scores(season, graph):
+    
+    # Take largest connected component
+    g = graph if nx.is_connected(graph) else max(nx.connected_component_subgraphs(graph), key=len)
+    
+    # Ratio of largest connected component subgraph
+    conn = len(max(nx.connected_component_subgraphs(g), key=len)) / float(nx.number_of_nodes(graph))
+    conn = np.round(conn, 3)
+    
+    # Radius, diameter
+    rad = nx.radius(g)
+    diam = nx.diameter(g)
+    
+    # Average eccentricity
+    ecc = np.mean(nx.eccentricity(g).values())
+    ecc = np.round(ecc, 3)
+    
+    # Put it all into a dataframe
+    df = pd.DataFrame([[season,conn,rad,diam,ecc]], columns=['season', 'conn', 'rad', 'diam', 'ecc'])
+    
+    return df
+
 def centrality_scores(vote_matrix, season_graph):
     deg = nx.degree(season_graph)
     deg = {k: round(v,1) for k,v in deg.iteritems()}
@@ -36,29 +58,7 @@ def centrality_scores(vote_matrix, season_graph):
     # Convert table to pandas df
     headers = ['name', 'deg', 'close', 'btw', 'eig', 'page', 'place']
     df = pd.DataFrame(table, columns=headers)
-    df = df.sort(['page', 'eig', 'deg'], ascending=[0, 0, 0])
-    
-    return df
-
-def distance_scores(season, graph):
-    
-    # Take largest connected component
-    g = graph if nx.is_connected(graph) else max(nx.connected_component_subgraphs(graph), key=len)
-    
-    # Ratio of largest connected component subgraph
-    conn = len(max(nx.connected_component_subgraphs(g), key=len)) / float(nx.number_of_nodes(graph))
-    conn = np.round(conn, 3)
-    
-    # Radius, diameter
-    rad = nx.radius(g)
-    diam = nx.diameter(g)
-    
-    # Average eccentricity
-    ecc = np.mean(nx.eccentricity(g).values())
-    ecc = np.round(ecc, 3)
-    
-    # Put it all into a dataframe
-    df = pd.DataFrame([[season,conn,rad,diam,ecc]], columns=['season', 'conn', 'rad', 'diam', 'ecc'])
+    df = df.sort_values(['page', 'eig', 'deg'], ascending=False)
     
     return df
 

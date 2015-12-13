@@ -4,6 +4,7 @@ import make_graphs
 import network
 import numpy as np
 import pickle
+import pandas as pd
 
 def get_season_stats(votes):
     num_episodes = sum(votes.iloc[0, :] != "Jury Vote")
@@ -16,22 +17,72 @@ def get_season_stats(votes):
     return {'num_episodes':  num_episodes,
             'num_finalists': num_finalists,
             'num_jurors'   : num_jurors}
-    
+
+def votes_correct_against(votes):
+
+    l = len(votes.columns)
+
+    tally = pd.DataFrame(index=[votes.index], columns=['votes_correct', 'votes_against'])
+    tally = tally.fillna(0)
+    episodes = []
+   
+    for i in range(0,l):
+        
+        # Count episode numbers
+        episodes.append(i)
+        episodes_cumulative = pd.DataFrame(votes[votes.columns[episodes]])
+        current = episodes_cumulative[episodes_cumulative.columns[i]]
+        
+        # TODO: Split / remove vote-overs
+        # Current workaround ignores these entire votes
+        if len(pd.DataFrame(current).columns) > 1:
+            current = pd.Series(str(np.zeros(l)))
+
+        # Remove whitespace in scraped values
+        current = current.str.strip()
+        
+        # Votes correct (voted for eliminated player)
+        eliminated = current.name
+        vcdf = pd.DataFrame(current, columns=[str(eliminated)])
+        try:
+            correct_vote = vcdf[vcdf[eliminated] == eliminated].index
+        except: 
+            correct_vote=[]
+        tally.loc[tally.index.isin(correct_vote), ['votes_correct']] = tally['votes_correct'] + 1
+        
+        # Votes against 
+        va = current.value_counts()
+        vadf = pd.DataFrame(va, columns=['votes'])
+        tally.loc[tally.index.isin(vadf.index), ['votes_against']] = vadf['votes'] + tally['votes_against']
+
+    return tally
+
 def scores_from_votes(votes):
     
-    # Turn vote matrix into graph object
-    V = process_votes.compare_votes(votes)
+    eliminated_players = votes.columns
     
-    G = make_graphs.make_graph(V)
+    # Turn vote matrix into graph object
+    v = process_votes.compare_votes(votes)
+    
+    g = make_graphs.make_graph(v)
     
     # Calculate scores
-    C = network.centrality_scores(votes, G)
+    scores = network.centrality_scores(votes, g)
+    
+    # Add votes for and against
+    vca = votes_correct_against(votes)
+    scores = scores.join(vca, on='name')
     
     # Binary classification of winners (1) and losers (0)
-    C['place'] = np.where(C['place'] == 1, 1, 0)
-                
-    # Return dataframe
-    return C
+    scores['place'] = np.where(scores['place'] == 1, 1, 0)
+    
+    # Rearrange columns
+    scores = scores[['name','deg','close','btw','eig','page','votes_correct','votes_against','place']]
+    
+    # Filter out eliminated players
+    fltr = [i.strip() not in eliminated_players for i in scores['name']]
+    
+    return scores.loc[fltr, :]
 
 def map_prct_to_episode(prct, num_episodes):
     return int( round(prct * num_episodes, 0) )

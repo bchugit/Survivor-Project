@@ -1,0 +1,32 @@
+def centrality_scores(season, season_graph):
+    deg = nx.degree(season_graph)
+    deg = {k: round(v,1) for k,v in deg.iteritems()}
+
+    close = nx.closeness_centrality(season_graph)
+    close = {k: round(v,3) for k,v in close.iteritems()}
+
+    btw = nx.betweenness_centrality(season_graph)
+    btw = {k: round(v,3) for k,v in btw.iteritems()}
+
+    eig = nx.eigenvector_centrality(season_graph)
+    eig = {k: round(v,3) for k,v in eig.iteritems()}
+    
+    page = nx.pagerank(season_graph)
+    page = {k: round(v,3) for k,v in page.iteritems()}
+
+    # Add contestant placement (rank)
+    order = list(votes[season].columns)
+    place_num = list(range(len(order)))
+    place = {order[i]:i+1 for i in place_num}
+    
+    names = season_graph.nodes()
+
+    # Build a table with centralities 
+    table=[[name, deg[name], close[name], btw[name], eig[name], page[name], place[name]] for name in names]
+
+    # Convert table to pandas df
+    headers = ['name', 'deg', 'close', 'btw', 'eig', 'page', 'place']
+    df = pd.DataFrame(table, columns=headers)
+    df = df.sort(['page', 'eig', 'deg'], ascending=[0, 0, 0])
+    
+    return df

@@ -1,0 +1,59 @@
+# packages in environment at C:\Anaconda\envs\dato-env:
+#
+awscli                    1.6.2                     <pip>
+backports.ssl-match-hostname 3.4.0.2                   <pip>
+bcdoc                     0.12.2                    <pip>
+beautifulsoup4            4.4.1                    py27_0    defaults
+boto                      2.33.0                    <pip>
+botocore                  0.73.0                    <pip>
+certifi                   14.05.14                 py27_0    <unknown>
+colorama                  0.2.5                     <pip>
+cycler                    0.9.0                    py27_0    defaults
+decorator                 4.0.4                    py27_0    defaults
+docutils                  0.12                      <pip>
+graphlab-create           1.7.1                     <pip>
+graphlab-create-license   1.5.2                     <pip>
+ipython                   3.2.1                    py27_0    defaults
+ipython-notebook          3.2.1                    py27_0    defaults
+ipython-qtconsole         3.2.1                    py27_0    defaults
+jinja2                    2.8                      py27_0    defaults
+jmespath                  0.5.0                     <pip>
+jpeg                      8d                        vc9_0  [vc9]  defaults
+jsonschema                2.4.0                    py27_0    <unknown>
+libpng                    1.6.17                    vc9_1  [vc9]  defaults
+librato-metrics           0.4.9                     <pip>
+libtiff                   4.0.6                     vc9_1  [vc9]  defaults
+markupsafe                0.23                     py27_0    <unknown>
+matplotlib                1.5.0               np110py27_0    defaults
+mistune                   0.7                      py27_0    defaults
+mixpanel-py               3.1.1                     <pip>
+msvc_runtime              1.0.1                     vc9_0  [vc9]  defaults
+multipledispatch          0.4.8                     <pip>
+networkx                  1.10                     py27_0    defaults
+numpy                     1.10.1                   py27_0    defaults
+openssl                   1.0.2d                    vc9_0  [vc9]  defaults
+pandas                    0.17.1              np110py27_0    defaults
+pip                       7.1.2                    py27_0    defaults
+prettytable               0.7.2                     <pip>
+psutil                    3.3.0                    py27_0    defaults
+pyasn1                    0.1.8                     <pip>
+pygments                  2.0.2                    py27_0    <unknown>
+pyparsing                 2.0.3                    py27_0    <unknown>
+pyqt                      4.11.4                   py27_3    defaults
+pyreadline                2.0                      py27_0    <unknown>
+python                    2.7.10                        4    defaults
+python-dateutil           2.4.2                    py27_0    defaults
+pytz                      2015.7                   py27_0    defaults
+pyzmq                     14.7.0                   py27_0    defaults
+qt                        4.8.7                     vc9_4  [vc9]  defaults
+requests                  2.3.0                     <pip>
+rsa                       3.1.2                     <pip>
+setuptools                18.5                     py27_0    defaults
+sip                       4.16.9                   py27_2    defaults
+six                       1.10.0                   py27_0    defaults
+sseclient                 0.0.8                     <pip>
+ssl_match_hostname        3.4.0.2                  py27_0    <unknown>
+tk                        8.5.18                    vc9_0  [vc9]  defaults
+tornado                   4.2.1                    py27_0    defaults
+wheel                     0.26.0                   py27_1    defaults
+zlib                      1.2.8                     vc9_2  [vc9]  defaults

@@ -70,6 +70,7 @@ def predict_winners(models):
             return_dict['actual_winner'] = actual_winner
             return_dict['predicted_winner'] = predicted_winner
             return_dict['match'] = actual_winner == predicted_winner
+            return_dict['num_remaining'] = df.shape[0]
 
 def predict_season_winners(seasons):
     combined_data = concat_scores(seasons)

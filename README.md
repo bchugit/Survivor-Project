@@ -12,3 +12,5 @@ In this project, we aim to use social network analysis to answer some of the fol
 * Who were the best players of all time?
 
 ##### Please refer to <a href="project_notebook.ipynb">project_notebook.ipynb</a> for a file overview and navigation help.
+
+##### And for the record, as of Dec. 13, we're picking Jeremy to win Cambodia with 6 contestants left!

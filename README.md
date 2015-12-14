@@ -10,3 +10,5 @@ In this project, we aim to use social network analysis to answer some of the fol
 * What is the optimal winning strategy or position in the network?
 * Can winners be accurately predicted?
 * Who were the best players of all time?
+
+##### Please refer to <a href="project_notebook.ipynb">project_notebook.ipynb</a> for a file overview and navigation help.

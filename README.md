@@ -11,3 +11,5 @@ Survivor is a reality game show where 16-20 contestants are put in a remote loca
 * Can winners be accurately predicted over the course of a season?
 
 ##### Please refer to <a href="project_notebook.ipynb">project_notebook.ipynb</a> for a file overview and navigation index.
+
+And for the record, as of Dec. 13, we're picking Jeremy to win Cambodia with 6 contestants left.
